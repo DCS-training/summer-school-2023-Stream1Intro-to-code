@@ -1,1 +1,1 @@
-# summer-school-intro-to-code
+# Summer School Intro to code
