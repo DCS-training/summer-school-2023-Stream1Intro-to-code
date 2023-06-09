@@ -1,0 +1,3201 @@
+,HBName,CAName,Year,InjuryType,NumberofDeaths
+1,NHS Ayrshire and Arran,East Ayrshire,2012,Land transport accidents,2
+2,NHS Ayrshire and Arran,East Ayrshire,2012,Poisoning,19
+3,NHS Ayrshire and Arran,East Ayrshire,2012,Falls,12
+4,NHS Ayrshire and Arran,East Ayrshire,2012,"Struck by,against",0
+5,NHS Ayrshire and Arran,East Ayrshire,2012,Crushing,0
+6,NHS Ayrshire and Arran,East Ayrshire,2012,Scalds,0
+7,NHS Ayrshire and Arran,East Ayrshire,2012,Accidental exposure,2
+8,NHS Ayrshire and Arran,East Ayrshire,2012,Other,1
+10,NHS Ayrshire and Arran,East Ayrshire,2013,Land transport accidents,7
+11,NHS Ayrshire and Arran,East Ayrshire,2013,Poisoning,15
+12,NHS Ayrshire and Arran,East Ayrshire,2013,Falls,15
+13,NHS Ayrshire and Arran,East Ayrshire,2013,"Struck by,against",0
+14,NHS Ayrshire and Arran,East Ayrshire,2013,Crushing,0
+15,NHS Ayrshire and Arran,East Ayrshire,2013,Scalds,0
+16,NHS Ayrshire and Arran,East Ayrshire,2013,Accidental exposure,1
+17,NHS Ayrshire and Arran,East Ayrshire,2013,Other,6
+19,NHS Ayrshire and Arran,East Ayrshire,2014,Land transport accidents,3
+20,NHS Ayrshire and Arran,East Ayrshire,2014,Poisoning,19
+21,NHS Ayrshire and Arran,East Ayrshire,2014,Falls,14
+22,NHS Ayrshire and Arran,East Ayrshire,2014,"Struck by,against",0
+23,NHS Ayrshire and Arran,East Ayrshire,2014,Crushing,0
+24,NHS Ayrshire and Arran,East Ayrshire,2014,Scalds,0
+25,NHS Ayrshire and Arran,East Ayrshire,2014,Accidental exposure,3
+26,NHS Ayrshire and Arran,East Ayrshire,2014,Other,2
+28,NHS Ayrshire and Arran,East Ayrshire,2015,Land transport accidents,3
+29,NHS Ayrshire and Arran,East Ayrshire,2015,Poisoning,16
+30,NHS Ayrshire and Arran,East Ayrshire,2015,Falls,23
+31,NHS Ayrshire and Arran,East Ayrshire,2015,"Struck by,against",0
+32,NHS Ayrshire and Arran,East Ayrshire,2015,Crushing,0
+33,NHS Ayrshire and Arran,East Ayrshire,2015,Scalds,0
+34,NHS Ayrshire and Arran,East Ayrshire,2015,Accidental exposure,0
+35,NHS Ayrshire and Arran,East Ayrshire,2015,Other,5
+37,NHS Ayrshire and Arran,East Ayrshire,2016,Land transport accidents,7
+38,NHS Ayrshire and Arran,East Ayrshire,2016,Poisoning,31
+39,NHS Ayrshire and Arran,East Ayrshire,2016,Falls,20
+40,NHS Ayrshire and Arran,East Ayrshire,2016,"Struck by,against",0
+41,NHS Ayrshire and Arran,East Ayrshire,2016,Crushing,0
+42,NHS Ayrshire and Arran,East Ayrshire,2016,Scalds,0
+43,NHS Ayrshire and Arran,East Ayrshire,2016,Accidental exposure,2
+44,NHS Ayrshire and Arran,East Ayrshire,2016,Other,7
+46,NHS Ayrshire and Arran,East Ayrshire,2017,Land transport accidents,5
+47,NHS Ayrshire and Arran,East Ayrshire,2017,Poisoning,28
+48,NHS Ayrshire and Arran,East Ayrshire,2017,Falls,20
+49,NHS Ayrshire and Arran,East Ayrshire,2017,"Struck by,against",0
+50,NHS Ayrshire and Arran,East Ayrshire,2017,Crushing,0
+51,NHS Ayrshire and Arran,East Ayrshire,2017,Scalds,0
+52,NHS Ayrshire and Arran,East Ayrshire,2017,Accidental exposure,1
+53,NHS Ayrshire and Arran,East Ayrshire,2017,Other,3
+55,NHS Ayrshire and Arran,East Ayrshire,2018,Land transport accidents,1
+56,NHS Ayrshire and Arran,East Ayrshire,2018,Poisoning,29
+57,NHS Ayrshire and Arran,East Ayrshire,2018,Falls,24
+58,NHS Ayrshire and Arran,East Ayrshire,2018,"Struck by,against",0
+59,NHS Ayrshire and Arran,East Ayrshire,2018,Crushing,0
+60,NHS Ayrshire and Arran,East Ayrshire,2018,Scalds,0
+61,NHS Ayrshire and Arran,East Ayrshire,2018,Accidental exposure,7
+62,NHS Ayrshire and Arran,East Ayrshire,2018,Other,6
+64,NHS Ayrshire and Arran,East Ayrshire,2019,Land transport accidents,8
+65,NHS Ayrshire and Arran,East Ayrshire,2019,Poisoning,40
+66,NHS Ayrshire and Arran,East Ayrshire,2019,Falls,27
+67,NHS Ayrshire and Arran,East Ayrshire,2019,"Struck by,against",0
+68,NHS Ayrshire and Arran,East Ayrshire,2019,Crushing,0
+69,NHS Ayrshire and Arran,East Ayrshire,2019,Scalds,0
+70,NHS Ayrshire and Arran,East Ayrshire,2019,Accidental exposure,1
+71,NHS Ayrshire and Arran,East Ayrshire,2019,Other,5
+73,NHS Ayrshire and Arran,East Ayrshire,2020,Land transport accidents,4
+74,NHS Ayrshire and Arran,East Ayrshire,2020,Poisoning,38
+75,NHS Ayrshire and Arran,East Ayrshire,2020,Falls,30
+76,NHS Ayrshire and Arran,East Ayrshire,2020,"Struck by,against",0
+77,NHS Ayrshire and Arran,East Ayrshire,2020,Crushing,0
+78,NHS Ayrshire and Arran,East Ayrshire,2020,Scalds,0
+79,NHS Ayrshire and Arran,East Ayrshire,2020,Accidental exposure,0
+80,NHS Ayrshire and Arran,East Ayrshire,2020,Other,5
+82,NHS Ayrshire and Arran,East Ayrshire,2021,Land transport accidents,8
+83,NHS Ayrshire and Arran,East Ayrshire,2021,Poisoning,38
+84,NHS Ayrshire and Arran,East Ayrshire,2021,Falls,24
+85,NHS Ayrshire and Arran,East Ayrshire,2021,"Struck by,against",0
+86,NHS Ayrshire and Arran,East Ayrshire,2021,Crushing,0
+87,NHS Ayrshire and Arran,East Ayrshire,2021,Scalds,0
+88,NHS Ayrshire and Arran,East Ayrshire,2021,Accidental exposure,1
+89,NHS Ayrshire and Arran,East Ayrshire,2021,Other,1
+91,NHS Ayrshire and Arran,North Ayrshire,2012,Land transport accidents,2
+92,NHS Ayrshire and Arran,North Ayrshire,2012,Poisoning,21
+93,NHS Ayrshire and Arran,North Ayrshire,2012,Falls,9
+94,NHS Ayrshire and Arran,North Ayrshire,2012,"Struck by,against",0
+95,NHS Ayrshire and Arran,North Ayrshire,2012,Crushing,0
+96,NHS Ayrshire and Arran,North Ayrshire,2012,Scalds,0
+97,NHS Ayrshire and Arran,North Ayrshire,2012,Accidental exposure,4
+98,NHS Ayrshire and Arran,North Ayrshire,2012,Other,2
+100,NHS Ayrshire and Arran,North Ayrshire,2013,Land transport accidents,6
+101,NHS Ayrshire and Arran,North Ayrshire,2013,Poisoning,11
+102,NHS Ayrshire and Arran,North Ayrshire,2013,Falls,16
+103,NHS Ayrshire and Arran,North Ayrshire,2013,"Struck by,against",0
+104,NHS Ayrshire and Arran,North Ayrshire,2013,Crushing,0
+105,NHS Ayrshire and Arran,North Ayrshire,2013,Scalds,0
+106,NHS Ayrshire and Arran,North Ayrshire,2013,Accidental exposure,2
+107,NHS Ayrshire and Arran,North Ayrshire,2013,Other,5
+109,NHS Ayrshire and Arran,North Ayrshire,2014,Land transport accidents,2
+110,NHS Ayrshire and Arran,North Ayrshire,2014,Poisoning,15
+111,NHS Ayrshire and Arran,North Ayrshire,2014,Falls,17
+112,NHS Ayrshire and Arran,North Ayrshire,2014,"Struck by,against",0
+113,NHS Ayrshire and Arran,North Ayrshire,2014,Crushing,0
+114,NHS Ayrshire and Arran,North Ayrshire,2014,Scalds,0
+115,NHS Ayrshire and Arran,North Ayrshire,2014,Accidental exposure,2
+116,NHS Ayrshire and Arran,North Ayrshire,2014,Other,5
+118,NHS Ayrshire and Arran,North Ayrshire,2015,Land transport accidents,5
+119,NHS Ayrshire and Arran,North Ayrshire,2015,Poisoning,16
+120,NHS Ayrshire and Arran,North Ayrshire,2015,Falls,20
+121,NHS Ayrshire and Arran,North Ayrshire,2015,"Struck by,against",0
+122,NHS Ayrshire and Arran,North Ayrshire,2015,Crushing,0
+123,NHS Ayrshire and Arran,North Ayrshire,2015,Scalds,0
+124,NHS Ayrshire and Arran,North Ayrshire,2015,Accidental exposure,4
+125,NHS Ayrshire and Arran,North Ayrshire,2015,Other,8
+127,NHS Ayrshire and Arran,North Ayrshire,2016,Land transport accidents,6
+128,NHS Ayrshire and Arran,North Ayrshire,2016,Poisoning,35
+129,NHS Ayrshire and Arran,North Ayrshire,2016,Falls,17
+130,NHS Ayrshire and Arran,North Ayrshire,2016,"Struck by,against",0
+131,NHS Ayrshire and Arran,North Ayrshire,2016,Crushing,0
+132,NHS Ayrshire and Arran,North Ayrshire,2016,Scalds,0
+133,NHS Ayrshire and Arran,North Ayrshire,2016,Accidental exposure,4
+134,NHS Ayrshire and Arran,North Ayrshire,2016,Other,3
+136,NHS Ayrshire and Arran,North Ayrshire,2017,Land transport accidents,2
+137,NHS Ayrshire and Arran,North Ayrshire,2017,Poisoning,20
+138,NHS Ayrshire and Arran,North Ayrshire,2017,Falls,34
+139,NHS Ayrshire and Arran,North Ayrshire,2017,"Struck by,against",0
+140,NHS Ayrshire and Arran,North Ayrshire,2017,Crushing,0
+141,NHS Ayrshire and Arran,North Ayrshire,2017,Scalds,0
+142,NHS Ayrshire and Arran,North Ayrshire,2017,Accidental exposure,1
+143,NHS Ayrshire and Arran,North Ayrshire,2017,Other,3
+145,NHS Ayrshire and Arran,North Ayrshire,2018,Land transport accidents,4
+146,NHS Ayrshire and Arran,North Ayrshire,2018,Poisoning,40
+147,NHS Ayrshire and Arran,North Ayrshire,2018,Falls,16
+148,NHS Ayrshire and Arran,North Ayrshire,2018,"Struck by,against",0
+149,NHS Ayrshire and Arran,North Ayrshire,2018,Crushing,0
+150,NHS Ayrshire and Arran,North Ayrshire,2018,Scalds,0
+151,NHS Ayrshire and Arran,North Ayrshire,2018,Accidental exposure,2
+152,NHS Ayrshire and Arran,North Ayrshire,2018,Other,6
+154,NHS Ayrshire and Arran,North Ayrshire,2019,Land transport accidents,2
+155,NHS Ayrshire and Arran,North Ayrshire,2019,Poisoning,44
+156,NHS Ayrshire and Arran,North Ayrshire,2019,Falls,35
+157,NHS Ayrshire and Arran,North Ayrshire,2019,"Struck by,against",0
+158,NHS Ayrshire and Arran,North Ayrshire,2019,Crushing,0
+159,NHS Ayrshire and Arran,North Ayrshire,2019,Scalds,0
+160,NHS Ayrshire and Arran,North Ayrshire,2019,Accidental exposure,2
+161,NHS Ayrshire and Arran,North Ayrshire,2019,Other,3
+163,NHS Ayrshire and Arran,North Ayrshire,2020,Land transport accidents,2
+164,NHS Ayrshire and Arran,North Ayrshire,2020,Poisoning,43
+165,NHS Ayrshire and Arran,North Ayrshire,2020,Falls,26
+166,NHS Ayrshire and Arran,North Ayrshire,2020,"Struck by,against",0
+167,NHS Ayrshire and Arran,North Ayrshire,2020,Crushing,0
+168,NHS Ayrshire and Arran,North Ayrshire,2020,Scalds,0
+169,NHS Ayrshire and Arran,North Ayrshire,2020,Accidental exposure,3
+170,NHS Ayrshire and Arran,North Ayrshire,2020,Other,3
+172,NHS Ayrshire and Arran,North Ayrshire,2021,Land transport accidents,2
+173,NHS Ayrshire and Arran,North Ayrshire,2021,Poisoning,42
+174,NHS Ayrshire and Arran,North Ayrshire,2021,Falls,26
+175,NHS Ayrshire and Arran,North Ayrshire,2021,"Struck by,against",0
+176,NHS Ayrshire and Arran,North Ayrshire,2021,Crushing,0
+177,NHS Ayrshire and Arran,North Ayrshire,2021,Scalds,0
+178,NHS Ayrshire and Arran,North Ayrshire,2021,Accidental exposure,2
+179,NHS Ayrshire and Arran,North Ayrshire,2021,Other,3
+181,NHS Ayrshire and Arran,South Ayrshire,2012,Land transport accidents,4
+182,NHS Ayrshire and Arran,South Ayrshire,2012,Poisoning,11
+183,NHS Ayrshire and Arran,South Ayrshire,2012,Falls,17
+184,NHS Ayrshire and Arran,South Ayrshire,2012,"Struck by,against",1
+185,NHS Ayrshire and Arran,South Ayrshire,2012,Crushing,0
+186,NHS Ayrshire and Arran,South Ayrshire,2012,Scalds,0
+187,NHS Ayrshire and Arran,South Ayrshire,2012,Accidental exposure,0
+188,NHS Ayrshire and Arran,South Ayrshire,2012,Other,5
+190,NHS Ayrshire and Arran,South Ayrshire,2013,Land transport accidents,5
+191,NHS Ayrshire and Arran,South Ayrshire,2013,Poisoning,12
+192,NHS Ayrshire and Arran,South Ayrshire,2013,Falls,17
+193,NHS Ayrshire and Arran,South Ayrshire,2013,"Struck by,against",0
+194,NHS Ayrshire and Arran,South Ayrshire,2013,Crushing,0
+195,NHS Ayrshire and Arran,South Ayrshire,2013,Scalds,0
+196,NHS Ayrshire and Arran,South Ayrshire,2013,Accidental exposure,0
+197,NHS Ayrshire and Arran,South Ayrshire,2013,Other,3
+199,NHS Ayrshire and Arran,South Ayrshire,2014,Land transport accidents,2
+200,NHS Ayrshire and Arran,South Ayrshire,2014,Poisoning,12
+201,NHS Ayrshire and Arran,South Ayrshire,2014,Falls,26
+202,NHS Ayrshire and Arran,South Ayrshire,2014,"Struck by,against",0
+203,NHS Ayrshire and Arran,South Ayrshire,2014,Crushing,0
+204,NHS Ayrshire and Arran,South Ayrshire,2014,Scalds,0
+205,NHS Ayrshire and Arran,South Ayrshire,2014,Accidental exposure,3
+206,NHS Ayrshire and Arran,South Ayrshire,2014,Other,1
+208,NHS Ayrshire and Arran,South Ayrshire,2015,Land transport accidents,4
+209,NHS Ayrshire and Arran,South Ayrshire,2015,Poisoning,16
+210,NHS Ayrshire and Arran,South Ayrshire,2015,Falls,23
+211,NHS Ayrshire and Arran,South Ayrshire,2015,"Struck by,against",1
+212,NHS Ayrshire and Arran,South Ayrshire,2015,Crushing,0
+213,NHS Ayrshire and Arran,South Ayrshire,2015,Scalds,0
+214,NHS Ayrshire and Arran,South Ayrshire,2015,Accidental exposure,2
+215,NHS Ayrshire and Arran,South Ayrshire,2015,Other,3
+217,NHS Ayrshire and Arran,South Ayrshire,2016,Land transport accidents,6
+218,NHS Ayrshire and Arran,South Ayrshire,2016,Poisoning,23
+219,NHS Ayrshire and Arran,South Ayrshire,2016,Falls,19
+220,NHS Ayrshire and Arran,South Ayrshire,2016,"Struck by,against",0
+221,NHS Ayrshire and Arran,South Ayrshire,2016,Crushing,0
+222,NHS Ayrshire and Arran,South Ayrshire,2016,Scalds,0
+223,NHS Ayrshire and Arran,South Ayrshire,2016,Accidental exposure,1
+224,NHS Ayrshire and Arran,South Ayrshire,2016,Other,3
+226,NHS Ayrshire and Arran,South Ayrshire,2017,Land transport accidents,3
+227,NHS Ayrshire and Arran,South Ayrshire,2017,Poisoning,14
+228,NHS Ayrshire and Arran,South Ayrshire,2017,Falls,31
+229,NHS Ayrshire and Arran,South Ayrshire,2017,"Struck by,against",0
+230,NHS Ayrshire and Arran,South Ayrshire,2017,Crushing,0
+231,NHS Ayrshire and Arran,South Ayrshire,2017,Scalds,0
+232,NHS Ayrshire and Arran,South Ayrshire,2017,Accidental exposure,5
+233,NHS Ayrshire and Arran,South Ayrshire,2017,Other,3
+235,NHS Ayrshire and Arran,South Ayrshire,2018,Land transport accidents,4
+236,NHS Ayrshire and Arran,South Ayrshire,2018,Poisoning,20
+237,NHS Ayrshire and Arran,South Ayrshire,2018,Falls,24
+238,NHS Ayrshire and Arran,South Ayrshire,2018,"Struck by,against",0
+239,NHS Ayrshire and Arran,South Ayrshire,2018,Crushing,0
+240,NHS Ayrshire and Arran,South Ayrshire,2018,Scalds,0
+241,NHS Ayrshire and Arran,South Ayrshire,2018,Accidental exposure,2
+242,NHS Ayrshire and Arran,South Ayrshire,2018,Other,3
+244,NHS Ayrshire and Arran,South Ayrshire,2019,Land transport accidents,1
+245,NHS Ayrshire and Arran,South Ayrshire,2019,Poisoning,27
+246,NHS Ayrshire and Arran,South Ayrshire,2019,Falls,22
+247,NHS Ayrshire and Arran,South Ayrshire,2019,"Struck by,against",0
+248,NHS Ayrshire and Arran,South Ayrshire,2019,Crushing,0
+249,NHS Ayrshire and Arran,South Ayrshire,2019,Scalds,0
+250,NHS Ayrshire and Arran,South Ayrshire,2019,Accidental exposure,1
+251,NHS Ayrshire and Arran,South Ayrshire,2019,Other,5
+253,NHS Ayrshire and Arran,South Ayrshire,2020,Land transport accidents,2
+254,NHS Ayrshire and Arran,South Ayrshire,2020,Poisoning,30
+255,NHS Ayrshire and Arran,South Ayrshire,2020,Falls,27
+256,NHS Ayrshire and Arran,South Ayrshire,2020,"Struck by,against",0
+257,NHS Ayrshire and Arran,South Ayrshire,2020,Crushing,0
+258,NHS Ayrshire and Arran,South Ayrshire,2020,Scalds,0
+259,NHS Ayrshire and Arran,South Ayrshire,2020,Accidental exposure,1
+260,NHS Ayrshire and Arran,South Ayrshire,2020,Other,5
+262,NHS Ayrshire and Arran,South Ayrshire,2021,Land transport accidents,5
+263,NHS Ayrshire and Arran,South Ayrshire,2021,Poisoning,18
+264,NHS Ayrshire and Arran,South Ayrshire,2021,Falls,31
+265,NHS Ayrshire and Arran,South Ayrshire,2021,"Struck by,against",0
+266,NHS Ayrshire and Arran,South Ayrshire,2021,Crushing,0
+267,NHS Ayrshire and Arran,South Ayrshire,2021,Scalds,0
+268,NHS Ayrshire and Arran,South Ayrshire,2021,Accidental exposure,2
+269,NHS Ayrshire and Arran,South Ayrshire,2021,Other,2
+271,NHS Borders,Scottish Borders,2012,Land transport accidents,6
+272,NHS Borders,Scottish Borders,2012,Poisoning,3
+273,NHS Borders,Scottish Borders,2012,Falls,31
+274,NHS Borders,Scottish Borders,2012,"Struck by,against",0
+275,NHS Borders,Scottish Borders,2012,Crushing,0
+276,NHS Borders,Scottish Borders,2012,Scalds,0
+277,NHS Borders,Scottish Borders,2012,Accidental exposure,2
+278,NHS Borders,Scottish Borders,2012,Other,2
+280,NHS Borders,Scottish Borders,2013,Land transport accidents,5
+281,NHS Borders,Scottish Borders,2013,Poisoning,3
+282,NHS Borders,Scottish Borders,2013,Falls,21
+283,NHS Borders,Scottish Borders,2013,"Struck by,against",0
+284,NHS Borders,Scottish Borders,2013,Crushing,0
+285,NHS Borders,Scottish Borders,2013,Scalds,0
+286,NHS Borders,Scottish Borders,2013,Accidental exposure,1
+287,NHS Borders,Scottish Borders,2013,Other,6
+289,NHS Borders,Scottish Borders,2014,Land transport accidents,6
+290,NHS Borders,Scottish Borders,2014,Poisoning,10
+291,NHS Borders,Scottish Borders,2014,Falls,20
+292,NHS Borders,Scottish Borders,2014,"Struck by,against",0
+293,NHS Borders,Scottish Borders,2014,Crushing,0
+294,NHS Borders,Scottish Borders,2014,Scalds,0
+295,NHS Borders,Scottish Borders,2014,Accidental exposure,2
+296,NHS Borders,Scottish Borders,2014,Other,5
+298,NHS Borders,Scottish Borders,2015,Land transport accidents,8
+299,NHS Borders,Scottish Borders,2015,Poisoning,8
+300,NHS Borders,Scottish Borders,2015,Falls,18
+301,NHS Borders,Scottish Borders,2015,"Struck by,against",1
+302,NHS Borders,Scottish Borders,2015,Crushing,0
+303,NHS Borders,Scottish Borders,2015,Scalds,0
+304,NHS Borders,Scottish Borders,2015,Accidental exposure,0
+305,NHS Borders,Scottish Borders,2015,Other,5
+307,NHS Borders,Scottish Borders,2016,Land transport accidents,11
+308,NHS Borders,Scottish Borders,2016,Poisoning,10
+309,NHS Borders,Scottish Borders,2016,Falls,22
+310,NHS Borders,Scottish Borders,2016,"Struck by,against",0
+311,NHS Borders,Scottish Borders,2016,Crushing,0
+312,NHS Borders,Scottish Borders,2016,Scalds,0
+313,NHS Borders,Scottish Borders,2016,Accidental exposure,6
+314,NHS Borders,Scottish Borders,2016,Other,3
+316,NHS Borders,Scottish Borders,2017,Land transport accidents,6
+317,NHS Borders,Scottish Borders,2017,Poisoning,12
+318,NHS Borders,Scottish Borders,2017,Falls,33
+319,NHS Borders,Scottish Borders,2017,"Struck by,against",1
+320,NHS Borders,Scottish Borders,2017,Crushing,0
+321,NHS Borders,Scottish Borders,2017,Scalds,0
+322,NHS Borders,Scottish Borders,2017,Accidental exposure,5
+323,NHS Borders,Scottish Borders,2017,Other,2
+325,NHS Borders,Scottish Borders,2018,Land transport accidents,6
+326,NHS Borders,Scottish Borders,2018,Poisoning,19
+327,NHS Borders,Scottish Borders,2018,Falls,29
+328,NHS Borders,Scottish Borders,2018,"Struck by,against",0
+329,NHS Borders,Scottish Borders,2018,Crushing,0
+330,NHS Borders,Scottish Borders,2018,Scalds,0
+331,NHS Borders,Scottish Borders,2018,Accidental exposure,0
+332,NHS Borders,Scottish Borders,2018,Other,4
+334,NHS Borders,Scottish Borders,2019,Land transport accidents,5
+335,NHS Borders,Scottish Borders,2019,Poisoning,16
+336,NHS Borders,Scottish Borders,2019,Falls,27
+337,NHS Borders,Scottish Borders,2019,"Struck by,against",0
+338,NHS Borders,Scottish Borders,2019,Crushing,0
+339,NHS Borders,Scottish Borders,2019,Scalds,0
+340,NHS Borders,Scottish Borders,2019,Accidental exposure,1
+341,NHS Borders,Scottish Borders,2019,Other,5
+343,NHS Borders,Scottish Borders,2020,Land transport accidents,3
+344,NHS Borders,Scottish Borders,2020,Poisoning,16
+345,NHS Borders,Scottish Borders,2020,Falls,29
+346,NHS Borders,Scottish Borders,2020,"Struck by,against",0
+347,NHS Borders,Scottish Borders,2020,Crushing,0
+348,NHS Borders,Scottish Borders,2020,Scalds,0
+349,NHS Borders,Scottish Borders,2020,Accidental exposure,4
+350,NHS Borders,Scottish Borders,2020,Other,5
+352,NHS Borders,Scottish Borders,2021,Land transport accidents,6
+353,NHS Borders,Scottish Borders,2021,Poisoning,14
+354,NHS Borders,Scottish Borders,2021,Falls,35
+355,NHS Borders,Scottish Borders,2021,"Struck by,against",0
+356,NHS Borders,Scottish Borders,2021,Crushing,0
+357,NHS Borders,Scottish Borders,2021,Scalds,0
+358,NHS Borders,Scottish Borders,2021,Accidental exposure,2
+359,NHS Borders,Scottish Borders,2021,Other,6
+361,NHS Dumfries and Galloway,Dumfries and Galloway,2012,Land transport accidents,10
+362,NHS Dumfries and Galloway,Dumfries and Galloway,2012,Poisoning,3
+363,NHS Dumfries and Galloway,Dumfries and Galloway,2012,Falls,33
+364,NHS Dumfries and Galloway,Dumfries and Galloway,2012,"Struck by,against",0
+365,NHS Dumfries and Galloway,Dumfries and Galloway,2012,Crushing,0
+366,NHS Dumfries and Galloway,Dumfries and Galloway,2012,Scalds,0
+367,NHS Dumfries and Galloway,Dumfries and Galloway,2012,Accidental exposure,1
+368,NHS Dumfries and Galloway,Dumfries and Galloway,2012,Other,0
+370,NHS Dumfries and Galloway,Dumfries and Galloway,2013,Land transport accidents,10
+371,NHS Dumfries and Galloway,Dumfries and Galloway,2013,Poisoning,12
+372,NHS Dumfries and Galloway,Dumfries and Galloway,2013,Falls,29
+373,NHS Dumfries and Galloway,Dumfries and Galloway,2013,"Struck by,against",0
+374,NHS Dumfries and Galloway,Dumfries and Galloway,2013,Crushing,0
+375,NHS Dumfries and Galloway,Dumfries and Galloway,2013,Scalds,0
+376,NHS Dumfries and Galloway,Dumfries and Galloway,2013,Accidental exposure,0
+377,NHS Dumfries and Galloway,Dumfries and Galloway,2013,Other,1
+379,NHS Dumfries and Galloway,Dumfries and Galloway,2014,Land transport accidents,8
+380,NHS Dumfries and Galloway,Dumfries and Galloway,2014,Poisoning,13
+381,NHS Dumfries and Galloway,Dumfries and Galloway,2014,Falls,23
+382,NHS Dumfries and Galloway,Dumfries and Galloway,2014,"Struck by,against",0
+383,NHS Dumfries and Galloway,Dumfries and Galloway,2014,Crushing,0
+384,NHS Dumfries and Galloway,Dumfries and Galloway,2014,Scalds,0
+385,NHS Dumfries and Galloway,Dumfries and Galloway,2014,Accidental exposure,1
+386,NHS Dumfries and Galloway,Dumfries and Galloway,2014,Other,4
+388,NHS Dumfries and Galloway,Dumfries and Galloway,2015,Land transport accidents,11
+389,NHS Dumfries and Galloway,Dumfries and Galloway,2015,Poisoning,11
+390,NHS Dumfries and Galloway,Dumfries and Galloway,2015,Falls,31
+391,NHS Dumfries and Galloway,Dumfries and Galloway,2015,"Struck by,against",0
+392,NHS Dumfries and Galloway,Dumfries and Galloway,2015,Crushing,0
+393,NHS Dumfries and Galloway,Dumfries and Galloway,2015,Scalds,0
+394,NHS Dumfries and Galloway,Dumfries and Galloway,2015,Accidental exposure,4
+395,NHS Dumfries and Galloway,Dumfries and Galloway,2015,Other,6
+397,NHS Dumfries and Galloway,Dumfries and Galloway,2016,Land transport accidents,8
+398,NHS Dumfries and Galloway,Dumfries and Galloway,2016,Poisoning,16
+399,NHS Dumfries and Galloway,Dumfries and Galloway,2016,Falls,29
+400,NHS Dumfries and Galloway,Dumfries and Galloway,2016,"Struck by,against",0
+401,NHS Dumfries and Galloway,Dumfries and Galloway,2016,Crushing,0
+402,NHS Dumfries and Galloway,Dumfries and Galloway,2016,Scalds,0
+403,NHS Dumfries and Galloway,Dumfries and Galloway,2016,Accidental exposure,1
+404,NHS Dumfries and Galloway,Dumfries and Galloway,2016,Other,6
+406,NHS Dumfries and Galloway,Dumfries and Galloway,2017,Land transport accidents,11
+407,NHS Dumfries and Galloway,Dumfries and Galloway,2017,Poisoning,24
+408,NHS Dumfries and Galloway,Dumfries and Galloway,2017,Falls,37
+409,NHS Dumfries and Galloway,Dumfries and Galloway,2017,"Struck by,against",1
+410,NHS Dumfries and Galloway,Dumfries and Galloway,2017,Crushing,0
+411,NHS Dumfries and Galloway,Dumfries and Galloway,2017,Scalds,0
+412,NHS Dumfries and Galloway,Dumfries and Galloway,2017,Accidental exposure,3
+413,NHS Dumfries and Galloway,Dumfries and Galloway,2017,Other,4
+415,NHS Dumfries and Galloway,Dumfries and Galloway,2018,Land transport accidents,11
+416,NHS Dumfries and Galloway,Dumfries and Galloway,2018,Poisoning,26
+417,NHS Dumfries and Galloway,Dumfries and Galloway,2018,Falls,34
+418,NHS Dumfries and Galloway,Dumfries and Galloway,2018,"Struck by,against",0
+419,NHS Dumfries and Galloway,Dumfries and Galloway,2018,Crushing,0
+420,NHS Dumfries and Galloway,Dumfries and Galloway,2018,Scalds,0
+421,NHS Dumfries and Galloway,Dumfries and Galloway,2018,Accidental exposure,4
+422,NHS Dumfries and Galloway,Dumfries and Galloway,2018,Other,4
+424,NHS Dumfries and Galloway,Dumfries and Galloway,2019,Land transport accidents,8
+425,NHS Dumfries and Galloway,Dumfries and Galloway,2019,Poisoning,31
+426,NHS Dumfries and Galloway,Dumfries and Galloway,2019,Falls,23
+427,NHS Dumfries and Galloway,Dumfries and Galloway,2019,"Struck by,against",0
+428,NHS Dumfries and Galloway,Dumfries and Galloway,2019,Crushing,0
+429,NHS Dumfries and Galloway,Dumfries and Galloway,2019,Scalds,0
+430,NHS Dumfries and Galloway,Dumfries and Galloway,2019,Accidental exposure,2
+431,NHS Dumfries and Galloway,Dumfries and Galloway,2019,Other,4
+433,NHS Dumfries and Galloway,Dumfries and Galloway,2020,Land transport accidents,2
+434,NHS Dumfries and Galloway,Dumfries and Galloway,2020,Poisoning,26
+435,NHS Dumfries and Galloway,Dumfries and Galloway,2020,Falls,36
+436,NHS Dumfries and Galloway,Dumfries and Galloway,2020,"Struck by,against",0
+437,NHS Dumfries and Galloway,Dumfries and Galloway,2020,Crushing,0
+438,NHS Dumfries and Galloway,Dumfries and Galloway,2020,Scalds,0
+439,NHS Dumfries and Galloway,Dumfries and Galloway,2020,Accidental exposure,7
+440,NHS Dumfries and Galloway,Dumfries and Galloway,2020,Other,6
+442,NHS Dumfries and Galloway,Dumfries and Galloway,2021,Land transport accidents,10
+443,NHS Dumfries and Galloway,Dumfries and Galloway,2021,Poisoning,39
+444,NHS Dumfries and Galloway,Dumfries and Galloway,2021,Falls,29
+445,NHS Dumfries and Galloway,Dumfries and Galloway,2021,"Struck by,against",0
+446,NHS Dumfries and Galloway,Dumfries and Galloway,2021,Crushing,0
+447,NHS Dumfries and Galloway,Dumfries and Galloway,2021,Scalds,0
+448,NHS Dumfries and Galloway,Dumfries and Galloway,2021,Accidental exposure,4
+449,NHS Dumfries and Galloway,Dumfries and Galloway,2021,Other,4
+451,NHS Forth Valley,Clackmannanshire,2012,Land transport accidents,0
+452,NHS Forth Valley,Clackmannanshire,2012,Poisoning,2
+453,NHS Forth Valley,Clackmannanshire,2012,Falls,7
+454,NHS Forth Valley,Clackmannanshire,2012,"Struck by,against",0
+455,NHS Forth Valley,Clackmannanshire,2012,Crushing,0
+456,NHS Forth Valley,Clackmannanshire,2012,Scalds,0
+457,NHS Forth Valley,Clackmannanshire,2012,Accidental exposure,1
+458,NHS Forth Valley,Clackmannanshire,2012,Other,1
+460,NHS Forth Valley,Clackmannanshire,2013,Land transport accidents,1
+461,NHS Forth Valley,Clackmannanshire,2013,Poisoning,6
+462,NHS Forth Valley,Clackmannanshire,2013,Falls,9
+463,NHS Forth Valley,Clackmannanshire,2013,"Struck by,against",0
+464,NHS Forth Valley,Clackmannanshire,2013,Crushing,0
+465,NHS Forth Valley,Clackmannanshire,2013,Scalds,0
+466,NHS Forth Valley,Clackmannanshire,2013,Accidental exposure,1
+467,NHS Forth Valley,Clackmannanshire,2013,Other,3
+469,NHS Forth Valley,Clackmannanshire,2014,Land transport accidents,0
+470,NHS Forth Valley,Clackmannanshire,2014,Poisoning,6
+471,NHS Forth Valley,Clackmannanshire,2014,Falls,3
+472,NHS Forth Valley,Clackmannanshire,2014,"Struck by,against",0
+473,NHS Forth Valley,Clackmannanshire,2014,Crushing,0
+474,NHS Forth Valley,Clackmannanshire,2014,Scalds,0
+475,NHS Forth Valley,Clackmannanshire,2014,Accidental exposure,0
+476,NHS Forth Valley,Clackmannanshire,2014,Other,0
+478,NHS Forth Valley,Clackmannanshire,2015,Land transport accidents,2
+479,NHS Forth Valley,Clackmannanshire,2015,Poisoning,6
+480,NHS Forth Valley,Clackmannanshire,2015,Falls,6
+481,NHS Forth Valley,Clackmannanshire,2015,"Struck by,against",0
+482,NHS Forth Valley,Clackmannanshire,2015,Crushing,0
+483,NHS Forth Valley,Clackmannanshire,2015,Scalds,0
+484,NHS Forth Valley,Clackmannanshire,2015,Accidental exposure,3
+485,NHS Forth Valley,Clackmannanshire,2015,Other,2
+487,NHS Forth Valley,Clackmannanshire,2016,Land transport accidents,0
+488,NHS Forth Valley,Clackmannanshire,2016,Poisoning,14
+489,NHS Forth Valley,Clackmannanshire,2016,Falls,6
+490,NHS Forth Valley,Clackmannanshire,2016,"Struck by,against",0
+491,NHS Forth Valley,Clackmannanshire,2016,Crushing,0
+492,NHS Forth Valley,Clackmannanshire,2016,Scalds,0
+493,NHS Forth Valley,Clackmannanshire,2016,Accidental exposure,1
+494,NHS Forth Valley,Clackmannanshire,2016,Other,1
+496,NHS Forth Valley,Clackmannanshire,2017,Land transport accidents,2
+497,NHS Forth Valley,Clackmannanshire,2017,Poisoning,6
+498,NHS Forth Valley,Clackmannanshire,2017,Falls,13
+499,NHS Forth Valley,Clackmannanshire,2017,"Struck by,against",0
+500,NHS Forth Valley,Clackmannanshire,2017,Crushing,0
+501,NHS Forth Valley,Clackmannanshire,2017,Scalds,0
+502,NHS Forth Valley,Clackmannanshire,2017,Accidental exposure,0
+503,NHS Forth Valley,Clackmannanshire,2017,Other,1
+505,NHS Forth Valley,Clackmannanshire,2018,Land transport accidents,2
+506,NHS Forth Valley,Clackmannanshire,2018,Poisoning,11
+507,NHS Forth Valley,Clackmannanshire,2018,Falls,6
+508,NHS Forth Valley,Clackmannanshire,2018,"Struck by,against",0
+509,NHS Forth Valley,Clackmannanshire,2018,Crushing,0
+510,NHS Forth Valley,Clackmannanshire,2018,Scalds,0
+511,NHS Forth Valley,Clackmannanshire,2018,Accidental exposure,0
+512,NHS Forth Valley,Clackmannanshire,2018,Other,2
+514,NHS Forth Valley,Clackmannanshire,2019,Land transport accidents,5
+515,NHS Forth Valley,Clackmannanshire,2019,Poisoning,15
+516,NHS Forth Valley,Clackmannanshire,2019,Falls,12
+517,NHS Forth Valley,Clackmannanshire,2019,"Struck by,against",0
+518,NHS Forth Valley,Clackmannanshire,2019,Crushing,0
+519,NHS Forth Valley,Clackmannanshire,2019,Scalds,0
+520,NHS Forth Valley,Clackmannanshire,2019,Accidental exposure,4
+521,NHS Forth Valley,Clackmannanshire,2019,Other,1
+523,NHS Forth Valley,Clackmannanshire,2020,Land transport accidents,4
+524,NHS Forth Valley,Clackmannanshire,2020,Poisoning,8
+525,NHS Forth Valley,Clackmannanshire,2020,Falls,14
+526,NHS Forth Valley,Clackmannanshire,2020,"Struck by,against",0
+527,NHS Forth Valley,Clackmannanshire,2020,Crushing,0
+528,NHS Forth Valley,Clackmannanshire,2020,Scalds,0
+529,NHS Forth Valley,Clackmannanshire,2020,Accidental exposure,4
+530,NHS Forth Valley,Clackmannanshire,2020,Other,1
+532,NHS Forth Valley,Clackmannanshire,2021,Land transport accidents,0
+533,NHS Forth Valley,Clackmannanshire,2021,Poisoning,17
+534,NHS Forth Valley,Clackmannanshire,2021,Falls,5
+535,NHS Forth Valley,Clackmannanshire,2021,"Struck by,against",0
+536,NHS Forth Valley,Clackmannanshire,2021,Crushing,0
+537,NHS Forth Valley,Clackmannanshire,2021,Scalds,0
+538,NHS Forth Valley,Clackmannanshire,2021,Accidental exposure,1
+539,NHS Forth Valley,Clackmannanshire,2021,Other,2
+541,NHS Forth Valley,Falkirk,2012,Land transport accidents,10
+542,NHS Forth Valley,Falkirk,2012,Poisoning,8
+543,NHS Forth Valley,Falkirk,2012,Falls,21
+544,NHS Forth Valley,Falkirk,2012,"Struck by,against",0
+545,NHS Forth Valley,Falkirk,2012,Crushing,0
+546,NHS Forth Valley,Falkirk,2012,Scalds,0
+547,NHS Forth Valley,Falkirk,2012,Accidental exposure,1
+548,NHS Forth Valley,Falkirk,2012,Other,6
+550,NHS Forth Valley,Falkirk,2013,Land transport accidents,4
+551,NHS Forth Valley,Falkirk,2013,Poisoning,7
+552,NHS Forth Valley,Falkirk,2013,Falls,13
+553,NHS Forth Valley,Falkirk,2013,"Struck by,against",0
+554,NHS Forth Valley,Falkirk,2013,Crushing,0
+555,NHS Forth Valley,Falkirk,2013,Scalds,0
+556,NHS Forth Valley,Falkirk,2013,Accidental exposure,4
+557,NHS Forth Valley,Falkirk,2013,Other,3
+559,NHS Forth Valley,Falkirk,2014,Land transport accidents,4
+560,NHS Forth Valley,Falkirk,2014,Poisoning,9
+561,NHS Forth Valley,Falkirk,2014,Falls,18
+562,NHS Forth Valley,Falkirk,2014,"Struck by,against",0
+563,NHS Forth Valley,Falkirk,2014,Crushing,0
+564,NHS Forth Valley,Falkirk,2014,Scalds,0
+565,NHS Forth Valley,Falkirk,2014,Accidental exposure,3
+566,NHS Forth Valley,Falkirk,2014,Other,1
+568,NHS Forth Valley,Falkirk,2015,Land transport accidents,5
+569,NHS Forth Valley,Falkirk,2015,Poisoning,19
+570,NHS Forth Valley,Falkirk,2015,Falls,15
+571,NHS Forth Valley,Falkirk,2015,"Struck by,against",0
+572,NHS Forth Valley,Falkirk,2015,Crushing,0
+573,NHS Forth Valley,Falkirk,2015,Scalds,0
+574,NHS Forth Valley,Falkirk,2015,Accidental exposure,0
+575,NHS Forth Valley,Falkirk,2015,Other,3
+577,NHS Forth Valley,Falkirk,2016,Land transport accidents,7
+578,NHS Forth Valley,Falkirk,2016,Poisoning,25
+579,NHS Forth Valley,Falkirk,2016,Falls,29
+580,NHS Forth Valley,Falkirk,2016,"Struck by,against",0
+581,NHS Forth Valley,Falkirk,2016,Crushing,0
+582,NHS Forth Valley,Falkirk,2016,Scalds,1
+583,NHS Forth Valley,Falkirk,2016,Accidental exposure,3
+584,NHS Forth Valley,Falkirk,2016,Other,8
+586,NHS Forth Valley,Falkirk,2017,Land transport accidents,4
+587,NHS Forth Valley,Falkirk,2017,Poisoning,20
+588,NHS Forth Valley,Falkirk,2017,Falls,28
+589,NHS Forth Valley,Falkirk,2017,"Struck by,against",0
+590,NHS Forth Valley,Falkirk,2017,Crushing,0
+591,NHS Forth Valley,Falkirk,2017,Scalds,0
+592,NHS Forth Valley,Falkirk,2017,Accidental exposure,5
+593,NHS Forth Valley,Falkirk,2017,Other,2
+595,NHS Forth Valley,Falkirk,2018,Land transport accidents,3
+596,NHS Forth Valley,Falkirk,2018,Poisoning,36
+597,NHS Forth Valley,Falkirk,2018,Falls,26
+598,NHS Forth Valley,Falkirk,2018,"Struck by,against",0
+599,NHS Forth Valley,Falkirk,2018,Crushing,0
+600,NHS Forth Valley,Falkirk,2018,Scalds,0
+601,NHS Forth Valley,Falkirk,2018,Accidental exposure,0
+602,NHS Forth Valley,Falkirk,2018,Other,6
+604,NHS Forth Valley,Falkirk,2019,Land transport accidents,2
+605,NHS Forth Valley,Falkirk,2019,Poisoning,44
+606,NHS Forth Valley,Falkirk,2019,Falls,38
+607,NHS Forth Valley,Falkirk,2019,"Struck by,against",1
+608,NHS Forth Valley,Falkirk,2019,Crushing,0
+609,NHS Forth Valley,Falkirk,2019,Scalds,0
+610,NHS Forth Valley,Falkirk,2019,Accidental exposure,1
+611,NHS Forth Valley,Falkirk,2019,Other,6
+613,NHS Forth Valley,Falkirk,2020,Land transport accidents,2
+614,NHS Forth Valley,Falkirk,2020,Poisoning,38
+615,NHS Forth Valley,Falkirk,2020,Falls,33
+616,NHS Forth Valley,Falkirk,2020,"Struck by,against",0
+617,NHS Forth Valley,Falkirk,2020,Crushing,0
+618,NHS Forth Valley,Falkirk,2020,Scalds,0
+619,NHS Forth Valley,Falkirk,2020,Accidental exposure,3
+620,NHS Forth Valley,Falkirk,2020,Other,3
+622,NHS Forth Valley,Falkirk,2021,Land transport accidents,6
+623,NHS Forth Valley,Falkirk,2021,Poisoning,36
+624,NHS Forth Valley,Falkirk,2021,Falls,25
+625,NHS Forth Valley,Falkirk,2021,"Struck by,against",0
+626,NHS Forth Valley,Falkirk,2021,Crushing,0
+627,NHS Forth Valley,Falkirk,2021,Scalds,0
+628,NHS Forth Valley,Falkirk,2021,Accidental exposure,5
+629,NHS Forth Valley,Falkirk,2021,Other,6
+631,NHS Forth Valley,Stirling,2012,Land transport accidents,3
+632,NHS Forth Valley,Stirling,2012,Poisoning,6
+633,NHS Forth Valley,Stirling,2012,Falls,19
+634,NHS Forth Valley,Stirling,2012,"Struck by,against",0
+635,NHS Forth Valley,Stirling,2012,Crushing,0
+636,NHS Forth Valley,Stirling,2012,Scalds,0
+637,NHS Forth Valley,Stirling,2012,Accidental exposure,0
+638,NHS Forth Valley,Stirling,2012,Other,5
+640,NHS Forth Valley,Stirling,2013,Land transport accidents,1
+641,NHS Forth Valley,Stirling,2013,Poisoning,4
+642,NHS Forth Valley,Stirling,2013,Falls,14
+643,NHS Forth Valley,Stirling,2013,"Struck by,against",0
+644,NHS Forth Valley,Stirling,2013,Crushing,0
+645,NHS Forth Valley,Stirling,2013,Scalds,0
+646,NHS Forth Valley,Stirling,2013,Accidental exposure,0
+647,NHS Forth Valley,Stirling,2013,Other,3
+649,NHS Forth Valley,Stirling,2014,Land transport accidents,4
+650,NHS Forth Valley,Stirling,2014,Poisoning,12
+651,NHS Forth Valley,Stirling,2014,Falls,16
+652,NHS Forth Valley,Stirling,2014,"Struck by,against",0
+653,NHS Forth Valley,Stirling,2014,Crushing,0
+654,NHS Forth Valley,Stirling,2014,Scalds,0
+655,NHS Forth Valley,Stirling,2014,Accidental exposure,0
+656,NHS Forth Valley,Stirling,2014,Other,1
+658,NHS Forth Valley,Stirling,2015,Land transport accidents,7
+659,NHS Forth Valley,Stirling,2015,Poisoning,9
+660,NHS Forth Valley,Stirling,2015,Falls,14
+661,NHS Forth Valley,Stirling,2015,"Struck by,against",0
+662,NHS Forth Valley,Stirling,2015,Crushing,0
+663,NHS Forth Valley,Stirling,2015,Scalds,0
+664,NHS Forth Valley,Stirling,2015,Accidental exposure,1
+665,NHS Forth Valley,Stirling,2015,Other,3
+667,NHS Forth Valley,Stirling,2016,Land transport accidents,3
+668,NHS Forth Valley,Stirling,2016,Poisoning,9
+669,NHS Forth Valley,Stirling,2016,Falls,22
+670,NHS Forth Valley,Stirling,2016,"Struck by,against",0
+671,NHS Forth Valley,Stirling,2016,Crushing,0
+672,NHS Forth Valley,Stirling,2016,Scalds,0
+673,NHS Forth Valley,Stirling,2016,Accidental exposure,2
+674,NHS Forth Valley,Stirling,2016,Other,5
+676,NHS Forth Valley,Stirling,2017,Land transport accidents,3
+677,NHS Forth Valley,Stirling,2017,Poisoning,13
+678,NHS Forth Valley,Stirling,2017,Falls,16
+679,NHS Forth Valley,Stirling,2017,"Struck by,against",0
+680,NHS Forth Valley,Stirling,2017,Crushing,0
+681,NHS Forth Valley,Stirling,2017,Scalds,0
+682,NHS Forth Valley,Stirling,2017,Accidental exposure,1
+683,NHS Forth Valley,Stirling,2017,Other,3
+685,NHS Forth Valley,Stirling,2018,Land transport accidents,1
+686,NHS Forth Valley,Stirling,2018,Poisoning,20
+687,NHS Forth Valley,Stirling,2018,Falls,16
+688,NHS Forth Valley,Stirling,2018,"Struck by,against",0
+689,NHS Forth Valley,Stirling,2018,Crushing,0
+690,NHS Forth Valley,Stirling,2018,Scalds,0
+691,NHS Forth Valley,Stirling,2018,Accidental exposure,1
+692,NHS Forth Valley,Stirling,2018,Other,3
+694,NHS Forth Valley,Stirling,2019,Land transport accidents,4
+695,NHS Forth Valley,Stirling,2019,Poisoning,19
+696,NHS Forth Valley,Stirling,2019,Falls,16
+697,NHS Forth Valley,Stirling,2019,"Struck by,against",0
+698,NHS Forth Valley,Stirling,2019,Crushing,0
+699,NHS Forth Valley,Stirling,2019,Scalds,0
+700,NHS Forth Valley,Stirling,2019,Accidental exposure,3
+701,NHS Forth Valley,Stirling,2019,Other,7
+703,NHS Forth Valley,Stirling,2020,Land transport accidents,4
+704,NHS Forth Valley,Stirling,2020,Poisoning,34
+705,NHS Forth Valley,Stirling,2020,Falls,18
+706,NHS Forth Valley,Stirling,2020,"Struck by,against",0
+707,NHS Forth Valley,Stirling,2020,Crushing,0
+708,NHS Forth Valley,Stirling,2020,Scalds,0
+709,NHS Forth Valley,Stirling,2020,Accidental exposure,1
+710,NHS Forth Valley,Stirling,2020,Other,2
+712,NHS Forth Valley,Stirling,2021,Land transport accidents,5
+713,NHS Forth Valley,Stirling,2021,Poisoning,20
+714,NHS Forth Valley,Stirling,2021,Falls,13
+715,NHS Forth Valley,Stirling,2021,"Struck by,against",0
+716,NHS Forth Valley,Stirling,2021,Crushing,1
+717,NHS Forth Valley,Stirling,2021,Scalds,0
+718,NHS Forth Valley,Stirling,2021,Accidental exposure,2
+719,NHS Forth Valley,Stirling,2021,Other,3
+721,NHS Grampian,Moray,2012,Land transport accidents,5
+722,NHS Grampian,Moray,2012,Poisoning,7
+723,NHS Grampian,Moray,2012,Falls,8
+724,NHS Grampian,Moray,2012,"Struck by,against",1
+725,NHS Grampian,Moray,2012,Crushing,0
+726,NHS Grampian,Moray,2012,Scalds,0
+727,NHS Grampian,Moray,2012,Accidental exposure,1
+728,NHS Grampian,Moray,2012,Other,4
+730,NHS Grampian,Moray,2013,Land transport accidents,4
+731,NHS Grampian,Moray,2013,Poisoning,6
+732,NHS Grampian,Moray,2013,Falls,9
+733,NHS Grampian,Moray,2013,"Struck by,against",0
+734,NHS Grampian,Moray,2013,Crushing,0
+735,NHS Grampian,Moray,2013,Scalds,0
+736,NHS Grampian,Moray,2013,Accidental exposure,0
+737,NHS Grampian,Moray,2013,Other,4
+739,NHS Grampian,Moray,2014,Land transport accidents,8
+740,NHS Grampian,Moray,2014,Poisoning,2
+741,NHS Grampian,Moray,2014,Falls,21
+742,NHS Grampian,Moray,2014,"Struck by,against",0
+743,NHS Grampian,Moray,2014,Crushing,0
+744,NHS Grampian,Moray,2014,Scalds,0
+745,NHS Grampian,Moray,2014,Accidental exposure,1
+746,NHS Grampian,Moray,2014,Other,2
+748,NHS Grampian,Moray,2015,Land transport accidents,2
+749,NHS Grampian,Moray,2015,Poisoning,10
+750,NHS Grampian,Moray,2015,Falls,13
+751,NHS Grampian,Moray,2015,"Struck by,against",0
+752,NHS Grampian,Moray,2015,Crushing,0
+753,NHS Grampian,Moray,2015,Scalds,0
+754,NHS Grampian,Moray,2015,Accidental exposure,0
+755,NHS Grampian,Moray,2015,Other,3
+757,NHS Grampian,Moray,2016,Land transport accidents,7
+758,NHS Grampian,Moray,2016,Poisoning,6
+759,NHS Grampian,Moray,2016,Falls,14
+760,NHS Grampian,Moray,2016,"Struck by,against",0
+761,NHS Grampian,Moray,2016,Crushing,0
+762,NHS Grampian,Moray,2016,Scalds,0
+763,NHS Grampian,Moray,2016,Accidental exposure,1
+764,NHS Grampian,Moray,2016,Other,2
+766,NHS Grampian,Moray,2017,Land transport accidents,6
+767,NHS Grampian,Moray,2017,Poisoning,5
+768,NHS Grampian,Moray,2017,Falls,17
+769,NHS Grampian,Moray,2017,"Struck by,against",1
+770,NHS Grampian,Moray,2017,Crushing,0
+771,NHS Grampian,Moray,2017,Scalds,0
+772,NHS Grampian,Moray,2017,Accidental exposure,1
+773,NHS Grampian,Moray,2017,Other,4
+775,NHS Grampian,Moray,2018,Land transport accidents,6
+776,NHS Grampian,Moray,2018,Poisoning,15
+777,NHS Grampian,Moray,2018,Falls,10
+778,NHS Grampian,Moray,2018,"Struck by,against",0
+779,NHS Grampian,Moray,2018,Crushing,0
+780,NHS Grampian,Moray,2018,Scalds,0
+781,NHS Grampian,Moray,2018,Accidental exposure,1
+782,NHS Grampian,Moray,2018,Other,4
+784,NHS Grampian,Moray,2019,Land transport accidents,6
+785,NHS Grampian,Moray,2019,Poisoning,11
+786,NHS Grampian,Moray,2019,Falls,25
+787,NHS Grampian,Moray,2019,"Struck by,against",0
+788,NHS Grampian,Moray,2019,Crushing,0
+789,NHS Grampian,Moray,2019,Scalds,0
+790,NHS Grampian,Moray,2019,Accidental exposure,1
+791,NHS Grampian,Moray,2019,Other,3
+793,NHS Grampian,Moray,2020,Land transport accidents,4
+794,NHS Grampian,Moray,2020,Poisoning,9
+795,NHS Grampian,Moray,2020,Falls,21
+796,NHS Grampian,Moray,2020,"Struck by,against",0
+797,NHS Grampian,Moray,2020,Crushing,0
+798,NHS Grampian,Moray,2020,Scalds,0
+799,NHS Grampian,Moray,2020,Accidental exposure,1
+800,NHS Grampian,Moray,2020,Other,2
+802,NHS Grampian,Moray,2021,Land transport accidents,6
+803,NHS Grampian,Moray,2021,Poisoning,15
+804,NHS Grampian,Moray,2021,Falls,14
+805,NHS Grampian,Moray,2021,"Struck by,against",0
+806,NHS Grampian,Moray,2021,Crushing,0
+807,NHS Grampian,Moray,2021,Scalds,0
+808,NHS Grampian,Moray,2021,Accidental exposure,2
+809,NHS Grampian,Moray,2021,Other,4
+811,NHS Grampian,Aberdeen City,2012,Land transport accidents,11
+812,NHS Grampian,Aberdeen City,2012,Poisoning,15
+813,NHS Grampian,Aberdeen City,2012,Falls,14
+814,NHS Grampian,Aberdeen City,2012,"Struck by,against",0
+815,NHS Grampian,Aberdeen City,2012,Crushing,0
+816,NHS Grampian,Aberdeen City,2012,Scalds,0
+817,NHS Grampian,Aberdeen City,2012,Accidental exposure,5
+818,NHS Grampian,Aberdeen City,2012,Other,9
+820,NHS Grampian,Aberdeen City,2013,Land transport accidents,9
+821,NHS Grampian,Aberdeen City,2013,Poisoning,25
+822,NHS Grampian,Aberdeen City,2013,Falls,32
+823,NHS Grampian,Aberdeen City,2013,"Struck by,against",0
+824,NHS Grampian,Aberdeen City,2013,Crushing,0
+825,NHS Grampian,Aberdeen City,2013,Scalds,0
+826,NHS Grampian,Aberdeen City,2013,Accidental exposure,7
+827,NHS Grampian,Aberdeen City,2013,Other,12
+829,NHS Grampian,Aberdeen City,2014,Land transport accidents,12
+830,NHS Grampian,Aberdeen City,2014,Poisoning,25
+831,NHS Grampian,Aberdeen City,2014,Falls,33
+832,NHS Grampian,Aberdeen City,2014,"Struck by,against",0
+833,NHS Grampian,Aberdeen City,2014,Crushing,0
+834,NHS Grampian,Aberdeen City,2014,Scalds,0
+835,NHS Grampian,Aberdeen City,2014,Accidental exposure,3
+836,NHS Grampian,Aberdeen City,2014,Other,5
+838,NHS Grampian,Aberdeen City,2015,Land transport accidents,7
+839,NHS Grampian,Aberdeen City,2015,Poisoning,37
+840,NHS Grampian,Aberdeen City,2015,Falls,26
+841,NHS Grampian,Aberdeen City,2015,"Struck by,against",0
+842,NHS Grampian,Aberdeen City,2015,Crushing,0
+843,NHS Grampian,Aberdeen City,2015,Scalds,1
+844,NHS Grampian,Aberdeen City,2015,Accidental exposure,3
+845,NHS Grampian,Aberdeen City,2015,Other,2
+847,NHS Grampian,Aberdeen City,2016,Land transport accidents,7
+848,NHS Grampian,Aberdeen City,2016,Poisoning,43
+849,NHS Grampian,Aberdeen City,2016,Falls,28
+850,NHS Grampian,Aberdeen City,2016,"Struck by,against",0
+851,NHS Grampian,Aberdeen City,2016,Crushing,0
+852,NHS Grampian,Aberdeen City,2016,Scalds,0
+853,NHS Grampian,Aberdeen City,2016,Accidental exposure,2
+854,NHS Grampian,Aberdeen City,2016,Other,9
+856,NHS Grampian,Aberdeen City,2017,Land transport accidents,4
+857,NHS Grampian,Aberdeen City,2017,Poisoning,54
+858,NHS Grampian,Aberdeen City,2017,Falls,30
+859,NHS Grampian,Aberdeen City,2017,"Struck by,against",0
+860,NHS Grampian,Aberdeen City,2017,Crushing,0
+861,NHS Grampian,Aberdeen City,2017,Scalds,0
+862,NHS Grampian,Aberdeen City,2017,Accidental exposure,2
+863,NHS Grampian,Aberdeen City,2017,Other,9
+865,NHS Grampian,Aberdeen City,2018,Land transport accidents,4
+866,NHS Grampian,Aberdeen City,2018,Poisoning,49
+867,NHS Grampian,Aberdeen City,2018,Falls,34
+868,NHS Grampian,Aberdeen City,2018,"Struck by,against",0
+869,NHS Grampian,Aberdeen City,2018,Crushing,0
+870,NHS Grampian,Aberdeen City,2018,Scalds,0
+871,NHS Grampian,Aberdeen City,2018,Accidental exposure,2
+872,NHS Grampian,Aberdeen City,2018,Other,4
+874,NHS Grampian,Aberdeen City,2019,Land transport accidents,3
+875,NHS Grampian,Aberdeen City,2019,Poisoning,46
+876,NHS Grampian,Aberdeen City,2019,Falls,34
+877,NHS Grampian,Aberdeen City,2019,"Struck by,against",0
+878,NHS Grampian,Aberdeen City,2019,Crushing,0
+879,NHS Grampian,Aberdeen City,2019,Scalds,0
+880,NHS Grampian,Aberdeen City,2019,Accidental exposure,4
+881,NHS Grampian,Aberdeen City,2019,Other,6
+883,NHS Grampian,Aberdeen City,2020,Land transport accidents,1
+884,NHS Grampian,Aberdeen City,2020,Poisoning,61
+885,NHS Grampian,Aberdeen City,2020,Falls,35
+886,NHS Grampian,Aberdeen City,2020,"Struck by,against",0
+887,NHS Grampian,Aberdeen City,2020,Crushing,0
+888,NHS Grampian,Aberdeen City,2020,Scalds,0
+889,NHS Grampian,Aberdeen City,2020,Accidental exposure,2
+890,NHS Grampian,Aberdeen City,2020,Other,7
+892,NHS Grampian,Aberdeen City,2021,Land transport accidents,1
+893,NHS Grampian,Aberdeen City,2021,Poisoning,65
+894,NHS Grampian,Aberdeen City,2021,Falls,38
+895,NHS Grampian,Aberdeen City,2021,"Struck by,against",0
+896,NHS Grampian,Aberdeen City,2021,Crushing,0
+897,NHS Grampian,Aberdeen City,2021,Scalds,0
+898,NHS Grampian,Aberdeen City,2021,Accidental exposure,3
+899,NHS Grampian,Aberdeen City,2021,Other,3
+901,NHS Grampian,Aberdeenshire,2012,Land transport accidents,10
+902,NHS Grampian,Aberdeenshire,2012,Poisoning,8
+903,NHS Grampian,Aberdeenshire,2012,Falls,32
+904,NHS Grampian,Aberdeenshire,2012,"Struck by,against",0
+905,NHS Grampian,Aberdeenshire,2012,Crushing,0
+906,NHS Grampian,Aberdeenshire,2012,Scalds,0
+907,NHS Grampian,Aberdeenshire,2012,Accidental exposure,1
+908,NHS Grampian,Aberdeenshire,2012,Other,6
+910,NHS Grampian,Aberdeenshire,2013,Land transport accidents,19
+911,NHS Grampian,Aberdeenshire,2013,Poisoning,21
+912,NHS Grampian,Aberdeenshire,2013,Falls,25
+913,NHS Grampian,Aberdeenshire,2013,"Struck by,against",0
+914,NHS Grampian,Aberdeenshire,2013,Crushing,0
+915,NHS Grampian,Aberdeenshire,2013,Scalds,1
+916,NHS Grampian,Aberdeenshire,2013,Accidental exposure,4
+917,NHS Grampian,Aberdeenshire,2013,Other,7
+919,NHS Grampian,Aberdeenshire,2014,Land transport accidents,22
+920,NHS Grampian,Aberdeenshire,2014,Poisoning,9
+921,NHS Grampian,Aberdeenshire,2014,Falls,39
+922,NHS Grampian,Aberdeenshire,2014,"Struck by,against",0
+923,NHS Grampian,Aberdeenshire,2014,Crushing,0
+924,NHS Grampian,Aberdeenshire,2014,Scalds,0
+925,NHS Grampian,Aberdeenshire,2014,Accidental exposure,2
+926,NHS Grampian,Aberdeenshire,2014,Other,6
+928,NHS Grampian,Aberdeenshire,2015,Land transport accidents,18
+929,NHS Grampian,Aberdeenshire,2015,Poisoning,11
+930,NHS Grampian,Aberdeenshire,2015,Falls,34
+931,NHS Grampian,Aberdeenshire,2015,"Struck by,against",0
+932,NHS Grampian,Aberdeenshire,2015,Crushing,0
+933,NHS Grampian,Aberdeenshire,2015,Scalds,0
+934,NHS Grampian,Aberdeenshire,2015,Accidental exposure,6
+935,NHS Grampian,Aberdeenshire,2015,Other,5
+937,NHS Grampian,Aberdeenshire,2016,Land transport accidents,16
+938,NHS Grampian,Aberdeenshire,2016,Poisoning,16
+939,NHS Grampian,Aberdeenshire,2016,Falls,39
+940,NHS Grampian,Aberdeenshire,2016,"Struck by,against",2
+941,NHS Grampian,Aberdeenshire,2016,Crushing,0
+942,NHS Grampian,Aberdeenshire,2016,Scalds,0
+943,NHS Grampian,Aberdeenshire,2016,Accidental exposure,3
+944,NHS Grampian,Aberdeenshire,2016,Other,5
+946,NHS Grampian,Aberdeenshire,2017,Land transport accidents,12
+947,NHS Grampian,Aberdeenshire,2017,Poisoning,25
+948,NHS Grampian,Aberdeenshire,2017,Falls,23
+949,NHS Grampian,Aberdeenshire,2017,"Struck by,against",0
+950,NHS Grampian,Aberdeenshire,2017,Crushing,0
+951,NHS Grampian,Aberdeenshire,2017,Scalds,0
+952,NHS Grampian,Aberdeenshire,2017,Accidental exposure,3
+953,NHS Grampian,Aberdeenshire,2017,Other,8
+955,NHS Grampian,Aberdeenshire,2018,Land transport accidents,14
+956,NHS Grampian,Aberdeenshire,2018,Poisoning,21
+957,NHS Grampian,Aberdeenshire,2018,Falls,45
+958,NHS Grampian,Aberdeenshire,2018,"Struck by,against",0
+959,NHS Grampian,Aberdeenshire,2018,Crushing,0
+960,NHS Grampian,Aberdeenshire,2018,Scalds,0
+961,NHS Grampian,Aberdeenshire,2018,Accidental exposure,7
+962,NHS Grampian,Aberdeenshire,2018,Other,8
+964,NHS Grampian,Aberdeenshire,2019,Land transport accidents,6
+965,NHS Grampian,Aberdeenshire,2019,Poisoning,36
+966,NHS Grampian,Aberdeenshire,2019,Falls,34
+967,NHS Grampian,Aberdeenshire,2019,"Struck by,against",0
+968,NHS Grampian,Aberdeenshire,2019,Crushing,0
+969,NHS Grampian,Aberdeenshire,2019,Scalds,0
+970,NHS Grampian,Aberdeenshire,2019,Accidental exposure,4
+971,NHS Grampian,Aberdeenshire,2019,Other,5
+973,NHS Grampian,Aberdeenshire,2020,Land transport accidents,13
+974,NHS Grampian,Aberdeenshire,2020,Poisoning,37
+975,NHS Grampian,Aberdeenshire,2020,Falls,29
+976,NHS Grampian,Aberdeenshire,2020,"Struck by,against",0
+977,NHS Grampian,Aberdeenshire,2020,Crushing,0
+978,NHS Grampian,Aberdeenshire,2020,Scalds,0
+979,NHS Grampian,Aberdeenshire,2020,Accidental exposure,10
+980,NHS Grampian,Aberdeenshire,2020,Other,3
+982,NHS Grampian,Aberdeenshire,2021,Land transport accidents,11
+983,NHS Grampian,Aberdeenshire,2021,Poisoning,33
+984,NHS Grampian,Aberdeenshire,2021,Falls,44
+985,NHS Grampian,Aberdeenshire,2021,"Struck by,against",0
+986,NHS Grampian,Aberdeenshire,2021,Crushing,0
+987,NHS Grampian,Aberdeenshire,2021,Scalds,0
+988,NHS Grampian,Aberdeenshire,2021,Accidental exposure,4
+989,NHS Grampian,Aberdeenshire,2021,Other,3
+991,NHS Highland,Highland,2012,Land transport accidents,16
+992,NHS Highland,Highland,2012,Poisoning,21
+993,NHS Highland,Highland,2012,Falls,40
+994,NHS Highland,Highland,2012,"Struck by,against",0
+995,NHS Highland,Highland,2012,Crushing,0
+996,NHS Highland,Highland,2012,Scalds,0
+997,NHS Highland,Highland,2012,Accidental exposure,2
+998,NHS Highland,Highland,2012,Other,16
+1000,NHS Highland,Highland,2013,Land transport accidents,20
+1001,NHS Highland,Highland,2013,Poisoning,15
+1002,NHS Highland,Highland,2013,Falls,30
+1003,NHS Highland,Highland,2013,"Struck by,against",1
+1004,NHS Highland,Highland,2013,Crushing,0
+1005,NHS Highland,Highland,2013,Scalds,0
+1006,NHS Highland,Highland,2013,Accidental exposure,0
+1007,NHS Highland,Highland,2013,Other,12
+1009,NHS Highland,Highland,2014,Land transport accidents,15
+1010,NHS Highland,Highland,2014,Poisoning,18
+1011,NHS Highland,Highland,2014,Falls,39
+1012,NHS Highland,Highland,2014,"Struck by,against",1
+1013,NHS Highland,Highland,2014,Crushing,0
+1014,NHS Highland,Highland,2014,Scalds,0
+1015,NHS Highland,Highland,2014,Accidental exposure,1
+1016,NHS Highland,Highland,2014,Other,4
+1018,NHS Highland,Highland,2015,Land transport accidents,14
+1019,NHS Highland,Highland,2015,Poisoning,21
+1020,NHS Highland,Highland,2015,Falls,34
+1021,NHS Highland,Highland,2015,"Struck by,against",0
+1022,NHS Highland,Highland,2015,Crushing,0
+1023,NHS Highland,Highland,2015,Scalds,0
+1024,NHS Highland,Highland,2015,Accidental exposure,0
+1025,NHS Highland,Highland,2015,Other,13
+1027,NHS Highland,Highland,2016,Land transport accidents,19
+1028,NHS Highland,Highland,2016,Poisoning,17
+1029,NHS Highland,Highland,2016,Falls,34
+1030,NHS Highland,Highland,2016,"Struck by,against",0
+1031,NHS Highland,Highland,2016,Crushing,1
+1032,NHS Highland,Highland,2016,Scalds,0
+1033,NHS Highland,Highland,2016,Accidental exposure,5
+1034,NHS Highland,Highland,2016,Other,22
+1036,NHS Highland,Highland,2017,Land transport accidents,17
+1037,NHS Highland,Highland,2017,Poisoning,19
+1038,NHS Highland,Highland,2017,Falls,46
+1039,NHS Highland,Highland,2017,"Struck by,against",0
+1040,NHS Highland,Highland,2017,Crushing,0
+1041,NHS Highland,Highland,2017,Scalds,0
+1042,NHS Highland,Highland,2017,Accidental exposure,3
+1043,NHS Highland,Highland,2017,Other,15
+1045,NHS Highland,Highland,2018,Land transport accidents,25
+1046,NHS Highland,Highland,2018,Poisoning,35
+1047,NHS Highland,Highland,2018,Falls,55
+1048,NHS Highland,Highland,2018,"Struck by,against",2
+1049,NHS Highland,Highland,2018,Crushing,0
+1050,NHS Highland,Highland,2018,Scalds,0
+1051,NHS Highland,Highland,2018,Accidental exposure,5
+1052,NHS Highland,Highland,2018,Other,16
+1054,NHS Highland,Highland,2019,Land transport accidents,24
+1055,NHS Highland,Highland,2019,Poisoning,13
+1056,NHS Highland,Highland,2019,Falls,51
+1057,NHS Highland,Highland,2019,"Struck by,against",1
+1058,NHS Highland,Highland,2019,Crushing,0
+1059,NHS Highland,Highland,2019,Scalds,0
+1060,NHS Highland,Highland,2019,Accidental exposure,1
+1061,NHS Highland,Highland,2019,Other,17
+1063,NHS Highland,Highland,2020,Land transport accidents,18
+1064,NHS Highland,Highland,2020,Poisoning,29
+1065,NHS Highland,Highland,2020,Falls,56
+1066,NHS Highland,Highland,2020,"Struck by,against",0
+1067,NHS Highland,Highland,2020,Crushing,0
+1068,NHS Highland,Highland,2020,Scalds,0
+1069,NHS Highland,Highland,2020,Accidental exposure,6
+1070,NHS Highland,Highland,2020,Other,15
+1072,NHS Highland,Highland,2021,Land transport accidents,14
+1073,NHS Highland,Highland,2021,Poisoning,34
+1074,NHS Highland,Highland,2021,Falls,44
+1075,NHS Highland,Highland,2021,"Struck by,against",0
+1076,NHS Highland,Highland,2021,Crushing,0
+1077,NHS Highland,Highland,2021,Scalds,1
+1078,NHS Highland,Highland,2021,Accidental exposure,6
+1079,NHS Highland,Highland,2021,Other,14
+1081,NHS Highland,Argyll and Bute,2012,Land transport accidents,2
+1082,NHS Highland,Argyll and Bute,2012,Poisoning,6
+1083,NHS Highland,Argyll and Bute,2012,Falls,14
+1084,NHS Highland,Argyll and Bute,2012,"Struck by,against",0
+1085,NHS Highland,Argyll and Bute,2012,Crushing,0
+1086,NHS Highland,Argyll and Bute,2012,Scalds,0
+1087,NHS Highland,Argyll and Bute,2012,Accidental exposure,3
+1088,NHS Highland,Argyll and Bute,2012,Other,8
+1090,NHS Highland,Argyll and Bute,2013,Land transport accidents,7
+1091,NHS Highland,Argyll and Bute,2013,Poisoning,10
+1092,NHS Highland,Argyll and Bute,2013,Falls,11
+1093,NHS Highland,Argyll and Bute,2013,"Struck by,against",0
+1094,NHS Highland,Argyll and Bute,2013,Crushing,0
+1095,NHS Highland,Argyll and Bute,2013,Scalds,0
+1096,NHS Highland,Argyll and Bute,2013,Accidental exposure,2
+1097,NHS Highland,Argyll and Bute,2013,Other,3
+1099,NHS Highland,Argyll and Bute,2014,Land transport accidents,5
+1100,NHS Highland,Argyll and Bute,2014,Poisoning,7
+1101,NHS Highland,Argyll and Bute,2014,Falls,16
+1102,NHS Highland,Argyll and Bute,2014,"Struck by,against",0
+1103,NHS Highland,Argyll and Bute,2014,Crushing,0
+1104,NHS Highland,Argyll and Bute,2014,Scalds,0
+1105,NHS Highland,Argyll and Bute,2014,Accidental exposure,1
+1106,NHS Highland,Argyll and Bute,2014,Other,2
+1108,NHS Highland,Argyll and Bute,2015,Land transport accidents,5
+1109,NHS Highland,Argyll and Bute,2015,Poisoning,7
+1110,NHS Highland,Argyll and Bute,2015,Falls,20
+1111,NHS Highland,Argyll and Bute,2015,"Struck by,against",0
+1112,NHS Highland,Argyll and Bute,2015,Crushing,0
+1113,NHS Highland,Argyll and Bute,2015,Scalds,0
+1114,NHS Highland,Argyll and Bute,2015,Accidental exposure,1
+1115,NHS Highland,Argyll and Bute,2015,Other,2
+1117,NHS Highland,Argyll and Bute,2016,Land transport accidents,7
+1118,NHS Highland,Argyll and Bute,2016,Poisoning,11
+1119,NHS Highland,Argyll and Bute,2016,Falls,19
+1120,NHS Highland,Argyll and Bute,2016,"Struck by,against",0
+1121,NHS Highland,Argyll and Bute,2016,Crushing,0
+1122,NHS Highland,Argyll and Bute,2016,Scalds,0
+1123,NHS Highland,Argyll and Bute,2016,Accidental exposure,2
+1124,NHS Highland,Argyll and Bute,2016,Other,4
+1126,NHS Highland,Argyll and Bute,2017,Land transport accidents,4
+1127,NHS Highland,Argyll and Bute,2017,Poisoning,7
+1128,NHS Highland,Argyll and Bute,2017,Falls,13
+1129,NHS Highland,Argyll and Bute,2017,"Struck by,against",1
+1130,NHS Highland,Argyll and Bute,2017,Crushing,0
+1131,NHS Highland,Argyll and Bute,2017,Scalds,0
+1132,NHS Highland,Argyll and Bute,2017,Accidental exposure,0
+1133,NHS Highland,Argyll and Bute,2017,Other,7
+1135,NHS Highland,Argyll and Bute,2018,Land transport accidents,7
+1136,NHS Highland,Argyll and Bute,2018,Poisoning,9
+1137,NHS Highland,Argyll and Bute,2018,Falls,25
+1138,NHS Highland,Argyll and Bute,2018,"Struck by,against",0
+1139,NHS Highland,Argyll and Bute,2018,Crushing,0
+1140,NHS Highland,Argyll and Bute,2018,Scalds,0
+1141,NHS Highland,Argyll and Bute,2018,Accidental exposure,0
+1142,NHS Highland,Argyll and Bute,2018,Other,3
+1144,NHS Highland,Argyll and Bute,2019,Land transport accidents,6
+1145,NHS Highland,Argyll and Bute,2019,Poisoning,16
+1146,NHS Highland,Argyll and Bute,2019,Falls,18
+1147,NHS Highland,Argyll and Bute,2019,"Struck by,against",0
+1148,NHS Highland,Argyll and Bute,2019,Crushing,0
+1149,NHS Highland,Argyll and Bute,2019,Scalds,0
+1150,NHS Highland,Argyll and Bute,2019,Accidental exposure,1
+1151,NHS Highland,Argyll and Bute,2019,Other,2
+1153,NHS Highland,Argyll and Bute,2020,Land transport accidents,4
+1154,NHS Highland,Argyll and Bute,2020,Poisoning,13
+1155,NHS Highland,Argyll and Bute,2020,Falls,19
+1156,NHS Highland,Argyll and Bute,2020,"Struck by,against",1
+1157,NHS Highland,Argyll and Bute,2020,Crushing,0
+1158,NHS Highland,Argyll and Bute,2020,Scalds,0
+1159,NHS Highland,Argyll and Bute,2020,Accidental exposure,1
+1160,NHS Highland,Argyll and Bute,2020,Other,3
+1162,NHS Highland,Argyll and Bute,2021,Land transport accidents,5
+1163,NHS Highland,Argyll and Bute,2021,Poisoning,8
+1164,NHS Highland,Argyll and Bute,2021,Falls,19
+1165,NHS Highland,Argyll and Bute,2021,"Struck by,against",0
+1166,NHS Highland,Argyll and Bute,2021,Crushing,0
+1167,NHS Highland,Argyll and Bute,2021,Scalds,0
+1168,NHS Highland,Argyll and Bute,2021,Accidental exposure,0
+1169,NHS Highland,Argyll and Bute,2021,Other,8
+1171,NHS Lothian,East Lothian,2012,Land transport accidents,2
+1172,NHS Lothian,East Lothian,2012,Poisoning,3
+1173,NHS Lothian,East Lothian,2012,Falls,13
+1174,NHS Lothian,East Lothian,2012,"Struck by,against",0
+1175,NHS Lothian,East Lothian,2012,Crushing,0
+1176,NHS Lothian,East Lothian,2012,Scalds,0
+1177,NHS Lothian,East Lothian,2012,Accidental exposure,0
+1178,NHS Lothian,East Lothian,2012,Other,0
+1180,NHS Lothian,East Lothian,2013,Land transport accidents,4
+1181,NHS Lothian,East Lothian,2013,Poisoning,5
+1182,NHS Lothian,East Lothian,2013,Falls,14
+1183,NHS Lothian,East Lothian,2013,"Struck by,against",0
+1184,NHS Lothian,East Lothian,2013,Crushing,1
+1185,NHS Lothian,East Lothian,2013,Scalds,1
+1186,NHS Lothian,East Lothian,2013,Accidental exposure,0
+1187,NHS Lothian,East Lothian,2013,Other,1
+1189,NHS Lothian,East Lothian,2014,Land transport accidents,2
+1190,NHS Lothian,East Lothian,2014,Poisoning,8
+1191,NHS Lothian,East Lothian,2014,Falls,9
+1192,NHS Lothian,East Lothian,2014,"Struck by,against",0
+1193,NHS Lothian,East Lothian,2014,Crushing,0
+1194,NHS Lothian,East Lothian,2014,Scalds,0
+1195,NHS Lothian,East Lothian,2014,Accidental exposure,2
+1196,NHS Lothian,East Lothian,2014,Other,2
+1198,NHS Lothian,East Lothian,2015,Land transport accidents,3
+1199,NHS Lothian,East Lothian,2015,Poisoning,8
+1200,NHS Lothian,East Lothian,2015,Falls,13
+1201,NHS Lothian,East Lothian,2015,"Struck by,against",0
+1202,NHS Lothian,East Lothian,2015,Crushing,0
+1203,NHS Lothian,East Lothian,2015,Scalds,0
+1204,NHS Lothian,East Lothian,2015,Accidental exposure,1
+1205,NHS Lothian,East Lothian,2015,Other,4
+1207,NHS Lothian,East Lothian,2016,Land transport accidents,5
+1208,NHS Lothian,East Lothian,2016,Poisoning,9
+1209,NHS Lothian,East Lothian,2016,Falls,18
+1210,NHS Lothian,East Lothian,2016,"Struck by,against",1
+1211,NHS Lothian,East Lothian,2016,Crushing,0
+1212,NHS Lothian,East Lothian,2016,Scalds,0
+1213,NHS Lothian,East Lothian,2016,Accidental exposure,5
+1214,NHS Lothian,East Lothian,2016,Other,1
+1216,NHS Lothian,East Lothian,2017,Land transport accidents,6
+1217,NHS Lothian,East Lothian,2017,Poisoning,12
+1218,NHS Lothian,East Lothian,2017,Falls,11
+1219,NHS Lothian,East Lothian,2017,"Struck by,against",0
+1220,NHS Lothian,East Lothian,2017,Crushing,0
+1221,NHS Lothian,East Lothian,2017,Scalds,0
+1222,NHS Lothian,East Lothian,2017,Accidental exposure,2
+1223,NHS Lothian,East Lothian,2017,Other,1
+1225,NHS Lothian,East Lothian,2018,Land transport accidents,2
+1226,NHS Lothian,East Lothian,2018,Poisoning,15
+1227,NHS Lothian,East Lothian,2018,Falls,11
+1228,NHS Lothian,East Lothian,2018,"Struck by,against",0
+1229,NHS Lothian,East Lothian,2018,Crushing,0
+1230,NHS Lothian,East Lothian,2018,Scalds,0
+1231,NHS Lothian,East Lothian,2018,Accidental exposure,2
+1232,NHS Lothian,East Lothian,2018,Other,3
+1234,NHS Lothian,East Lothian,2019,Land transport accidents,2
+1235,NHS Lothian,East Lothian,2019,Poisoning,14
+1236,NHS Lothian,East Lothian,2019,Falls,19
+1237,NHS Lothian,East Lothian,2019,"Struck by,against",0
+1238,NHS Lothian,East Lothian,2019,Crushing,0
+1239,NHS Lothian,East Lothian,2019,Scalds,0
+1240,NHS Lothian,East Lothian,2019,Accidental exposure,0
+1241,NHS Lothian,East Lothian,2019,Other,4
+1243,NHS Lothian,East Lothian,2020,Land transport accidents,5
+1244,NHS Lothian,East Lothian,2020,Poisoning,14
+1245,NHS Lothian,East Lothian,2020,Falls,10
+1246,NHS Lothian,East Lothian,2020,"Struck by,against",0
+1247,NHS Lothian,East Lothian,2020,Crushing,0
+1248,NHS Lothian,East Lothian,2020,Scalds,0
+1249,NHS Lothian,East Lothian,2020,Accidental exposure,2
+1250,NHS Lothian,East Lothian,2020,Other,1
+1252,NHS Lothian,East Lothian,2021,Land transport accidents,1
+1253,NHS Lothian,East Lothian,2021,Poisoning,17
+1254,NHS Lothian,East Lothian,2021,Falls,17
+1255,NHS Lothian,East Lothian,2021,"Struck by,against",0
+1256,NHS Lothian,East Lothian,2021,Crushing,0
+1257,NHS Lothian,East Lothian,2021,Scalds,1
+1258,NHS Lothian,East Lothian,2021,Accidental exposure,1
+1259,NHS Lothian,East Lothian,2021,Other,3
+1261,NHS Lothian,Midlothian,2012,Land transport accidents,1
+1262,NHS Lothian,Midlothian,2012,Poisoning,4
+1263,NHS Lothian,Midlothian,2012,Falls,6
+1264,NHS Lothian,Midlothian,2012,"Struck by,against",0
+1265,NHS Lothian,Midlothian,2012,Crushing,0
+1266,NHS Lothian,Midlothian,2012,Scalds,0
+1267,NHS Lothian,Midlothian,2012,Accidental exposure,0
+1268,NHS Lothian,Midlothian,2012,Other,4
+1270,NHS Lothian,Midlothian,2013,Land transport accidents,4
+1271,NHS Lothian,Midlothian,2013,Poisoning,6
+1272,NHS Lothian,Midlothian,2013,Falls,13
+1273,NHS Lothian,Midlothian,2013,"Struck by,against",0
+1274,NHS Lothian,Midlothian,2013,Crushing,0
+1275,NHS Lothian,Midlothian,2013,Scalds,0
+1276,NHS Lothian,Midlothian,2013,Accidental exposure,0
+1277,NHS Lothian,Midlothian,2013,Other,5
+1279,NHS Lothian,Midlothian,2014,Land transport accidents,1
+1280,NHS Lothian,Midlothian,2014,Poisoning,2
+1281,NHS Lothian,Midlothian,2014,Falls,7
+1282,NHS Lothian,Midlothian,2014,"Struck by,against",0
+1283,NHS Lothian,Midlothian,2014,Crushing,0
+1284,NHS Lothian,Midlothian,2014,Scalds,0
+1285,NHS Lothian,Midlothian,2014,Accidental exposure,1
+1286,NHS Lothian,Midlothian,2014,Other,3
+1288,NHS Lothian,Midlothian,2015,Land transport accidents,2
+1289,NHS Lothian,Midlothian,2015,Poisoning,9
+1290,NHS Lothian,Midlothian,2015,Falls,14
+1291,NHS Lothian,Midlothian,2015,"Struck by,against",0
+1292,NHS Lothian,Midlothian,2015,Crushing,0
+1293,NHS Lothian,Midlothian,2015,Scalds,0
+1294,NHS Lothian,Midlothian,2015,Accidental exposure,0
+1295,NHS Lothian,Midlothian,2015,Other,1
+1297,NHS Lothian,Midlothian,2016,Land transport accidents,3
+1298,NHS Lothian,Midlothian,2016,Poisoning,8
+1299,NHS Lothian,Midlothian,2016,Falls,12
+1300,NHS Lothian,Midlothian,2016,"Struck by,against",0
+1301,NHS Lothian,Midlothian,2016,Crushing,0
+1302,NHS Lothian,Midlothian,2016,Scalds,0
+1303,NHS Lothian,Midlothian,2016,Accidental exposure,1
+1304,NHS Lothian,Midlothian,2016,Other,1
+1306,NHS Lothian,Midlothian,2017,Land transport accidents,4
+1307,NHS Lothian,Midlothian,2017,Poisoning,15
+1308,NHS Lothian,Midlothian,2017,Falls,10
+1309,NHS Lothian,Midlothian,2017,"Struck by,against",0
+1310,NHS Lothian,Midlothian,2017,Crushing,0
+1311,NHS Lothian,Midlothian,2017,Scalds,0
+1312,NHS Lothian,Midlothian,2017,Accidental exposure,1
+1313,NHS Lothian,Midlothian,2017,Other,2
+1315,NHS Lothian,Midlothian,2018,Land transport accidents,1
+1316,NHS Lothian,Midlothian,2018,Poisoning,9
+1317,NHS Lothian,Midlothian,2018,Falls,10
+1318,NHS Lothian,Midlothian,2018,"Struck by,against",0
+1319,NHS Lothian,Midlothian,2018,Crushing,0
+1320,NHS Lothian,Midlothian,2018,Scalds,0
+1321,NHS Lothian,Midlothian,2018,Accidental exposure,0
+1322,NHS Lothian,Midlothian,2018,Other,2
+1324,NHS Lothian,Midlothian,2019,Land transport accidents,3
+1325,NHS Lothian,Midlothian,2019,Poisoning,18
+1326,NHS Lothian,Midlothian,2019,Falls,12
+1327,NHS Lothian,Midlothian,2019,"Struck by,against",0
+1328,NHS Lothian,Midlothian,2019,Crushing,0
+1329,NHS Lothian,Midlothian,2019,Scalds,0
+1330,NHS Lothian,Midlothian,2019,Accidental exposure,0
+1331,NHS Lothian,Midlothian,2019,Other,0
+1333,NHS Lothian,Midlothian,2020,Land transport accidents,0
+1334,NHS Lothian,Midlothian,2020,Poisoning,23
+1335,NHS Lothian,Midlothian,2020,Falls,15
+1336,NHS Lothian,Midlothian,2020,"Struck by,against",0
+1337,NHS Lothian,Midlothian,2020,Crushing,0
+1338,NHS Lothian,Midlothian,2020,Scalds,0
+1339,NHS Lothian,Midlothian,2020,Accidental exposure,3
+1340,NHS Lothian,Midlothian,2020,Other,2
+1342,NHS Lothian,Midlothian,2021,Land transport accidents,1
+1343,NHS Lothian,Midlothian,2021,Poisoning,24
+1344,NHS Lothian,Midlothian,2021,Falls,8
+1345,NHS Lothian,Midlothian,2021,"Struck by,against",0
+1346,NHS Lothian,Midlothian,2021,Crushing,0
+1347,NHS Lothian,Midlothian,2021,Scalds,0
+1348,NHS Lothian,Midlothian,2021,Accidental exposure,0
+1349,NHS Lothian,Midlothian,2021,Other,1
+1351,NHS Lothian,City of Edinburgh,2012,Land transport accidents,23
+1352,NHS Lothian,City of Edinburgh,2012,Poisoning,39
+1353,NHS Lothian,City of Edinburgh,2012,Falls,49
+1354,NHS Lothian,City of Edinburgh,2012,"Struck by,against",0
+1355,NHS Lothian,City of Edinburgh,2012,Crushing,0
+1356,NHS Lothian,City of Edinburgh,2012,Scalds,1
+1357,NHS Lothian,City of Edinburgh,2012,Accidental exposure,9
+1358,NHS Lothian,City of Edinburgh,2012,Other,8
+1360,NHS Lothian,City of Edinburgh,2013,Land transport accidents,14
+1361,NHS Lothian,City of Edinburgh,2013,Poisoning,38
+1362,NHS Lothian,City of Edinburgh,2013,Falls,67
+1363,NHS Lothian,City of Edinburgh,2013,"Struck by,against",0
+1364,NHS Lothian,City of Edinburgh,2013,Crushing,0
+1365,NHS Lothian,City of Edinburgh,2013,Scalds,0
+1366,NHS Lothian,City of Edinburgh,2013,Accidental exposure,6
+1367,NHS Lothian,City of Edinburgh,2013,Other,9
+1369,NHS Lothian,City of Edinburgh,2014,Land transport accidents,17
+1370,NHS Lothian,City of Edinburgh,2014,Poisoning,55
+1371,NHS Lothian,City of Edinburgh,2014,Falls,68
+1372,NHS Lothian,City of Edinburgh,2014,"Struck by,against",1
+1373,NHS Lothian,City of Edinburgh,2014,Crushing,0
+1374,NHS Lothian,City of Edinburgh,2014,Scalds,0
+1375,NHS Lothian,City of Edinburgh,2014,Accidental exposure,4
+1376,NHS Lothian,City of Edinburgh,2014,Other,14
+1378,NHS Lothian,City of Edinburgh,2015,Land transport accidents,4
+1379,NHS Lothian,City of Edinburgh,2015,Poisoning,59
+1380,NHS Lothian,City of Edinburgh,2015,Falls,56
+1381,NHS Lothian,City of Edinburgh,2015,"Struck by,against",0
+1382,NHS Lothian,City of Edinburgh,2015,Crushing,0
+1383,NHS Lothian,City of Edinburgh,2015,Scalds,0
+1384,NHS Lothian,City of Edinburgh,2015,Accidental exposure,6
+1385,NHS Lothian,City of Edinburgh,2015,Other,16
+1387,NHS Lothian,City of Edinburgh,2016,Land transport accidents,12
+1388,NHS Lothian,City of Edinburgh,2016,Poisoning,67
+1389,NHS Lothian,City of Edinburgh,2016,Falls,64
+1390,NHS Lothian,City of Edinburgh,2016,"Struck by,against",0
+1391,NHS Lothian,City of Edinburgh,2016,Crushing,0
+1392,NHS Lothian,City of Edinburgh,2016,Scalds,0
+1393,NHS Lothian,City of Edinburgh,2016,Accidental exposure,6
+1394,NHS Lothian,City of Edinburgh,2016,Other,15
+1396,NHS Lothian,City of Edinburgh,2017,Land transport accidents,8
+1397,NHS Lothian,City of Edinburgh,2017,Poisoning,84
+1398,NHS Lothian,City of Edinburgh,2017,Falls,77
+1399,NHS Lothian,City of Edinburgh,2017,"Struck by,against",0
+1400,NHS Lothian,City of Edinburgh,2017,Crushing,0
+1401,NHS Lothian,City of Edinburgh,2017,Scalds,0
+1402,NHS Lothian,City of Edinburgh,2017,Accidental exposure,10
+1403,NHS Lothian,City of Edinburgh,2017,Other,9
+1405,NHS Lothian,City of Edinburgh,2018,Land transport accidents,14
+1406,NHS Lothian,City of Edinburgh,2018,Poisoning,83
+1407,NHS Lothian,City of Edinburgh,2018,Falls,76
+1408,NHS Lothian,City of Edinburgh,2018,"Struck by,against",0
+1409,NHS Lothian,City of Edinburgh,2018,Crushing,0
+1410,NHS Lothian,City of Edinburgh,2018,Scalds,0
+1411,NHS Lothian,City of Edinburgh,2018,Accidental exposure,6
+1412,NHS Lothian,City of Edinburgh,2018,Other,5
+1414,NHS Lothian,City of Edinburgh,2019,Land transport accidents,10
+1415,NHS Lothian,City of Edinburgh,2019,Poisoning,90
+1416,NHS Lothian,City of Edinburgh,2019,Falls,82
+1417,NHS Lothian,City of Edinburgh,2019,"Struck by,against",0
+1418,NHS Lothian,City of Edinburgh,2019,Crushing,0
+1419,NHS Lothian,City of Edinburgh,2019,Scalds,0
+1420,NHS Lothian,City of Edinburgh,2019,Accidental exposure,4
+1421,NHS Lothian,City of Edinburgh,2019,Other,12
+1423,NHS Lothian,City of Edinburgh,2020,Land transport accidents,4
+1424,NHS Lothian,City of Edinburgh,2020,Poisoning,104
+1425,NHS Lothian,City of Edinburgh,2020,Falls,73
+1426,NHS Lothian,City of Edinburgh,2020,"Struck by,against",0
+1427,NHS Lothian,City of Edinburgh,2020,Crushing,0
+1428,NHS Lothian,City of Edinburgh,2020,Scalds,0
+1429,NHS Lothian,City of Edinburgh,2020,Accidental exposure,6
+1430,NHS Lothian,City of Edinburgh,2020,Other,10
+1432,NHS Lothian,City of Edinburgh,2021,Land transport accidents,9
+1433,NHS Lothian,City of Edinburgh,2021,Poisoning,109
+1434,NHS Lothian,City of Edinburgh,2021,Falls,71
+1435,NHS Lothian,City of Edinburgh,2021,"Struck by,against",0
+1436,NHS Lothian,City of Edinburgh,2021,Crushing,1
+1437,NHS Lothian,City of Edinburgh,2021,Scalds,1
+1438,NHS Lothian,City of Edinburgh,2021,Accidental exposure,11
+1439,NHS Lothian,City of Edinburgh,2021,Other,14
+1441,NHS Lothian,West Lothian,2012,Land transport accidents,6
+1442,NHS Lothian,West Lothian,2012,Poisoning,8
+1443,NHS Lothian,West Lothian,2012,Falls,12
+1444,NHS Lothian,West Lothian,2012,"Struck by,against",1
+1445,NHS Lothian,West Lothian,2012,Crushing,0
+1446,NHS Lothian,West Lothian,2012,Scalds,1
+1447,NHS Lothian,West Lothian,2012,Accidental exposure,1
+1448,NHS Lothian,West Lothian,2012,Other,5
+1450,NHS Lothian,West Lothian,2013,Land transport accidents,5
+1451,NHS Lothian,West Lothian,2013,Poisoning,13
+1452,NHS Lothian,West Lothian,2013,Falls,15
+1453,NHS Lothian,West Lothian,2013,"Struck by,against",0
+1454,NHS Lothian,West Lothian,2013,Crushing,0
+1455,NHS Lothian,West Lothian,2013,Scalds,0
+1456,NHS Lothian,West Lothian,2013,Accidental exposure,1
+1457,NHS Lothian,West Lothian,2013,Other,2
+1459,NHS Lothian,West Lothian,2014,Land transport accidents,11
+1460,NHS Lothian,West Lothian,2014,Poisoning,14
+1461,NHS Lothian,West Lothian,2014,Falls,15
+1462,NHS Lothian,West Lothian,2014,"Struck by,against",0
+1463,NHS Lothian,West Lothian,2014,Crushing,0
+1464,NHS Lothian,West Lothian,2014,Scalds,0
+1465,NHS Lothian,West Lothian,2014,Accidental exposure,4
+1466,NHS Lothian,West Lothian,2014,Other,4
+1468,NHS Lothian,West Lothian,2015,Land transport accidents,6
+1469,NHS Lothian,West Lothian,2015,Poisoning,14
+1470,NHS Lothian,West Lothian,2015,Falls,16
+1471,NHS Lothian,West Lothian,2015,"Struck by,against",0
+1472,NHS Lothian,West Lothian,2015,Crushing,0
+1473,NHS Lothian,West Lothian,2015,Scalds,0
+1474,NHS Lothian,West Lothian,2015,Accidental exposure,2
+1475,NHS Lothian,West Lothian,2015,Other,8
+1477,NHS Lothian,West Lothian,2016,Land transport accidents,2
+1478,NHS Lothian,West Lothian,2016,Poisoning,16
+1479,NHS Lothian,West Lothian,2016,Falls,13
+1480,NHS Lothian,West Lothian,2016,"Struck by,against",0
+1481,NHS Lothian,West Lothian,2016,Crushing,0
+1482,NHS Lothian,West Lothian,2016,Scalds,0
+1483,NHS Lothian,West Lothian,2016,Accidental exposure,5
+1484,NHS Lothian,West Lothian,2016,Other,4
+1486,NHS Lothian,West Lothian,2017,Land transport accidents,4
+1487,NHS Lothian,West Lothian,2017,Poisoning,14
+1488,NHS Lothian,West Lothian,2017,Falls,33
+1489,NHS Lothian,West Lothian,2017,"Struck by,against",0
+1490,NHS Lothian,West Lothian,2017,Crushing,0
+1491,NHS Lothian,West Lothian,2017,Scalds,0
+1492,NHS Lothian,West Lothian,2017,Accidental exposure,1
+1493,NHS Lothian,West Lothian,2017,Other,4
+1495,NHS Lothian,West Lothian,2018,Land transport accidents,3
+1496,NHS Lothian,West Lothian,2018,Poisoning,21
+1497,NHS Lothian,West Lothian,2018,Falls,19
+1498,NHS Lothian,West Lothian,2018,"Struck by,against",0
+1499,NHS Lothian,West Lothian,2018,Crushing,0
+1500,NHS Lothian,West Lothian,2018,Scalds,0
+1501,NHS Lothian,West Lothian,2018,Accidental exposure,3
+1502,NHS Lothian,West Lothian,2018,Other,5
+1504,NHS Lothian,West Lothian,2019,Land transport accidents,8
+1505,NHS Lothian,West Lothian,2019,Poisoning,26
+1506,NHS Lothian,West Lothian,2019,Falls,24
+1507,NHS Lothian,West Lothian,2019,"Struck by,against",1
+1508,NHS Lothian,West Lothian,2019,Crushing,0
+1509,NHS Lothian,West Lothian,2019,Scalds,0
+1510,NHS Lothian,West Lothian,2019,Accidental exposure,1
+1511,NHS Lothian,West Lothian,2019,Other,5
+1513,NHS Lothian,West Lothian,2020,Land transport accidents,6
+1514,NHS Lothian,West Lothian,2020,Poisoning,36
+1515,NHS Lothian,West Lothian,2020,Falls,22
+1516,NHS Lothian,West Lothian,2020,"Struck by,against",0
+1517,NHS Lothian,West Lothian,2020,Crushing,0
+1518,NHS Lothian,West Lothian,2020,Scalds,0
+1519,NHS Lothian,West Lothian,2020,Accidental exposure,5
+1520,NHS Lothian,West Lothian,2020,Other,4
+1522,NHS Lothian,West Lothian,2021,Land transport accidents,0
+1523,NHS Lothian,West Lothian,2021,Poisoning,33
+1524,NHS Lothian,West Lothian,2021,Falls,23
+1525,NHS Lothian,West Lothian,2021,"Struck by,against",0
+1526,NHS Lothian,West Lothian,2021,Crushing,0
+1527,NHS Lothian,West Lothian,2021,Scalds,0
+1528,NHS Lothian,West Lothian,2021,Accidental exposure,7
+1529,NHS Lothian,West Lothian,2021,Other,3
+1531,NHS Orkney,Orkney Islands,2012,Land transport accidents,5
+1532,NHS Orkney,Orkney Islands,2012,Poisoning,1
+1533,NHS Orkney,Orkney Islands,2012,Falls,0
+1534,NHS Orkney,Orkney Islands,2012,"Struck by,against",0
+1535,NHS Orkney,Orkney Islands,2012,Crushing,0
+1536,NHS Orkney,Orkney Islands,2012,Scalds,0
+1537,NHS Orkney,Orkney Islands,2012,Accidental exposure,0
+1538,NHS Orkney,Orkney Islands,2012,Other,1
+1540,NHS Orkney,Orkney Islands,2013,Land transport accidents,3
+1541,NHS Orkney,Orkney Islands,2013,Poisoning,1
+1542,NHS Orkney,Orkney Islands,2013,Falls,5
+1543,NHS Orkney,Orkney Islands,2013,"Struck by,against",0
+1544,NHS Orkney,Orkney Islands,2013,Crushing,0
+1545,NHS Orkney,Orkney Islands,2013,Scalds,0
+1546,NHS Orkney,Orkney Islands,2013,Accidental exposure,1
+1547,NHS Orkney,Orkney Islands,2013,Other,2
+1549,NHS Orkney,Orkney Islands,2014,Land transport accidents,3
+1550,NHS Orkney,Orkney Islands,2014,Poisoning,0
+1551,NHS Orkney,Orkney Islands,2014,Falls,2
+1552,NHS Orkney,Orkney Islands,2014,"Struck by,against",0
+1553,NHS Orkney,Orkney Islands,2014,Crushing,0
+1554,NHS Orkney,Orkney Islands,2014,Scalds,0
+1555,NHS Orkney,Orkney Islands,2014,Accidental exposure,1
+1556,NHS Orkney,Orkney Islands,2014,Other,1
+1558,NHS Orkney,Orkney Islands,2015,Land transport accidents,0
+1559,NHS Orkney,Orkney Islands,2015,Poisoning,2
+1560,NHS Orkney,Orkney Islands,2015,Falls,4
+1561,NHS Orkney,Orkney Islands,2015,"Struck by,against",0
+1562,NHS Orkney,Orkney Islands,2015,Crushing,0
+1563,NHS Orkney,Orkney Islands,2015,Scalds,0
+1564,NHS Orkney,Orkney Islands,2015,Accidental exposure,0
+1565,NHS Orkney,Orkney Islands,2015,Other,1
+1567,NHS Orkney,Orkney Islands,2016,Land transport accidents,1
+1568,NHS Orkney,Orkney Islands,2016,Poisoning,0
+1569,NHS Orkney,Orkney Islands,2016,Falls,6
+1570,NHS Orkney,Orkney Islands,2016,"Struck by,against",0
+1571,NHS Orkney,Orkney Islands,2016,Crushing,0
+1572,NHS Orkney,Orkney Islands,2016,Scalds,0
+1573,NHS Orkney,Orkney Islands,2016,Accidental exposure,0
+1574,NHS Orkney,Orkney Islands,2016,Other,2
+1576,NHS Orkney,Orkney Islands,2017,Land transport accidents,1
+1577,NHS Orkney,Orkney Islands,2017,Poisoning,1
+1578,NHS Orkney,Orkney Islands,2017,Falls,5
+1579,NHS Orkney,Orkney Islands,2017,"Struck by,against",0
+1580,NHS Orkney,Orkney Islands,2017,Crushing,0
+1581,NHS Orkney,Orkney Islands,2017,Scalds,0
+1582,NHS Orkney,Orkney Islands,2017,Accidental exposure,0
+1583,NHS Orkney,Orkney Islands,2017,Other,3
+1585,NHS Orkney,Orkney Islands,2018,Land transport accidents,1
+1586,NHS Orkney,Orkney Islands,2018,Poisoning,0
+1587,NHS Orkney,Orkney Islands,2018,Falls,2
+1588,NHS Orkney,Orkney Islands,2018,"Struck by,against",0
+1589,NHS Orkney,Orkney Islands,2018,Crushing,0
+1590,NHS Orkney,Orkney Islands,2018,Scalds,0
+1591,NHS Orkney,Orkney Islands,2018,Accidental exposure,0
+1592,NHS Orkney,Orkney Islands,2018,Other,3
+1594,NHS Orkney,Orkney Islands,2019,Land transport accidents,1
+1595,NHS Orkney,Orkney Islands,2019,Poisoning,1
+1596,NHS Orkney,Orkney Islands,2019,Falls,4
+1597,NHS Orkney,Orkney Islands,2019,"Struck by,against",0
+1598,NHS Orkney,Orkney Islands,2019,Crushing,0
+1599,NHS Orkney,Orkney Islands,2019,Scalds,1
+1600,NHS Orkney,Orkney Islands,2019,Accidental exposure,1
+1601,NHS Orkney,Orkney Islands,2019,Other,2
+1603,NHS Orkney,Orkney Islands,2020,Land transport accidents,1
+1604,NHS Orkney,Orkney Islands,2020,Poisoning,3
+1605,NHS Orkney,Orkney Islands,2020,Falls,9
+1606,NHS Orkney,Orkney Islands,2020,"Struck by,against",0
+1607,NHS Orkney,Orkney Islands,2020,Crushing,0
+1608,NHS Orkney,Orkney Islands,2020,Scalds,0
+1609,NHS Orkney,Orkney Islands,2020,Accidental exposure,2
+1610,NHS Orkney,Orkney Islands,2020,Other,2
+1612,NHS Orkney,Orkney Islands,2021,Land transport accidents,2
+1613,NHS Orkney,Orkney Islands,2021,Poisoning,1
+1614,NHS Orkney,Orkney Islands,2021,Falls,4
+1615,NHS Orkney,Orkney Islands,2021,"Struck by,against",0
+1616,NHS Orkney,Orkney Islands,2021,Crushing,0
+1617,NHS Orkney,Orkney Islands,2021,Scalds,0
+1618,NHS Orkney,Orkney Islands,2021,Accidental exposure,0
+1619,NHS Orkney,Orkney Islands,2021,Other,0
+1621,NHS Shetland,Shetland Islands,2012,Land transport accidents,0
+1622,NHS Shetland,Shetland Islands,2012,Poisoning,2
+1623,NHS Shetland,Shetland Islands,2012,Falls,5
+1624,NHS Shetland,Shetland Islands,2012,"Struck by,against",0
+1625,NHS Shetland,Shetland Islands,2012,Crushing,0
+1626,NHS Shetland,Shetland Islands,2012,Scalds,0
+1627,NHS Shetland,Shetland Islands,2012,Accidental exposure,0
+1628,NHS Shetland,Shetland Islands,2012,Other,1
+1630,NHS Shetland,Shetland Islands,2013,Land transport accidents,1
+1631,NHS Shetland,Shetland Islands,2013,Poisoning,0
+1632,NHS Shetland,Shetland Islands,2013,Falls,3
+1633,NHS Shetland,Shetland Islands,2013,"Struck by,against",0
+1634,NHS Shetland,Shetland Islands,2013,Crushing,0
+1635,NHS Shetland,Shetland Islands,2013,Scalds,0
+1636,NHS Shetland,Shetland Islands,2013,Accidental exposure,0
+1637,NHS Shetland,Shetland Islands,2013,Other,0
+1639,NHS Shetland,Shetland Islands,2014,Land transport accidents,2
+1640,NHS Shetland,Shetland Islands,2014,Poisoning,3
+1641,NHS Shetland,Shetland Islands,2014,Falls,6
+1642,NHS Shetland,Shetland Islands,2014,"Struck by,against",0
+1643,NHS Shetland,Shetland Islands,2014,Crushing,0
+1644,NHS Shetland,Shetland Islands,2014,Scalds,0
+1645,NHS Shetland,Shetland Islands,2014,Accidental exposure,1
+1646,NHS Shetland,Shetland Islands,2014,Other,3
+1648,NHS Shetland,Shetland Islands,2015,Land transport accidents,3
+1649,NHS Shetland,Shetland Islands,2015,Poisoning,1
+1650,NHS Shetland,Shetland Islands,2015,Falls,7
+1651,NHS Shetland,Shetland Islands,2015,"Struck by,against",1
+1652,NHS Shetland,Shetland Islands,2015,Crushing,0
+1653,NHS Shetland,Shetland Islands,2015,Scalds,0
+1654,NHS Shetland,Shetland Islands,2015,Accidental exposure,1
+1655,NHS Shetland,Shetland Islands,2015,Other,2
+1657,NHS Shetland,Shetland Islands,2016,Land transport accidents,0
+1658,NHS Shetland,Shetland Islands,2016,Poisoning,1
+1659,NHS Shetland,Shetland Islands,2016,Falls,5
+1660,NHS Shetland,Shetland Islands,2016,"Struck by,against",0
+1661,NHS Shetland,Shetland Islands,2016,Crushing,0
+1662,NHS Shetland,Shetland Islands,2016,Scalds,0
+1663,NHS Shetland,Shetland Islands,2016,Accidental exposure,0
+1664,NHS Shetland,Shetland Islands,2016,Other,0
+1666,NHS Shetland,Shetland Islands,2017,Land transport accidents,1
+1667,NHS Shetland,Shetland Islands,2017,Poisoning,3
+1668,NHS Shetland,Shetland Islands,2017,Falls,4
+1669,NHS Shetland,Shetland Islands,2017,"Struck by,against",0
+1670,NHS Shetland,Shetland Islands,2017,Crushing,0
+1671,NHS Shetland,Shetland Islands,2017,Scalds,0
+1672,NHS Shetland,Shetland Islands,2017,Accidental exposure,0
+1673,NHS Shetland,Shetland Islands,2017,Other,1
+1675,NHS Shetland,Shetland Islands,2018,Land transport accidents,2
+1676,NHS Shetland,Shetland Islands,2018,Poisoning,1
+1677,NHS Shetland,Shetland Islands,2018,Falls,7
+1678,NHS Shetland,Shetland Islands,2018,"Struck by,against",0
+1679,NHS Shetland,Shetland Islands,2018,Crushing,0
+1680,NHS Shetland,Shetland Islands,2018,Scalds,0
+1681,NHS Shetland,Shetland Islands,2018,Accidental exposure,1
+1682,NHS Shetland,Shetland Islands,2018,Other,0
+1684,NHS Shetland,Shetland Islands,2019,Land transport accidents,1
+1685,NHS Shetland,Shetland Islands,2019,Poisoning,1
+1686,NHS Shetland,Shetland Islands,2019,Falls,5
+1687,NHS Shetland,Shetland Islands,2019,"Struck by,against",0
+1688,NHS Shetland,Shetland Islands,2019,Crushing,0
+1689,NHS Shetland,Shetland Islands,2019,Scalds,0
+1690,NHS Shetland,Shetland Islands,2019,Accidental exposure,0
+1691,NHS Shetland,Shetland Islands,2019,Other,2
+1693,NHS Shetland,Shetland Islands,2020,Land transport accidents,1
+1694,NHS Shetland,Shetland Islands,2020,Poisoning,2
+1695,NHS Shetland,Shetland Islands,2020,Falls,4
+1696,NHS Shetland,Shetland Islands,2020,"Struck by,against",0
+1697,NHS Shetland,Shetland Islands,2020,Crushing,0
+1698,NHS Shetland,Shetland Islands,2020,Scalds,0
+1699,NHS Shetland,Shetland Islands,2020,Accidental exposure,0
+1700,NHS Shetland,Shetland Islands,2020,Other,0
+1702,NHS Shetland,Shetland Islands,2021,Land transport accidents,1
+1703,NHS Shetland,Shetland Islands,2021,Poisoning,3
+1704,NHS Shetland,Shetland Islands,2021,Falls,7
+1705,NHS Shetland,Shetland Islands,2021,"Struck by,against",0
+1706,NHS Shetland,Shetland Islands,2021,Crushing,0
+1707,NHS Shetland,Shetland Islands,2021,Scalds,0
+1708,NHS Shetland,Shetland Islands,2021,Accidental exposure,1
+1709,NHS Shetland,Shetland Islands,2021,Other,2
+1711,NHS Western Isles,Na h-Eileanan Siar,2012,Land transport accidents,2
+1712,NHS Western Isles,Na h-Eileanan Siar,2012,Poisoning,1
+1713,NHS Western Isles,Na h-Eileanan Siar,2012,Falls,4
+1714,NHS Western Isles,Na h-Eileanan Siar,2012,"Struck by,against",0
+1715,NHS Western Isles,Na h-Eileanan Siar,2012,Crushing,1
+1716,NHS Western Isles,Na h-Eileanan Siar,2012,Scalds,0
+1717,NHS Western Isles,Na h-Eileanan Siar,2012,Accidental exposure,0
+1718,NHS Western Isles,Na h-Eileanan Siar,2012,Other,3
+1720,NHS Western Isles,Na h-Eileanan Siar,2013,Land transport accidents,3
+1721,NHS Western Isles,Na h-Eileanan Siar,2013,Poisoning,2
+1722,NHS Western Isles,Na h-Eileanan Siar,2013,Falls,8
+1723,NHS Western Isles,Na h-Eileanan Siar,2013,"Struck by,against",0
+1724,NHS Western Isles,Na h-Eileanan Siar,2013,Crushing,0
+1725,NHS Western Isles,Na h-Eileanan Siar,2013,Scalds,0
+1726,NHS Western Isles,Na h-Eileanan Siar,2013,Accidental exposure,0
+1727,NHS Western Isles,Na h-Eileanan Siar,2013,Other,5
+1729,NHS Western Isles,Na h-Eileanan Siar,2014,Land transport accidents,5
+1730,NHS Western Isles,Na h-Eileanan Siar,2014,Poisoning,3
+1731,NHS Western Isles,Na h-Eileanan Siar,2014,Falls,8
+1732,NHS Western Isles,Na h-Eileanan Siar,2014,"Struck by,against",0
+1733,NHS Western Isles,Na h-Eileanan Siar,2014,Crushing,0
+1734,NHS Western Isles,Na h-Eileanan Siar,2014,Scalds,0
+1735,NHS Western Isles,Na h-Eileanan Siar,2014,Accidental exposure,2
+1736,NHS Western Isles,Na h-Eileanan Siar,2014,Other,0
+1738,NHS Western Isles,Na h-Eileanan Siar,2015,Land transport accidents,1
+1739,NHS Western Isles,Na h-Eileanan Siar,2015,Poisoning,3
+1740,NHS Western Isles,Na h-Eileanan Siar,2015,Falls,4
+1741,NHS Western Isles,Na h-Eileanan Siar,2015,"Struck by,against",0
+1742,NHS Western Isles,Na h-Eileanan Siar,2015,Crushing,0
+1743,NHS Western Isles,Na h-Eileanan Siar,2015,Scalds,0
+1744,NHS Western Isles,Na h-Eileanan Siar,2015,Accidental exposure,0
+1745,NHS Western Isles,Na h-Eileanan Siar,2015,Other,2
+1747,NHS Western Isles,Na h-Eileanan Siar,2016,Land transport accidents,0
+1748,NHS Western Isles,Na h-Eileanan Siar,2016,Poisoning,0
+1749,NHS Western Isles,Na h-Eileanan Siar,2016,Falls,5
+1750,NHS Western Isles,Na h-Eileanan Siar,2016,"Struck by,against",0
+1751,NHS Western Isles,Na h-Eileanan Siar,2016,Crushing,0
+1752,NHS Western Isles,Na h-Eileanan Siar,2016,Scalds,0
+1753,NHS Western Isles,Na h-Eileanan Siar,2016,Accidental exposure,1
+1754,NHS Western Isles,Na h-Eileanan Siar,2016,Other,1
+1756,NHS Western Isles,Na h-Eileanan Siar,2017,Land transport accidents,0
+1757,NHS Western Isles,Na h-Eileanan Siar,2017,Poisoning,1
+1758,NHS Western Isles,Na h-Eileanan Siar,2017,Falls,6
+1759,NHS Western Isles,Na h-Eileanan Siar,2017,"Struck by,against",0
+1760,NHS Western Isles,Na h-Eileanan Siar,2017,Crushing,0
+1761,NHS Western Isles,Na h-Eileanan Siar,2017,Scalds,0
+1762,NHS Western Isles,Na h-Eileanan Siar,2017,Accidental exposure,1
+1763,NHS Western Isles,Na h-Eileanan Siar,2017,Other,10
+1765,NHS Western Isles,Na h-Eileanan Siar,2018,Land transport accidents,0
+1766,NHS Western Isles,Na h-Eileanan Siar,2018,Poisoning,2
+1767,NHS Western Isles,Na h-Eileanan Siar,2018,Falls,3
+1768,NHS Western Isles,Na h-Eileanan Siar,2018,"Struck by,against",0
+1769,NHS Western Isles,Na h-Eileanan Siar,2018,Crushing,0
+1770,NHS Western Isles,Na h-Eileanan Siar,2018,Scalds,0
+1771,NHS Western Isles,Na h-Eileanan Siar,2018,Accidental exposure,1
+1772,NHS Western Isles,Na h-Eileanan Siar,2018,Other,1
+1774,NHS Western Isles,Na h-Eileanan Siar,2019,Land transport accidents,3
+1775,NHS Western Isles,Na h-Eileanan Siar,2019,Poisoning,0
+1776,NHS Western Isles,Na h-Eileanan Siar,2019,Falls,9
+1777,NHS Western Isles,Na h-Eileanan Siar,2019,"Struck by,against",0
+1778,NHS Western Isles,Na h-Eileanan Siar,2019,Crushing,0
+1779,NHS Western Isles,Na h-Eileanan Siar,2019,Scalds,0
+1780,NHS Western Isles,Na h-Eileanan Siar,2019,Accidental exposure,0
+1781,NHS Western Isles,Na h-Eileanan Siar,2019,Other,4
+1783,NHS Western Isles,Na h-Eileanan Siar,2020,Land transport accidents,1
+1784,NHS Western Isles,Na h-Eileanan Siar,2020,Poisoning,2
+1785,NHS Western Isles,Na h-Eileanan Siar,2020,Falls,11
+1786,NHS Western Isles,Na h-Eileanan Siar,2020,"Struck by,against",0
+1787,NHS Western Isles,Na h-Eileanan Siar,2020,Crushing,0
+1788,NHS Western Isles,Na h-Eileanan Siar,2020,Scalds,0
+1789,NHS Western Isles,Na h-Eileanan Siar,2020,Accidental exposure,0
+1790,NHS Western Isles,Na h-Eileanan Siar,2020,Other,0
+1792,NHS Western Isles,Na h-Eileanan Siar,2021,Land transport accidents,1
+1793,NHS Western Isles,Na h-Eileanan Siar,2021,Poisoning,1
+1794,NHS Western Isles,Na h-Eileanan Siar,2021,Falls,2
+1795,NHS Western Isles,Na h-Eileanan Siar,2021,"Struck by,against",0
+1796,NHS Western Isles,Na h-Eileanan Siar,2021,Crushing,0
+1797,NHS Western Isles,Na h-Eileanan Siar,2021,Scalds,0
+1798,NHS Western Isles,Na h-Eileanan Siar,2021,Accidental exposure,2
+1799,NHS Western Isles,Na h-Eileanan Siar,2021,Other,1
+1801,NHS Fife,Fife,2012,Land transport accidents,10
+1802,NHS Fife,Fife,2012,Poisoning,15
+1803,NHS Fife,Fife,2012,Falls,45
+1804,NHS Fife,Fife,2012,"Struck by,against",0
+1805,NHS Fife,Fife,2012,Crushing,0
+1806,NHS Fife,Fife,2012,Scalds,0
+1807,NHS Fife,Fife,2012,Accidental exposure,2
+1808,NHS Fife,Fife,2012,Other,3
+1810,NHS Fife,Fife,2013,Land transport accidents,11
+1811,NHS Fife,Fife,2013,Poisoning,20
+1812,NHS Fife,Fife,2013,Falls,40
+1813,NHS Fife,Fife,2013,"Struck by,against",0
+1814,NHS Fife,Fife,2013,Crushing,0
+1815,NHS Fife,Fife,2013,Scalds,0
+1816,NHS Fife,Fife,2013,Accidental exposure,3
+1817,NHS Fife,Fife,2013,Other,9
+1819,NHS Fife,Fife,2014,Land transport accidents,13
+1820,NHS Fife,Fife,2014,Poisoning,33
+1821,NHS Fife,Fife,2014,Falls,46
+1822,NHS Fife,Fife,2014,"Struck by,against",1
+1823,NHS Fife,Fife,2014,Crushing,0
+1824,NHS Fife,Fife,2014,Scalds,0
+1825,NHS Fife,Fife,2014,Accidental exposure,3
+1826,NHS Fife,Fife,2014,Other,11
+1828,NHS Fife,Fife,2015,Land transport accidents,16
+1829,NHS Fife,Fife,2015,Poisoning,36
+1830,NHS Fife,Fife,2015,Falls,59
+1831,NHS Fife,Fife,2015,"Struck by,against",0
+1832,NHS Fife,Fife,2015,Crushing,0
+1833,NHS Fife,Fife,2015,Scalds,0
+1834,NHS Fife,Fife,2015,Accidental exposure,3
+1835,NHS Fife,Fife,2015,Other,17
+1837,NHS Fife,Fife,2016,Land transport accidents,10
+1838,NHS Fife,Fife,2016,Poisoning,48
+1839,NHS Fife,Fife,2016,Falls,54
+1840,NHS Fife,Fife,2016,"Struck by,against",0
+1841,NHS Fife,Fife,2016,Crushing,0
+1842,NHS Fife,Fife,2016,Scalds,0
+1843,NHS Fife,Fife,2016,Accidental exposure,8
+1844,NHS Fife,Fife,2016,Other,10
+1846,NHS Fife,Fife,2017,Land transport accidents,11
+1847,NHS Fife,Fife,2017,Poisoning,69
+1848,NHS Fife,Fife,2017,Falls,62
+1849,NHS Fife,Fife,2017,"Struck by,against",0
+1850,NHS Fife,Fife,2017,Crushing,0
+1851,NHS Fife,Fife,2017,Scalds,0
+1852,NHS Fife,Fife,2017,Accidental exposure,9
+1853,NHS Fife,Fife,2017,Other,10
+1855,NHS Fife,Fife,2018,Land transport accidents,11
+1856,NHS Fife,Fife,2018,Poisoning,61
+1857,NHS Fife,Fife,2018,Falls,69
+1858,NHS Fife,Fife,2018,"Struck by,against",0
+1859,NHS Fife,Fife,2018,Crushing,0
+1860,NHS Fife,Fife,2018,Scalds,0
+1861,NHS Fife,Fife,2018,Accidental exposure,8
+1862,NHS Fife,Fife,2018,Other,8
+1864,NHS Fife,Fife,2019,Land transport accidents,18
+1865,NHS Fife,Fife,2019,Poisoning,78
+1866,NHS Fife,Fife,2019,Falls,76
+1867,NHS Fife,Fife,2019,"Struck by,against",0
+1868,NHS Fife,Fife,2019,Crushing,0
+1869,NHS Fife,Fife,2019,Scalds,0
+1870,NHS Fife,Fife,2019,Accidental exposure,3
+1871,NHS Fife,Fife,2019,Other,10
+1873,NHS Fife,Fife,2020,Land transport accidents,11
+1874,NHS Fife,Fife,2020,Poisoning,71
+1875,NHS Fife,Fife,2020,Falls,53
+1876,NHS Fife,Fife,2020,"Struck by,against",0
+1877,NHS Fife,Fife,2020,Crushing,0
+1878,NHS Fife,Fife,2020,Scalds,0
+1879,NHS Fife,Fife,2020,Accidental exposure,10
+1880,NHS Fife,Fife,2020,Other,13
+1882,NHS Fife,Fife,2021,Land transport accidents,4
+1883,NHS Fife,Fife,2021,Poisoning,74
+1884,NHS Fife,Fife,2021,Falls,57
+1885,NHS Fife,Fife,2021,"Struck by,against",0
+1886,NHS Fife,Fife,2021,Crushing,0
+1887,NHS Fife,Fife,2021,Scalds,0
+1888,NHS Fife,Fife,2021,Accidental exposure,9
+1889,NHS Fife,Fife,2021,Other,15
+1891,NHS Tayside,Angus,2012,Land transport accidents,8
+1892,NHS Tayside,Angus,2012,Poisoning,7
+1893,NHS Tayside,Angus,2012,Falls,15
+1894,NHS Tayside,Angus,2012,"Struck by,against",0
+1895,NHS Tayside,Angus,2012,Crushing,0
+1896,NHS Tayside,Angus,2012,Scalds,0
+1897,NHS Tayside,Angus,2012,Accidental exposure,0
+1898,NHS Tayside,Angus,2012,Other,1
+1900,NHS Tayside,Angus,2013,Land transport accidents,3
+1901,NHS Tayside,Angus,2013,Poisoning,8
+1902,NHS Tayside,Angus,2013,Falls,14
+1903,NHS Tayside,Angus,2013,"Struck by,against",1
+1904,NHS Tayside,Angus,2013,Crushing,0
+1905,NHS Tayside,Angus,2013,Scalds,0
+1906,NHS Tayside,Angus,2013,Accidental exposure,0
+1907,NHS Tayside,Angus,2013,Other,2
+1909,NHS Tayside,Angus,2014,Land transport accidents,2
+1910,NHS Tayside,Angus,2014,Poisoning,8
+1911,NHS Tayside,Angus,2014,Falls,15
+1912,NHS Tayside,Angus,2014,"Struck by,against",0
+1913,NHS Tayside,Angus,2014,Crushing,0
+1914,NHS Tayside,Angus,2014,Scalds,0
+1915,NHS Tayside,Angus,2014,Accidental exposure,1
+1916,NHS Tayside,Angus,2014,Other,5
+1918,NHS Tayside,Angus,2015,Land transport accidents,4
+1919,NHS Tayside,Angus,2015,Poisoning,17
+1920,NHS Tayside,Angus,2015,Falls,17
+1921,NHS Tayside,Angus,2015,"Struck by,against",0
+1922,NHS Tayside,Angus,2015,Crushing,0
+1923,NHS Tayside,Angus,2015,Scalds,0
+1924,NHS Tayside,Angus,2015,Accidental exposure,2
+1925,NHS Tayside,Angus,2015,Other,2
+1927,NHS Tayside,Angus,2016,Land transport accidents,4
+1928,NHS Tayside,Angus,2016,Poisoning,11
+1929,NHS Tayside,Angus,2016,Falls,33
+1930,NHS Tayside,Angus,2016,"Struck by,against",1
+1931,NHS Tayside,Angus,2016,Crushing,0
+1932,NHS Tayside,Angus,2016,Scalds,0
+1933,NHS Tayside,Angus,2016,Accidental exposure,4
+1934,NHS Tayside,Angus,2016,Other,4
+1936,NHS Tayside,Angus,2017,Land transport accidents,8
+1937,NHS Tayside,Angus,2017,Poisoning,18
+1938,NHS Tayside,Angus,2017,Falls,16
+1939,NHS Tayside,Angus,2017,"Struck by,against",0
+1940,NHS Tayside,Angus,2017,Crushing,0
+1941,NHS Tayside,Angus,2017,Scalds,0
+1942,NHS Tayside,Angus,2017,Accidental exposure,0
+1943,NHS Tayside,Angus,2017,Other,3
+1945,NHS Tayside,Angus,2018,Land transport accidents,3
+1946,NHS Tayside,Angus,2018,Poisoning,12
+1947,NHS Tayside,Angus,2018,Falls,21
+1948,NHS Tayside,Angus,2018,"Struck by,against",0
+1949,NHS Tayside,Angus,2018,Crushing,0
+1950,NHS Tayside,Angus,2018,Scalds,0
+1951,NHS Tayside,Angus,2018,Accidental exposure,2
+1952,NHS Tayside,Angus,2018,Other,3
+1954,NHS Tayside,Angus,2019,Land transport accidents,4
+1955,NHS Tayside,Angus,2019,Poisoning,25
+1956,NHS Tayside,Angus,2019,Falls,24
+1957,NHS Tayside,Angus,2019,"Struck by,against",1
+1958,NHS Tayside,Angus,2019,Crushing,0
+1959,NHS Tayside,Angus,2019,Scalds,0
+1960,NHS Tayside,Angus,2019,Accidental exposure,0
+1961,NHS Tayside,Angus,2019,Other,5
+1963,NHS Tayside,Angus,2020,Land transport accidents,2
+1964,NHS Tayside,Angus,2020,Poisoning,18
+1965,NHS Tayside,Angus,2020,Falls,22
+1966,NHS Tayside,Angus,2020,"Struck by,against",0
+1967,NHS Tayside,Angus,2020,Crushing,0
+1968,NHS Tayside,Angus,2020,Scalds,0
+1969,NHS Tayside,Angus,2020,Accidental exposure,4
+1970,NHS Tayside,Angus,2020,Other,2
+1972,NHS Tayside,Angus,2021,Land transport accidents,3
+1973,NHS Tayside,Angus,2021,Poisoning,17
+1974,NHS Tayside,Angus,2021,Falls,29
+1975,NHS Tayside,Angus,2021,"Struck by,against",0
+1976,NHS Tayside,Angus,2021,Crushing,1
+1977,NHS Tayside,Angus,2021,Scalds,0
+1978,NHS Tayside,Angus,2021,Accidental exposure,4
+1979,NHS Tayside,Angus,2021,Other,5
+1981,NHS Tayside,Angus,2012,Land transport accidents,8
+1982,NHS Tayside,Angus,2012,Poisoning,7
+1983,NHS Tayside,Angus,2012,Falls,15
+1984,NHS Tayside,Angus,2012,"Struck by,against",0
+1985,NHS Tayside,Angus,2012,Crushing,0
+1986,NHS Tayside,Angus,2012,Scalds,0
+1987,NHS Tayside,Angus,2012,Accidental exposure,0
+1988,NHS Tayside,Angus,2012,Other,1
+1990,NHS Tayside,Angus,2013,Land transport accidents,3
+1991,NHS Tayside,Angus,2013,Poisoning,8
+1992,NHS Tayside,Angus,2013,Falls,14
+1993,NHS Tayside,Angus,2013,"Struck by,against",1
+1994,NHS Tayside,Angus,2013,Crushing,0
+1995,NHS Tayside,Angus,2013,Scalds,0
+1996,NHS Tayside,Angus,2013,Accidental exposure,0
+1997,NHS Tayside,Angus,2013,Other,2
+1999,NHS Tayside,Angus,2014,Land transport accidents,2
+2000,NHS Tayside,Angus,2014,Poisoning,8
+2001,NHS Tayside,Angus,2014,Falls,15
+2002,NHS Tayside,Angus,2014,"Struck by,against",0
+2003,NHS Tayside,Angus,2014,Crushing,0
+2004,NHS Tayside,Angus,2014,Scalds,0
+2005,NHS Tayside,Angus,2014,Accidental exposure,1
+2006,NHS Tayside,Angus,2014,Other,5
+2008,NHS Tayside,Angus,2015,Land transport accidents,4
+2009,NHS Tayside,Angus,2015,Poisoning,17
+2010,NHS Tayside,Angus,2015,Falls,17
+2011,NHS Tayside,Angus,2015,"Struck by,against",0
+2012,NHS Tayside,Angus,2015,Crushing,0
+2013,NHS Tayside,Angus,2015,Scalds,0
+2014,NHS Tayside,Angus,2015,Accidental exposure,2
+2015,NHS Tayside,Angus,2015,Other,2
+2017,NHS Tayside,Angus,2016,Land transport accidents,4
+2018,NHS Tayside,Angus,2016,Poisoning,11
+2019,NHS Tayside,Angus,2016,Falls,33
+2020,NHS Tayside,Angus,2016,"Struck by,against",1
+2021,NHS Tayside,Angus,2016,Crushing,0
+2022,NHS Tayside,Angus,2016,Scalds,0
+2023,NHS Tayside,Angus,2016,Accidental exposure,4
+2024,NHS Tayside,Angus,2016,Other,4
+2026,NHS Tayside,Angus,2017,Land transport accidents,8
+2027,NHS Tayside,Angus,2017,Poisoning,18
+2028,NHS Tayside,Angus,2017,Falls,16
+2029,NHS Tayside,Angus,2017,"Struck by,against",0
+2030,NHS Tayside,Angus,2017,Crushing,0
+2031,NHS Tayside,Angus,2017,Scalds,0
+2032,NHS Tayside,Angus,2017,Accidental exposure,0
+2033,NHS Tayside,Angus,2017,Other,3
+2035,NHS Tayside,Angus,2018,Land transport accidents,3
+2036,NHS Tayside,Angus,2018,Poisoning,12
+2037,NHS Tayside,Angus,2018,Falls,21
+2038,NHS Tayside,Angus,2018,"Struck by,against",0
+2039,NHS Tayside,Angus,2018,Crushing,0
+2040,NHS Tayside,Angus,2018,Scalds,0
+2041,NHS Tayside,Angus,2018,Accidental exposure,2
+2042,NHS Tayside,Angus,2018,Other,3
+2044,NHS Tayside,Angus,2019,Land transport accidents,4
+2045,NHS Tayside,Angus,2019,Poisoning,25
+2046,NHS Tayside,Angus,2019,Falls,24
+2047,NHS Tayside,Angus,2019,"Struck by,against",1
+2048,NHS Tayside,Angus,2019,Crushing,0
+2049,NHS Tayside,Angus,2019,Scalds,0
+2050,NHS Tayside,Angus,2019,Accidental exposure,0
+2051,NHS Tayside,Angus,2019,Other,5
+2053,NHS Tayside,Angus,2020,Land transport accidents,2
+2054,NHS Tayside,Angus,2020,Poisoning,18
+2055,NHS Tayside,Angus,2020,Falls,22
+2056,NHS Tayside,Angus,2020,"Struck by,against",0
+2057,NHS Tayside,Angus,2020,Crushing,0
+2058,NHS Tayside,Angus,2020,Scalds,0
+2059,NHS Tayside,Angus,2020,Accidental exposure,4
+2060,NHS Tayside,Angus,2020,Other,2
+2062,NHS Tayside,Angus,2021,Land transport accidents,3
+2063,NHS Tayside,Angus,2021,Poisoning,17
+2064,NHS Tayside,Angus,2021,Falls,29
+2065,NHS Tayside,Angus,2021,"Struck by,against",0
+2066,NHS Tayside,Angus,2021,Crushing,1
+2067,NHS Tayside,Angus,2021,Scalds,0
+2068,NHS Tayside,Angus,2021,Accidental exposure,4
+2069,NHS Tayside,Angus,2021,Other,5
+2071,NHS Tayside,Dundee City,2012,Land transport accidents,1
+2072,NHS Tayside,Dundee City,2012,Poisoning,33
+2073,NHS Tayside,Dundee City,2012,Falls,33
+2074,NHS Tayside,Dundee City,2012,"Struck by,against",0
+2075,NHS Tayside,Dundee City,2012,Crushing,0
+2076,NHS Tayside,Dundee City,2012,Scalds,0
+2077,NHS Tayside,Dundee City,2012,Accidental exposure,2
+2078,NHS Tayside,Dundee City,2012,Other,7
+2080,NHS Tayside,Dundee City,2013,Land transport accidents,6
+2081,NHS Tayside,Dundee City,2013,Poisoning,23
+2082,NHS Tayside,Dundee City,2013,Falls,13
+2083,NHS Tayside,Dundee City,2013,"Struck by,against",0
+2084,NHS Tayside,Dundee City,2013,Crushing,0
+2085,NHS Tayside,Dundee City,2013,Scalds,0
+2086,NHS Tayside,Dundee City,2013,Accidental exposure,2
+2087,NHS Tayside,Dundee City,2013,Other,3
+2089,NHS Tayside,Dundee City,2014,Land transport accidents,5
+2090,NHS Tayside,Dundee City,2014,Poisoning,28
+2091,NHS Tayside,Dundee City,2014,Falls,23
+2092,NHS Tayside,Dundee City,2014,"Struck by,against",0
+2093,NHS Tayside,Dundee City,2014,Crushing,0
+2094,NHS Tayside,Dundee City,2014,Scalds,0
+2095,NHS Tayside,Dundee City,2014,Accidental exposure,3
+2096,NHS Tayside,Dundee City,2014,Other,7
+2098,NHS Tayside,Dundee City,2015,Land transport accidents,4
+2099,NHS Tayside,Dundee City,2015,Poisoning,32
+2100,NHS Tayside,Dundee City,2015,Falls,18
+2101,NHS Tayside,Dundee City,2015,"Struck by,against",0
+2102,NHS Tayside,Dundee City,2015,Crushing,0
+2103,NHS Tayside,Dundee City,2015,Scalds,0
+2104,NHS Tayside,Dundee City,2015,Accidental exposure,2
+2105,NHS Tayside,Dundee City,2015,Other,8
+2107,NHS Tayside,Dundee City,2016,Land transport accidents,6
+2108,NHS Tayside,Dundee City,2016,Poisoning,39
+2109,NHS Tayside,Dundee City,2016,Falls,17
+2110,NHS Tayside,Dundee City,2016,"Struck by,against",0
+2111,NHS Tayside,Dundee City,2016,Crushing,1
+2112,NHS Tayside,Dundee City,2016,Scalds,0
+2113,NHS Tayside,Dundee City,2016,Accidental exposure,3
+2114,NHS Tayside,Dundee City,2016,Other,5
+2116,NHS Tayside,Dundee City,2017,Land transport accidents,5
+2117,NHS Tayside,Dundee City,2017,Poisoning,52
+2118,NHS Tayside,Dundee City,2017,Falls,22
+2119,NHS Tayside,Dundee City,2017,"Struck by,against",0
+2120,NHS Tayside,Dundee City,2017,Crushing,0
+2121,NHS Tayside,Dundee City,2017,Scalds,0
+2122,NHS Tayside,Dundee City,2017,Accidental exposure,2
+2123,NHS Tayside,Dundee City,2017,Other,6
+2125,NHS Tayside,Dundee City,2018,Land transport accidents,1
+2126,NHS Tayside,Dundee City,2018,Poisoning,60
+2127,NHS Tayside,Dundee City,2018,Falls,26
+2128,NHS Tayside,Dundee City,2018,"Struck by,against",0
+2129,NHS Tayside,Dundee City,2018,Crushing,0
+2130,NHS Tayside,Dundee City,2018,Scalds,0
+2131,NHS Tayside,Dundee City,2018,Accidental exposure,3
+2132,NHS Tayside,Dundee City,2018,Other,4
+2134,NHS Tayside,Dundee City,2019,Land transport accidents,3
+2135,NHS Tayside,Dundee City,2019,Poisoning,64
+2136,NHS Tayside,Dundee City,2019,Falls,17
+2137,NHS Tayside,Dundee City,2019,"Struck by,against",0
+2138,NHS Tayside,Dundee City,2019,Crushing,1
+2139,NHS Tayside,Dundee City,2019,Scalds,0
+2140,NHS Tayside,Dundee City,2019,Accidental exposure,1
+2141,NHS Tayside,Dundee City,2019,Other,2
+2143,NHS Tayside,Dundee City,2020,Land transport accidents,6
+2144,NHS Tayside,Dundee City,2020,Poisoning,52
+2145,NHS Tayside,Dundee City,2020,Falls,20
+2146,NHS Tayside,Dundee City,2020,"Struck by,against",0
+2147,NHS Tayside,Dundee City,2020,Crushing,0
+2148,NHS Tayside,Dundee City,2020,Scalds,0
+2149,NHS Tayside,Dundee City,2020,Accidental exposure,5
+2150,NHS Tayside,Dundee City,2020,Other,9
+2152,NHS Tayside,Dundee City,2021,Land transport accidents,2
+2153,NHS Tayside,Dundee City,2021,Poisoning,54
+2154,NHS Tayside,Dundee City,2021,Falls,37
+2155,NHS Tayside,Dundee City,2021,"Struck by,against",0
+2156,NHS Tayside,Dundee City,2021,Crushing,0
+2157,NHS Tayside,Dundee City,2021,Scalds,0
+2158,NHS Tayside,Dundee City,2021,Accidental exposure,7
+2159,NHS Tayside,Dundee City,2021,Other,3
+2161,NHS Tayside,Dundee City,2012,Land transport accidents,1
+2162,NHS Tayside,Dundee City,2012,Poisoning,33
+2163,NHS Tayside,Dundee City,2012,Falls,33
+2164,NHS Tayside,Dundee City,2012,"Struck by,against",0
+2165,NHS Tayside,Dundee City,2012,Crushing,0
+2166,NHS Tayside,Dundee City,2012,Scalds,0
+2167,NHS Tayside,Dundee City,2012,Accidental exposure,2
+2168,NHS Tayside,Dundee City,2012,Other,7
+2170,NHS Tayside,Dundee City,2013,Land transport accidents,6
+2171,NHS Tayside,Dundee City,2013,Poisoning,23
+2172,NHS Tayside,Dundee City,2013,Falls,13
+2173,NHS Tayside,Dundee City,2013,"Struck by,against",0
+2174,NHS Tayside,Dundee City,2013,Crushing,0
+2175,NHS Tayside,Dundee City,2013,Scalds,0
+2176,NHS Tayside,Dundee City,2013,Accidental exposure,2
+2177,NHS Tayside,Dundee City,2013,Other,3
+2179,NHS Tayside,Dundee City,2014,Land transport accidents,5
+2180,NHS Tayside,Dundee City,2014,Poisoning,28
+2181,NHS Tayside,Dundee City,2014,Falls,23
+2182,NHS Tayside,Dundee City,2014,"Struck by,against",0
+2183,NHS Tayside,Dundee City,2014,Crushing,0
+2184,NHS Tayside,Dundee City,2014,Scalds,0
+2185,NHS Tayside,Dundee City,2014,Accidental exposure,3
+2186,NHS Tayside,Dundee City,2014,Other,7
+2188,NHS Tayside,Dundee City,2015,Land transport accidents,4
+2189,NHS Tayside,Dundee City,2015,Poisoning,32
+2190,NHS Tayside,Dundee City,2015,Falls,18
+2191,NHS Tayside,Dundee City,2015,"Struck by,against",0
+2192,NHS Tayside,Dundee City,2015,Crushing,0
+2193,NHS Tayside,Dundee City,2015,Scalds,0
+2194,NHS Tayside,Dundee City,2015,Accidental exposure,2
+2195,NHS Tayside,Dundee City,2015,Other,8
+2197,NHS Tayside,Dundee City,2016,Land transport accidents,6
+2198,NHS Tayside,Dundee City,2016,Poisoning,39
+2199,NHS Tayside,Dundee City,2016,Falls,17
+2200,NHS Tayside,Dundee City,2016,"Struck by,against",0
+2201,NHS Tayside,Dundee City,2016,Crushing,1
+2202,NHS Tayside,Dundee City,2016,Scalds,0
+2203,NHS Tayside,Dundee City,2016,Accidental exposure,3
+2204,NHS Tayside,Dundee City,2016,Other,5
+2206,NHS Tayside,Dundee City,2017,Land transport accidents,5
+2207,NHS Tayside,Dundee City,2017,Poisoning,52
+2208,NHS Tayside,Dundee City,2017,Falls,22
+2209,NHS Tayside,Dundee City,2017,"Struck by,against",0
+2210,NHS Tayside,Dundee City,2017,Crushing,0
+2211,NHS Tayside,Dundee City,2017,Scalds,0
+2212,NHS Tayside,Dundee City,2017,Accidental exposure,2
+2213,NHS Tayside,Dundee City,2017,Other,6
+2215,NHS Tayside,Dundee City,2018,Land transport accidents,1
+2216,NHS Tayside,Dundee City,2018,Poisoning,60
+2217,NHS Tayside,Dundee City,2018,Falls,26
+2218,NHS Tayside,Dundee City,2018,"Struck by,against",0
+2219,NHS Tayside,Dundee City,2018,Crushing,0
+2220,NHS Tayside,Dundee City,2018,Scalds,0
+2221,NHS Tayside,Dundee City,2018,Accidental exposure,3
+2222,NHS Tayside,Dundee City,2018,Other,4
+2224,NHS Tayside,Dundee City,2019,Land transport accidents,3
+2225,NHS Tayside,Dundee City,2019,Poisoning,64
+2226,NHS Tayside,Dundee City,2019,Falls,17
+2227,NHS Tayside,Dundee City,2019,"Struck by,against",0
+2228,NHS Tayside,Dundee City,2019,Crushing,1
+2229,NHS Tayside,Dundee City,2019,Scalds,0
+2230,NHS Tayside,Dundee City,2019,Accidental exposure,1
+2231,NHS Tayside,Dundee City,2019,Other,2
+2233,NHS Tayside,Dundee City,2020,Land transport accidents,6
+2234,NHS Tayside,Dundee City,2020,Poisoning,52
+2235,NHS Tayside,Dundee City,2020,Falls,20
+2236,NHS Tayside,Dundee City,2020,"Struck by,against",0
+2237,NHS Tayside,Dundee City,2020,Crushing,0
+2238,NHS Tayside,Dundee City,2020,Scalds,0
+2239,NHS Tayside,Dundee City,2020,Accidental exposure,5
+2240,NHS Tayside,Dundee City,2020,Other,9
+2242,NHS Tayside,Dundee City,2021,Land transport accidents,2
+2243,NHS Tayside,Dundee City,2021,Poisoning,54
+2244,NHS Tayside,Dundee City,2021,Falls,37
+2245,NHS Tayside,Dundee City,2021,"Struck by,against",0
+2246,NHS Tayside,Dundee City,2021,Crushing,0
+2247,NHS Tayside,Dundee City,2021,Scalds,0
+2248,NHS Tayside,Dundee City,2021,Accidental exposure,7
+2249,NHS Tayside,Dundee City,2021,Other,3
+2251,NHS Tayside,Perth and Kinross,2012,Land transport accidents,9
+2252,NHS Tayside,Perth and Kinross,2012,Poisoning,11
+2253,NHS Tayside,Perth and Kinross,2012,Falls,23
+2254,NHS Tayside,Perth and Kinross,2012,"Struck by,against",0
+2255,NHS Tayside,Perth and Kinross,2012,Crushing,0
+2256,NHS Tayside,Perth and Kinross,2012,Scalds,0
+2257,NHS Tayside,Perth and Kinross,2012,Accidental exposure,2
+2258,NHS Tayside,Perth and Kinross,2012,Other,7
+2260,NHS Tayside,Perth and Kinross,2013,Land transport accidents,5
+2261,NHS Tayside,Perth and Kinross,2013,Poisoning,5
+2262,NHS Tayside,Perth and Kinross,2013,Falls,25
+2263,NHS Tayside,Perth and Kinross,2013,"Struck by,against",0
+2264,NHS Tayside,Perth and Kinross,2013,Crushing,0
+2265,NHS Tayside,Perth and Kinross,2013,Scalds,0
+2266,NHS Tayside,Perth and Kinross,2013,Accidental exposure,0
+2267,NHS Tayside,Perth and Kinross,2013,Other,3
+2269,NHS Tayside,Perth and Kinross,2014,Land transport accidents,9
+2270,NHS Tayside,Perth and Kinross,2014,Poisoning,6
+2271,NHS Tayside,Perth and Kinross,2014,Falls,13
+2272,NHS Tayside,Perth and Kinross,2014,"Struck by,against",0
+2273,NHS Tayside,Perth and Kinross,2014,Crushing,0
+2274,NHS Tayside,Perth and Kinross,2014,Scalds,0
+2275,NHS Tayside,Perth and Kinross,2014,Accidental exposure,2
+2276,NHS Tayside,Perth and Kinross,2014,Other,0
+2278,NHS Tayside,Perth and Kinross,2015,Land transport accidents,2
+2279,NHS Tayside,Perth and Kinross,2015,Poisoning,12
+2280,NHS Tayside,Perth and Kinross,2015,Falls,18
+2281,NHS Tayside,Perth and Kinross,2015,"Struck by,against",0
+2282,NHS Tayside,Perth and Kinross,2015,Crushing,1
+2283,NHS Tayside,Perth and Kinross,2015,Scalds,0
+2284,NHS Tayside,Perth and Kinross,2015,Accidental exposure,7
+2285,NHS Tayside,Perth and Kinross,2015,Other,1
+2287,NHS Tayside,Perth and Kinross,2016,Land transport accidents,5
+2288,NHS Tayside,Perth and Kinross,2016,Poisoning,8
+2289,NHS Tayside,Perth and Kinross,2016,Falls,30
+2290,NHS Tayside,Perth and Kinross,2016,"Struck by,against",0
+2291,NHS Tayside,Perth and Kinross,2016,Crushing,0
+2292,NHS Tayside,Perth and Kinross,2016,Scalds,0
+2293,NHS Tayside,Perth and Kinross,2016,Accidental exposure,1
+2294,NHS Tayside,Perth and Kinross,2016,Other,5
+2296,NHS Tayside,Perth and Kinross,2017,Land transport accidents,9
+2297,NHS Tayside,Perth and Kinross,2017,Poisoning,17
+2298,NHS Tayside,Perth and Kinross,2017,Falls,32
+2299,NHS Tayside,Perth and Kinross,2017,"Struck by,against",0
+2300,NHS Tayside,Perth and Kinross,2017,Crushing,0
+2301,NHS Tayside,Perth and Kinross,2017,Scalds,0
+2302,NHS Tayside,Perth and Kinross,2017,Accidental exposure,2
+2303,NHS Tayside,Perth and Kinross,2017,Other,4
+2305,NHS Tayside,Perth and Kinross,2018,Land transport accidents,5
+2306,NHS Tayside,Perth and Kinross,2018,Poisoning,26
+2307,NHS Tayside,Perth and Kinross,2018,Falls,40
+2308,NHS Tayside,Perth and Kinross,2018,"Struck by,against",0
+2309,NHS Tayside,Perth and Kinross,2018,Crushing,0
+2310,NHS Tayside,Perth and Kinross,2018,Scalds,0
+2311,NHS Tayside,Perth and Kinross,2018,Accidental exposure,3
+2312,NHS Tayside,Perth and Kinross,2018,Other,8
+2314,NHS Tayside,Perth and Kinross,2019,Land transport accidents,6
+2315,NHS Tayside,Perth and Kinross,2019,Poisoning,26
+2316,NHS Tayside,Perth and Kinross,2019,Falls,23
+2317,NHS Tayside,Perth and Kinross,2019,"Struck by,against",0
+2318,NHS Tayside,Perth and Kinross,2019,Crushing,1
+2319,NHS Tayside,Perth and Kinross,2019,Scalds,0
+2320,NHS Tayside,Perth and Kinross,2019,Accidental exposure,0
+2321,NHS Tayside,Perth and Kinross,2019,Other,7
+2323,NHS Tayside,Perth and Kinross,2020,Land transport accidents,3
+2324,NHS Tayside,Perth and Kinross,2020,Poisoning,34
+2325,NHS Tayside,Perth and Kinross,2020,Falls,39
+2326,NHS Tayside,Perth and Kinross,2020,"Struck by,against",0
+2327,NHS Tayside,Perth and Kinross,2020,Crushing,0
+2328,NHS Tayside,Perth and Kinross,2020,Scalds,0
+2329,NHS Tayside,Perth and Kinross,2020,Accidental exposure,3
+2330,NHS Tayside,Perth and Kinross,2020,Other,1
+2332,NHS Tayside,Perth and Kinross,2021,Land transport accidents,2
+2333,NHS Tayside,Perth and Kinross,2021,Poisoning,18
+2334,NHS Tayside,Perth and Kinross,2021,Falls,27
+2335,NHS Tayside,Perth and Kinross,2021,"Struck by,against",0
+2336,NHS Tayside,Perth and Kinross,2021,Crushing,0
+2337,NHS Tayside,Perth and Kinross,2021,Scalds,0
+2338,NHS Tayside,Perth and Kinross,2021,Accidental exposure,2
+2339,NHS Tayside,Perth and Kinross,2021,Other,8
+2341,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Land transport accidents,1
+2342,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Poisoning,6
+2343,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Falls,13
+2344,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,"Struck by,against",0
+2345,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Crushing,0
+2346,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Scalds,0
+2347,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Accidental exposure,1
+2348,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Other,1
+2350,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Land transport accidents,5
+2351,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Poisoning,4
+2352,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Falls,12
+2353,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,"Struck by,against",0
+2354,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Crushing,0
+2355,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Scalds,0
+2356,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Accidental exposure,2
+2357,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Other,1
+2359,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Land transport accidents,3
+2360,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Poisoning,4
+2361,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Falls,14
+2362,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,"Struck by,against",0
+2363,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Crushing,0
+2364,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Scalds,0
+2365,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Accidental exposure,3
+2366,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Other,2
+2368,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Land transport accidents,0
+2369,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Poisoning,6
+2370,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Falls,10
+2371,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,"Struck by,against",0
+2372,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Crushing,0
+2373,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Scalds,0
+2374,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Accidental exposure,1
+2375,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Other,1
+2377,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Land transport accidents,0
+2378,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Poisoning,6
+2379,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Falls,18
+2380,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,"Struck by,against",0
+2381,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Crushing,0
+2382,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Scalds,0
+2383,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Accidental exposure,2
+2384,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Other,5
+2386,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Land transport accidents,2
+2387,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Poisoning,2
+2388,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Falls,24
+2389,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,"Struck by,against",0
+2390,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Crushing,0
+2391,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Scalds,0
+2392,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Accidental exposure,4
+2393,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Other,0
+2395,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Land transport accidents,0
+2396,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Poisoning,13
+2397,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Falls,15
+2398,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,"Struck by,against",0
+2399,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Crushing,0
+2400,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Scalds,0
+2401,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Accidental exposure,0
+2402,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Other,1
+2404,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Land transport accidents,1
+2405,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Poisoning,10
+2406,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Falls,19
+2407,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,"Struck by,against",0
+2408,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Crushing,0
+2409,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Scalds,0
+2410,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Accidental exposure,1
+2411,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Other,2
+2413,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Land transport accidents,1
+2414,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Poisoning,11
+2415,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Falls,11
+2416,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,"Struck by,against",0
+2417,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Crushing,0
+2418,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Scalds,0
+2419,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Accidental exposure,1
+2420,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Other,1
+2422,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Land transport accidents,2
+2423,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Poisoning,5
+2424,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Falls,14
+2425,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,"Struck by,against",0
+2426,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Crushing,0
+2427,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Scalds,0
+2428,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Accidental exposure,2
+2429,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Other,0
+2431,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Land transport accidents,1
+2432,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Poisoning,6
+2433,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Falls,13
+2434,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,"Struck by,against",0
+2435,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Crushing,0
+2436,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Scalds,0
+2437,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Accidental exposure,1
+2438,NHS Greater Glasgow and Clyde,East Renfrewshire,2012,Other,1
+2440,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Land transport accidents,5
+2441,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Poisoning,4
+2442,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Falls,12
+2443,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,"Struck by,against",0
+2444,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Crushing,0
+2445,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Scalds,0
+2446,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Accidental exposure,2
+2447,NHS Greater Glasgow and Clyde,East Renfrewshire,2013,Other,1
+2449,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Land transport accidents,3
+2450,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Poisoning,4
+2451,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Falls,14
+2452,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,"Struck by,against",0
+2453,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Crushing,0
+2454,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Scalds,0
+2455,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Accidental exposure,3
+2456,NHS Greater Glasgow and Clyde,East Renfrewshire,2014,Other,2
+2458,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Land transport accidents,0
+2459,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Poisoning,6
+2460,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Falls,10
+2461,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,"Struck by,against",0
+2462,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Crushing,0
+2463,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Scalds,0
+2464,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Accidental exposure,1
+2465,NHS Greater Glasgow and Clyde,East Renfrewshire,2015,Other,1
+2467,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Land transport accidents,0
+2468,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Poisoning,6
+2469,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Falls,18
+2470,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,"Struck by,against",0
+2471,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Crushing,0
+2472,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Scalds,0
+2473,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Accidental exposure,2
+2474,NHS Greater Glasgow and Clyde,East Renfrewshire,2016,Other,5
+2476,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Land transport accidents,2
+2477,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Poisoning,2
+2478,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Falls,24
+2479,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,"Struck by,against",0
+2480,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Crushing,0
+2481,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Scalds,0
+2482,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Accidental exposure,4
+2483,NHS Greater Glasgow and Clyde,East Renfrewshire,2017,Other,0
+2485,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Land transport accidents,0
+2486,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Poisoning,13
+2487,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Falls,15
+2488,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,"Struck by,against",0
+2489,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Crushing,0
+2490,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Scalds,0
+2491,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Accidental exposure,0
+2492,NHS Greater Glasgow and Clyde,East Renfrewshire,2018,Other,1
+2494,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Land transport accidents,1
+2495,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Poisoning,10
+2496,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Falls,19
+2497,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,"Struck by,against",0
+2498,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Crushing,0
+2499,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Scalds,0
+2500,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Accidental exposure,1
+2501,NHS Greater Glasgow and Clyde,East Renfrewshire,2019,Other,2
+2503,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Land transport accidents,1
+2504,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Poisoning,11
+2505,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Falls,11
+2506,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,"Struck by,against",0
+2507,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Crushing,0
+2508,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Scalds,0
+2509,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Accidental exposure,1
+2510,NHS Greater Glasgow and Clyde,East Renfrewshire,2020,Other,1
+2512,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Land transport accidents,2
+2513,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Poisoning,5
+2514,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Falls,14
+2515,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,"Struck by,against",0
+2516,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Crushing,0
+2517,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Scalds,0
+2518,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Accidental exposure,2
+2519,NHS Greater Glasgow and Clyde,East Renfrewshire,2021,Other,0
+2521,NHS Greater Glasgow and Clyde,Inverclyde,2012,Land transport accidents,2
+2522,NHS Greater Glasgow and Clyde,Inverclyde,2012,Poisoning,11
+2523,NHS Greater Glasgow and Clyde,Inverclyde,2012,Falls,14
+2524,NHS Greater Glasgow and Clyde,Inverclyde,2012,"Struck by,against",0
+2525,NHS Greater Glasgow and Clyde,Inverclyde,2012,Crushing,0
+2526,NHS Greater Glasgow and Clyde,Inverclyde,2012,Scalds,0
+2527,NHS Greater Glasgow and Clyde,Inverclyde,2012,Accidental exposure,1
+2528,NHS Greater Glasgow and Clyde,Inverclyde,2012,Other,1
+2530,NHS Greater Glasgow and Clyde,Inverclyde,2013,Land transport accidents,0
+2531,NHS Greater Glasgow and Clyde,Inverclyde,2013,Poisoning,11
+2532,NHS Greater Glasgow and Clyde,Inverclyde,2013,Falls,12
+2533,NHS Greater Glasgow and Clyde,Inverclyde,2013,"Struck by,against",0
+2534,NHS Greater Glasgow and Clyde,Inverclyde,2013,Crushing,0
+2535,NHS Greater Glasgow and Clyde,Inverclyde,2013,Scalds,0
+2536,NHS Greater Glasgow and Clyde,Inverclyde,2013,Accidental exposure,4
+2537,NHS Greater Glasgow and Clyde,Inverclyde,2013,Other,3
+2539,NHS Greater Glasgow and Clyde,Inverclyde,2014,Land transport accidents,1
+2540,NHS Greater Glasgow and Clyde,Inverclyde,2014,Poisoning,18
+2541,NHS Greater Glasgow and Clyde,Inverclyde,2014,Falls,14
+2542,NHS Greater Glasgow and Clyde,Inverclyde,2014,"Struck by,against",0
+2543,NHS Greater Glasgow and Clyde,Inverclyde,2014,Crushing,0
+2544,NHS Greater Glasgow and Clyde,Inverclyde,2014,Scalds,0
+2545,NHS Greater Glasgow and Clyde,Inverclyde,2014,Accidental exposure,2
+2546,NHS Greater Glasgow and Clyde,Inverclyde,2014,Other,3
+2548,NHS Greater Glasgow and Clyde,Inverclyde,2015,Land transport accidents,4
+2549,NHS Greater Glasgow and Clyde,Inverclyde,2015,Poisoning,17
+2550,NHS Greater Glasgow and Clyde,Inverclyde,2015,Falls,17
+2551,NHS Greater Glasgow and Clyde,Inverclyde,2015,"Struck by,against",0
+2552,NHS Greater Glasgow and Clyde,Inverclyde,2015,Crushing,0
+2553,NHS Greater Glasgow and Clyde,Inverclyde,2015,Scalds,0
+2554,NHS Greater Glasgow and Clyde,Inverclyde,2015,Accidental exposure,1
+2555,NHS Greater Glasgow and Clyde,Inverclyde,2015,Other,4
+2557,NHS Greater Glasgow and Clyde,Inverclyde,2016,Land transport accidents,0
+2558,NHS Greater Glasgow and Clyde,Inverclyde,2016,Poisoning,21
+2559,NHS Greater Glasgow and Clyde,Inverclyde,2016,Falls,14
+2560,NHS Greater Glasgow and Clyde,Inverclyde,2016,"Struck by,against",0
+2561,NHS Greater Glasgow and Clyde,Inverclyde,2016,Crushing,0
+2562,NHS Greater Glasgow and Clyde,Inverclyde,2016,Scalds,0
+2563,NHS Greater Glasgow and Clyde,Inverclyde,2016,Accidental exposure,1
+2564,NHS Greater Glasgow and Clyde,Inverclyde,2016,Other,2
+2566,NHS Greater Glasgow and Clyde,Inverclyde,2017,Land transport accidents,4
+2567,NHS Greater Glasgow and Clyde,Inverclyde,2017,Poisoning,25
+2568,NHS Greater Glasgow and Clyde,Inverclyde,2017,Falls,15
+2569,NHS Greater Glasgow and Clyde,Inverclyde,2017,"Struck by,against",0
+2570,NHS Greater Glasgow and Clyde,Inverclyde,2017,Crushing,0
+2571,NHS Greater Glasgow and Clyde,Inverclyde,2017,Scalds,0
+2572,NHS Greater Glasgow and Clyde,Inverclyde,2017,Accidental exposure,3
+2573,NHS Greater Glasgow and Clyde,Inverclyde,2017,Other,1
+2575,NHS Greater Glasgow and Clyde,Inverclyde,2018,Land transport accidents,0
+2576,NHS Greater Glasgow and Clyde,Inverclyde,2018,Poisoning,24
+2577,NHS Greater Glasgow and Clyde,Inverclyde,2018,Falls,15
+2578,NHS Greater Glasgow and Clyde,Inverclyde,2018,"Struck by,against",0
+2579,NHS Greater Glasgow and Clyde,Inverclyde,2018,Crushing,0
+2580,NHS Greater Glasgow and Clyde,Inverclyde,2018,Scalds,0
+2581,NHS Greater Glasgow and Clyde,Inverclyde,2018,Accidental exposure,5
+2582,NHS Greater Glasgow and Clyde,Inverclyde,2018,Other,3
+2584,NHS Greater Glasgow and Clyde,Inverclyde,2019,Land transport accidents,1
+2585,NHS Greater Glasgow and Clyde,Inverclyde,2019,Poisoning,33
+2586,NHS Greater Glasgow and Clyde,Inverclyde,2019,Falls,23
+2587,NHS Greater Glasgow and Clyde,Inverclyde,2019,"Struck by,against",0
+2588,NHS Greater Glasgow and Clyde,Inverclyde,2019,Crushing,0
+2589,NHS Greater Glasgow and Clyde,Inverclyde,2019,Scalds,0
+2590,NHS Greater Glasgow and Clyde,Inverclyde,2019,Accidental exposure,1
+2591,NHS Greater Glasgow and Clyde,Inverclyde,2019,Other,8
+2593,NHS Greater Glasgow and Clyde,Inverclyde,2020,Land transport accidents,3
+2594,NHS Greater Glasgow and Clyde,Inverclyde,2020,Poisoning,34
+2595,NHS Greater Glasgow and Clyde,Inverclyde,2020,Falls,17
+2596,NHS Greater Glasgow and Clyde,Inverclyde,2020,"Struck by,against",0
+2597,NHS Greater Glasgow and Clyde,Inverclyde,2020,Crushing,0
+2598,NHS Greater Glasgow and Clyde,Inverclyde,2020,Scalds,0
+2599,NHS Greater Glasgow and Clyde,Inverclyde,2020,Accidental exposure,0
+2600,NHS Greater Glasgow and Clyde,Inverclyde,2020,Other,7
+2602,NHS Greater Glasgow and Clyde,Inverclyde,2021,Land transport accidents,4
+2603,NHS Greater Glasgow and Clyde,Inverclyde,2021,Poisoning,19
+2604,NHS Greater Glasgow and Clyde,Inverclyde,2021,Falls,15
+2605,NHS Greater Glasgow and Clyde,Inverclyde,2021,"Struck by,against",0
+2606,NHS Greater Glasgow and Clyde,Inverclyde,2021,Crushing,0
+2607,NHS Greater Glasgow and Clyde,Inverclyde,2021,Scalds,0
+2608,NHS Greater Glasgow and Clyde,Inverclyde,2021,Accidental exposure,0
+2609,NHS Greater Glasgow and Clyde,Inverclyde,2021,Other,3
+2611,NHS Greater Glasgow and Clyde,Inverclyde,2012,Land transport accidents,2
+2612,NHS Greater Glasgow and Clyde,Inverclyde,2012,Poisoning,11
+2613,NHS Greater Glasgow and Clyde,Inverclyde,2012,Falls,14
+2614,NHS Greater Glasgow and Clyde,Inverclyde,2012,"Struck by,against",0
+2615,NHS Greater Glasgow and Clyde,Inverclyde,2012,Crushing,0
+2616,NHS Greater Glasgow and Clyde,Inverclyde,2012,Scalds,0
+2617,NHS Greater Glasgow and Clyde,Inverclyde,2012,Accidental exposure,1
+2618,NHS Greater Glasgow and Clyde,Inverclyde,2012,Other,1
+2620,NHS Greater Glasgow and Clyde,Inverclyde,2013,Land transport accidents,0
+2621,NHS Greater Glasgow and Clyde,Inverclyde,2013,Poisoning,11
+2622,NHS Greater Glasgow and Clyde,Inverclyde,2013,Falls,12
+2623,NHS Greater Glasgow and Clyde,Inverclyde,2013,"Struck by,against",0
+2624,NHS Greater Glasgow and Clyde,Inverclyde,2013,Crushing,0
+2625,NHS Greater Glasgow and Clyde,Inverclyde,2013,Scalds,0
+2626,NHS Greater Glasgow and Clyde,Inverclyde,2013,Accidental exposure,4
+2627,NHS Greater Glasgow and Clyde,Inverclyde,2013,Other,3
+2629,NHS Greater Glasgow and Clyde,Inverclyde,2014,Land transport accidents,1
+2630,NHS Greater Glasgow and Clyde,Inverclyde,2014,Poisoning,18
+2631,NHS Greater Glasgow and Clyde,Inverclyde,2014,Falls,14
+2632,NHS Greater Glasgow and Clyde,Inverclyde,2014,"Struck by,against",0
+2633,NHS Greater Glasgow and Clyde,Inverclyde,2014,Crushing,0
+2634,NHS Greater Glasgow and Clyde,Inverclyde,2014,Scalds,0
+2635,NHS Greater Glasgow and Clyde,Inverclyde,2014,Accidental exposure,2
+2636,NHS Greater Glasgow and Clyde,Inverclyde,2014,Other,3
+2638,NHS Greater Glasgow and Clyde,Inverclyde,2015,Land transport accidents,4
+2639,NHS Greater Glasgow and Clyde,Inverclyde,2015,Poisoning,17
+2640,NHS Greater Glasgow and Clyde,Inverclyde,2015,Falls,17
+2641,NHS Greater Glasgow and Clyde,Inverclyde,2015,"Struck by,against",0
+2642,NHS Greater Glasgow and Clyde,Inverclyde,2015,Crushing,0
+2643,NHS Greater Glasgow and Clyde,Inverclyde,2015,Scalds,0
+2644,NHS Greater Glasgow and Clyde,Inverclyde,2015,Accidental exposure,1
+2645,NHS Greater Glasgow and Clyde,Inverclyde,2015,Other,4
+2647,NHS Greater Glasgow and Clyde,Inverclyde,2016,Land transport accidents,0
+2648,NHS Greater Glasgow and Clyde,Inverclyde,2016,Poisoning,21
+2649,NHS Greater Glasgow and Clyde,Inverclyde,2016,Falls,14
+2650,NHS Greater Glasgow and Clyde,Inverclyde,2016,"Struck by,against",0
+2651,NHS Greater Glasgow and Clyde,Inverclyde,2016,Crushing,0
+2652,NHS Greater Glasgow and Clyde,Inverclyde,2016,Scalds,0
+2653,NHS Greater Glasgow and Clyde,Inverclyde,2016,Accidental exposure,1
+2654,NHS Greater Glasgow and Clyde,Inverclyde,2016,Other,2
+2656,NHS Greater Glasgow and Clyde,Inverclyde,2017,Land transport accidents,4
+2657,NHS Greater Glasgow and Clyde,Inverclyde,2017,Poisoning,25
+2658,NHS Greater Glasgow and Clyde,Inverclyde,2017,Falls,15
+2659,NHS Greater Glasgow and Clyde,Inverclyde,2017,"Struck by,against",0
+2660,NHS Greater Glasgow and Clyde,Inverclyde,2017,Crushing,0
+2661,NHS Greater Glasgow and Clyde,Inverclyde,2017,Scalds,0
+2662,NHS Greater Glasgow and Clyde,Inverclyde,2017,Accidental exposure,3
+2663,NHS Greater Glasgow and Clyde,Inverclyde,2017,Other,1
+2665,NHS Greater Glasgow and Clyde,Inverclyde,2018,Land transport accidents,0
+2666,NHS Greater Glasgow and Clyde,Inverclyde,2018,Poisoning,24
+2667,NHS Greater Glasgow and Clyde,Inverclyde,2018,Falls,15
+2668,NHS Greater Glasgow and Clyde,Inverclyde,2018,"Struck by,against",0
+2669,NHS Greater Glasgow and Clyde,Inverclyde,2018,Crushing,0
+2670,NHS Greater Glasgow and Clyde,Inverclyde,2018,Scalds,0
+2671,NHS Greater Glasgow and Clyde,Inverclyde,2018,Accidental exposure,5
+2672,NHS Greater Glasgow and Clyde,Inverclyde,2018,Other,3
+2674,NHS Greater Glasgow and Clyde,Inverclyde,2019,Land transport accidents,1
+2675,NHS Greater Glasgow and Clyde,Inverclyde,2019,Poisoning,33
+2676,NHS Greater Glasgow and Clyde,Inverclyde,2019,Falls,23
+2677,NHS Greater Glasgow and Clyde,Inverclyde,2019,"Struck by,against",0
+2678,NHS Greater Glasgow and Clyde,Inverclyde,2019,Crushing,0
+2679,NHS Greater Glasgow and Clyde,Inverclyde,2019,Scalds,0
+2680,NHS Greater Glasgow and Clyde,Inverclyde,2019,Accidental exposure,1
+2681,NHS Greater Glasgow and Clyde,Inverclyde,2019,Other,8
+2683,NHS Greater Glasgow and Clyde,Inverclyde,2020,Land transport accidents,3
+2684,NHS Greater Glasgow and Clyde,Inverclyde,2020,Poisoning,34
+2685,NHS Greater Glasgow and Clyde,Inverclyde,2020,Falls,17
+2686,NHS Greater Glasgow and Clyde,Inverclyde,2020,"Struck by,against",0
+2687,NHS Greater Glasgow and Clyde,Inverclyde,2020,Crushing,0
+2688,NHS Greater Glasgow and Clyde,Inverclyde,2020,Scalds,0
+2689,NHS Greater Glasgow and Clyde,Inverclyde,2020,Accidental exposure,0
+2690,NHS Greater Glasgow and Clyde,Inverclyde,2020,Other,7
+2692,NHS Greater Glasgow and Clyde,Inverclyde,2021,Land transport accidents,4
+2693,NHS Greater Glasgow and Clyde,Inverclyde,2021,Poisoning,19
+2694,NHS Greater Glasgow and Clyde,Inverclyde,2021,Falls,15
+2695,NHS Greater Glasgow and Clyde,Inverclyde,2021,"Struck by,against",0
+2696,NHS Greater Glasgow and Clyde,Inverclyde,2021,Crushing,0
+2697,NHS Greater Glasgow and Clyde,Inverclyde,2021,Scalds,0
+2698,NHS Greater Glasgow and Clyde,Inverclyde,2021,Accidental exposure,0
+2699,NHS Greater Glasgow and Clyde,Inverclyde,2021,Other,3
+2701,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Land transport accidents,7
+2702,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Poisoning,28
+2703,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Falls,25
+2704,NHS Greater Glasgow and Clyde,Renfrewshire,2012,"Struck by,against",0
+2705,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Crushing,0
+2706,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Scalds,0
+2707,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Accidental exposure,3
+2708,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Other,2
+2710,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Land transport accidents,3
+2711,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Poisoning,19
+2712,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Falls,25
+2713,NHS Greater Glasgow and Clyde,Renfrewshire,2013,"Struck by,against",0
+2714,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Crushing,0
+2715,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Scalds,0
+2716,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Accidental exposure,6
+2717,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Other,6
+2719,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Land transport accidents,7
+2720,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Poisoning,23
+2721,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Falls,23
+2722,NHS Greater Glasgow and Clyde,Renfrewshire,2014,"Struck by,against",0
+2723,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Crushing,0
+2724,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Scalds,0
+2725,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Accidental exposure,2
+2726,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Other,4
+2728,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Land transport accidents,5
+2729,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Poisoning,19
+2730,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Falls,16
+2731,NHS Greater Glasgow and Clyde,Renfrewshire,2015,"Struck by,against",0
+2732,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Crushing,0
+2733,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Scalds,0
+2734,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Accidental exposure,3
+2735,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Other,2
+2737,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Land transport accidents,4
+2738,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Poisoning,40
+2739,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Falls,30
+2740,NHS Greater Glasgow and Clyde,Renfrewshire,2016,"Struck by,against",0
+2741,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Crushing,0
+2742,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Scalds,0
+2743,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Accidental exposure,3
+2744,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Other,6
+2746,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Land transport accidents,2
+2747,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Poisoning,44
+2748,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Falls,33
+2749,NHS Greater Glasgow and Clyde,Renfrewshire,2017,"Struck by,against",0
+2750,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Crushing,0
+2751,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Scalds,1
+2752,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Accidental exposure,4
+2753,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Other,6
+2755,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Land transport accidents,5
+2756,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Poisoning,53
+2757,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Falls,23
+2758,NHS Greater Glasgow and Clyde,Renfrewshire,2018,"Struck by,against",0
+2759,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Crushing,0
+2760,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Scalds,0
+2761,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Accidental exposure,3
+2762,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Other,9
+2764,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Land transport accidents,4
+2765,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Poisoning,49
+2766,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Falls,30
+2767,NHS Greater Glasgow and Clyde,Renfrewshire,2019,"Struck by,against",0
+2768,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Crushing,0
+2769,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Scalds,0
+2770,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Accidental exposure,2
+2771,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Other,0
+2773,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Land transport accidents,4
+2774,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Poisoning,65
+2775,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Falls,20
+2776,NHS Greater Glasgow and Clyde,Renfrewshire,2020,"Struck by,against",0
+2777,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Crushing,0
+2778,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Scalds,0
+2779,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Accidental exposure,4
+2780,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Other,3
+2782,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Land transport accidents,1
+2783,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Poisoning,53
+2784,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Falls,41
+2785,NHS Greater Glasgow and Clyde,Renfrewshire,2021,"Struck by,against",0
+2786,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Crushing,0
+2787,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Scalds,0
+2788,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Accidental exposure,7
+2789,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Other,3
+2791,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Land transport accidents,7
+2792,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Poisoning,28
+2793,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Falls,25
+2794,NHS Greater Glasgow and Clyde,Renfrewshire,2012,"Struck by,against",0
+2795,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Crushing,0
+2796,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Scalds,0
+2797,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Accidental exposure,3
+2798,NHS Greater Glasgow and Clyde,Renfrewshire,2012,Other,2
+2800,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Land transport accidents,3
+2801,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Poisoning,19
+2802,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Falls,25
+2803,NHS Greater Glasgow and Clyde,Renfrewshire,2013,"Struck by,against",0
+2804,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Crushing,0
+2805,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Scalds,0
+2806,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Accidental exposure,6
+2807,NHS Greater Glasgow and Clyde,Renfrewshire,2013,Other,6
+2809,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Land transport accidents,7
+2810,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Poisoning,23
+2811,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Falls,23
+2812,NHS Greater Glasgow and Clyde,Renfrewshire,2014,"Struck by,against",0
+2813,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Crushing,0
+2814,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Scalds,0
+2815,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Accidental exposure,2
+2816,NHS Greater Glasgow and Clyde,Renfrewshire,2014,Other,4
+2818,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Land transport accidents,5
+2819,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Poisoning,19
+2820,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Falls,16
+2821,NHS Greater Glasgow and Clyde,Renfrewshire,2015,"Struck by,against",0
+2822,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Crushing,0
+2823,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Scalds,0
+2824,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Accidental exposure,3
+2825,NHS Greater Glasgow and Clyde,Renfrewshire,2015,Other,2
+2827,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Land transport accidents,4
+2828,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Poisoning,40
+2829,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Falls,30
+2830,NHS Greater Glasgow and Clyde,Renfrewshire,2016,"Struck by,against",0
+2831,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Crushing,0
+2832,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Scalds,0
+2833,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Accidental exposure,3
+2834,NHS Greater Glasgow and Clyde,Renfrewshire,2016,Other,6
+2836,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Land transport accidents,2
+2837,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Poisoning,44
+2838,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Falls,33
+2839,NHS Greater Glasgow and Clyde,Renfrewshire,2017,"Struck by,against",0
+2840,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Crushing,0
+2841,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Scalds,1
+2842,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Accidental exposure,4
+2843,NHS Greater Glasgow and Clyde,Renfrewshire,2017,Other,6
+2845,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Land transport accidents,5
+2846,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Poisoning,53
+2847,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Falls,23
+2848,NHS Greater Glasgow and Clyde,Renfrewshire,2018,"Struck by,against",0
+2849,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Crushing,0
+2850,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Scalds,0
+2851,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Accidental exposure,3
+2852,NHS Greater Glasgow and Clyde,Renfrewshire,2018,Other,9
+2854,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Land transport accidents,4
+2855,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Poisoning,49
+2856,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Falls,30
+2857,NHS Greater Glasgow and Clyde,Renfrewshire,2019,"Struck by,against",0
+2858,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Crushing,0
+2859,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Scalds,0
+2860,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Accidental exposure,2
+2861,NHS Greater Glasgow and Clyde,Renfrewshire,2019,Other,0
+2863,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Land transport accidents,4
+2864,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Poisoning,65
+2865,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Falls,20
+2866,NHS Greater Glasgow and Clyde,Renfrewshire,2020,"Struck by,against",0
+2867,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Crushing,0
+2868,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Scalds,0
+2869,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Accidental exposure,4
+2870,NHS Greater Glasgow and Clyde,Renfrewshire,2020,Other,3
+2872,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Land transport accidents,1
+2873,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Poisoning,53
+2874,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Falls,41
+2875,NHS Greater Glasgow and Clyde,Renfrewshire,2021,"Struck by,against",0
+2876,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Crushing,0
+2877,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Scalds,0
+2878,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Accidental exposure,7
+2879,NHS Greater Glasgow and Clyde,Renfrewshire,2021,Other,3
+2881,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Land transport accidents,5
+2882,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Poisoning,25
+2883,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Falls,14
+2884,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,"Struck by,against",0
+2885,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Crushing,0
+2886,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Scalds,0
+2887,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Accidental exposure,1
+2888,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Other,2
+2890,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Land transport accidents,5
+2891,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Poisoning,10
+2892,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Falls,18
+2893,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,"Struck by,against",0
+2894,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Crushing,0
+2895,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Scalds,0
+2896,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Accidental exposure,3
+2897,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Other,5
+2899,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Land transport accidents,6
+2900,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Poisoning,20
+2901,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Falls,10
+2902,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,"Struck by,against",0
+2903,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Crushing,0
+2904,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Scalds,0
+2905,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Accidental exposure,2
+2906,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Other,2
+2908,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Land transport accidents,1
+2909,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Poisoning,11
+2910,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Falls,11
+2911,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,"Struck by,against",0
+2912,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Crushing,0
+2913,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Scalds,0
+2914,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Accidental exposure,1
+2915,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Other,1
+2917,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Land transport accidents,3
+2918,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Poisoning,19
+2919,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Falls,23
+2920,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,"Struck by,against",0
+2921,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Crushing,0
+2922,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Scalds,0
+2923,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Accidental exposure,2
+2924,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Other,1
+2926,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Land transport accidents,3
+2927,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Poisoning,18
+2928,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Falls,22
+2929,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,"Struck by,against",0
+2930,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Crushing,0
+2931,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Scalds,0
+2932,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Accidental exposure,4
+2933,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Other,4
+2935,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Land transport accidents,1
+2936,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Poisoning,25
+2937,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Falls,11
+2938,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,"Struck by,against",0
+2939,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Crushing,0
+2940,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Scalds,0
+2941,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Accidental exposure,3
+2942,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Other,3
+2944,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Land transport accidents,2
+2945,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Poisoning,28
+2946,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Falls,21
+2947,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,"Struck by,against",0
+2948,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Crushing,0
+2949,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Scalds,0
+2950,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Accidental exposure,2
+2951,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Other,0
+2953,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Land transport accidents,3
+2954,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Poisoning,31
+2955,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Falls,20
+2956,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,"Struck by,against",0
+2957,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Crushing,0
+2958,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Scalds,0
+2959,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Accidental exposure,1
+2960,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Other,5
+2962,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Land transport accidents,1
+2963,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Poisoning,29
+2964,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Falls,18
+2965,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,"Struck by,against",0
+2966,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Crushing,0
+2967,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Scalds,0
+2968,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Accidental exposure,5
+2969,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Other,5
+2971,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Land transport accidents,5
+2972,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Poisoning,25
+2973,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Falls,14
+2974,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,"Struck by,against",0
+2975,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Crushing,0
+2976,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Scalds,0
+2977,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Accidental exposure,1
+2978,NHS Greater Glasgow and Clyde,West Dunbartonshire,2012,Other,2
+2980,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Land transport accidents,5
+2981,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Poisoning,10
+2982,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Falls,18
+2983,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,"Struck by,against",0
+2984,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Crushing,0
+2985,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Scalds,0
+2986,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Accidental exposure,3
+2987,NHS Greater Glasgow and Clyde,West Dunbartonshire,2013,Other,5
+2989,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Land transport accidents,6
+2990,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Poisoning,20
+2991,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Falls,10
+2992,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,"Struck by,against",0
+2993,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Crushing,0
+2994,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Scalds,0
+2995,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Accidental exposure,2
+2996,NHS Greater Glasgow and Clyde,West Dunbartonshire,2014,Other,2
+2998,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Land transport accidents,1
+2999,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Poisoning,11
+3000,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Falls,11
+3001,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,"Struck by,against",0
+3002,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Crushing,0
+3003,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Scalds,0
+3004,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Accidental exposure,1
+3005,NHS Greater Glasgow and Clyde,West Dunbartonshire,2015,Other,1
+3007,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Land transport accidents,3
+3008,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Poisoning,19
+3009,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Falls,23
+3010,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,"Struck by,against",0
+3011,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Crushing,0
+3012,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Scalds,0
+3013,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Accidental exposure,2
+3014,NHS Greater Glasgow and Clyde,West Dunbartonshire,2016,Other,1
+3016,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Land transport accidents,3
+3017,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Poisoning,18
+3018,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Falls,22
+3019,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,"Struck by,against",0
+3020,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Crushing,0
+3021,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Scalds,0
+3022,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Accidental exposure,4
+3023,NHS Greater Glasgow and Clyde,West Dunbartonshire,2017,Other,4
+3025,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Land transport accidents,1
+3026,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Poisoning,25
+3027,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Falls,11
+3028,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,"Struck by,against",0
+3029,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Crushing,0
+3030,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Scalds,0
+3031,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Accidental exposure,3
+3032,NHS Greater Glasgow and Clyde,West Dunbartonshire,2018,Other,3
+3034,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Land transport accidents,2
+3035,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Poisoning,28
+3036,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Falls,21
+3037,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,"Struck by,against",0
+3038,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Crushing,0
+3039,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Scalds,0
+3040,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Accidental exposure,2
+3041,NHS Greater Glasgow and Clyde,West Dunbartonshire,2019,Other,0
+3043,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Land transport accidents,3
+3044,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Poisoning,31
+3045,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Falls,20
+3046,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,"Struck by,against",0
+3047,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Crushing,0
+3048,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Scalds,0
+3049,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Accidental exposure,1
+3050,NHS Greater Glasgow and Clyde,West Dunbartonshire,2020,Other,5
+3052,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Land transport accidents,1
+3053,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Poisoning,29
+3054,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Falls,18
+3055,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,"Struck by,against",0
+3056,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Crushing,0
+3057,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Scalds,0
+3058,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Accidental exposure,5
+3059,NHS Greater Glasgow and Clyde,West Dunbartonshire,2021,Other,5
+3061,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Land transport accidents,1
+3062,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Poisoning,3
+3063,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Falls,13
+3064,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,"Struck by,against",0
+3065,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Crushing,0
+3066,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Scalds,0
+3067,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Accidental exposure,3
+3068,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Other,4
+3070,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Land transport accidents,1
+3071,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Poisoning,2
+3072,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Falls,20
+3073,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,"Struck by,against",0
+3074,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Crushing,0
+3075,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Scalds,0
+3076,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Accidental exposure,0
+3077,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Other,3
+3079,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Land transport accidents,2
+3080,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Poisoning,5
+3081,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Falls,17
+3082,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,"Struck by,against",0
+3083,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Crushing,0
+3084,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Scalds,0
+3085,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Accidental exposure,0
+3086,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Other,0
+3088,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Land transport accidents,2
+3089,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Poisoning,8
+3090,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Falls,17
+3091,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,"Struck by,against",0
+3092,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Crushing,0
+3093,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Scalds,0
+3094,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Accidental exposure,2
+3095,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Other,5
+3097,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Land transport accidents,3
+3098,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Poisoning,9
+3099,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Falls,29
+3100,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,"Struck by,against",0
+3101,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Crushing,0
+3102,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Scalds,0
+3103,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Accidental exposure,0
+3104,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Other,1
+3106,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Land transport accidents,0
+3107,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Poisoning,10
+3108,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Falls,25
+3109,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,"Struck by,against",0
+3110,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Crushing,0
+3111,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Scalds,0
+3112,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Accidental exposure,4
+3113,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Other,0
+3115,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Land transport accidents,0
+3116,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Poisoning,9
+3117,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Falls,11
+3118,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,"Struck by,against",0
+3119,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Crushing,0
+3120,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Scalds,0
+3121,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Accidental exposure,2
+3122,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Other,0
+3124,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Land transport accidents,2
+3125,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Poisoning,9
+3126,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Falls,21
+3127,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,"Struck by,against",0
+3128,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Crushing,0
+3129,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Scalds,0
+3130,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Accidental exposure,1
+3131,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Other,4
+3133,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Land transport accidents,2
+3134,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Poisoning,15
+3135,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Falls,24
+3136,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,"Struck by,against",0
+3137,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Crushing,0
+3138,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Scalds,0
+3139,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Accidental exposure,3
+3140,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Other,4
+3142,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Land transport accidents,1
+3143,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Poisoning,16
+3144,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Falls,15
+3145,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,"Struck by,against",0
+3146,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Crushing,0
+3147,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Scalds,0
+3148,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Accidental exposure,2
+3149,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Other,2
+3151,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Land transport accidents,1
+3152,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Poisoning,3
+3153,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Falls,13
+3154,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,"Struck by,against",0
+3155,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Crushing,0
+3156,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Scalds,0
+3157,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Accidental exposure,3
+3158,NHS Greater Glasgow and Clyde,East Dunbartonshire,2012,Other,4
+3160,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Land transport accidents,1
+3161,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Poisoning,2
+3162,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Falls,20
+3163,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,"Struck by,against",0
+3164,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Crushing,0
+3165,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Scalds,0
+3166,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Accidental exposure,0
+3167,NHS Greater Glasgow and Clyde,East Dunbartonshire,2013,Other,3
+3169,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Land transport accidents,2
+3170,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Poisoning,5
+3171,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Falls,17
+3172,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,"Struck by,against",0
+3173,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Crushing,0
+3174,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Scalds,0
+3175,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Accidental exposure,0
+3176,NHS Greater Glasgow and Clyde,East Dunbartonshire,2014,Other,0
+3178,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Land transport accidents,2
+3179,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Poisoning,8
+3180,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Falls,17
+3181,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,"Struck by,against",0
+3182,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Crushing,0
+3183,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Scalds,0
+3184,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Accidental exposure,2
+3185,NHS Greater Glasgow and Clyde,East Dunbartonshire,2015,Other,5
+3187,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Land transport accidents,3
+3188,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Poisoning,9
+3189,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Falls,29
+3190,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,"Struck by,against",0
+3191,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Crushing,0
+3192,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Scalds,0
+3193,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Accidental exposure,0
+3194,NHS Greater Glasgow and Clyde,East Dunbartonshire,2016,Other,1
+3196,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Land transport accidents,0
+3197,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Poisoning,10
+3198,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Falls,25
+3199,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,"Struck by,against",0
+3200,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Crushing,0
+3201,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Scalds,0
+3202,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Accidental exposure,4
+3203,NHS Greater Glasgow and Clyde,East Dunbartonshire,2017,Other,0
+3205,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Land transport accidents,0
+3206,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Poisoning,9
+3207,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Falls,11
+3208,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,"Struck by,against",0
+3209,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Crushing,0
+3210,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Scalds,0
+3211,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Accidental exposure,2
+3212,NHS Greater Glasgow and Clyde,East Dunbartonshire,2018,Other,0
+3214,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Land transport accidents,2
+3215,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Poisoning,9
+3216,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Falls,21
+3217,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,"Struck by,against",0
+3218,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Crushing,0
+3219,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Scalds,0
+3220,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Accidental exposure,1
+3221,NHS Greater Glasgow and Clyde,East Dunbartonshire,2019,Other,4
+3223,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Land transport accidents,2
+3224,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Poisoning,15
+3225,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Falls,24
+3226,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,"Struck by,against",0
+3227,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Crushing,0
+3228,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Scalds,0
+3229,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Accidental exposure,3
+3230,NHS Greater Glasgow and Clyde,East Dunbartonshire,2020,Other,4
+3232,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Land transport accidents,1
+3233,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Poisoning,16
+3234,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Falls,15
+3235,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,"Struck by,against",0
+3236,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Crushing,0
+3237,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Scalds,0
+3238,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Accidental exposure,2
+3239,NHS Greater Glasgow and Clyde,East Dunbartonshire,2021,Other,2
+3241,NHS Greater Glasgow and Clyde,Glasgow City,2012,Land transport accidents,11
+3242,NHS Greater Glasgow and Clyde,Glasgow City,2012,Poisoning,113
+3243,NHS Greater Glasgow and Clyde,Glasgow City,2012,Falls,69
+3244,NHS Greater Glasgow and Clyde,Glasgow City,2012,"Struck by,against",0
+3245,NHS Greater Glasgow and Clyde,Glasgow City,2012,Crushing,0
+3246,NHS Greater Glasgow and Clyde,Glasgow City,2012,Scalds,0
+3247,NHS Greater Glasgow and Clyde,Glasgow City,2012,Accidental exposure,8
+3248,NHS Greater Glasgow and Clyde,Glasgow City,2012,Other,23
+3250,NHS Greater Glasgow and Clyde,Glasgow City,2013,Land transport accidents,8
+3251,NHS Greater Glasgow and Clyde,Glasgow City,2013,Poisoning,113
+3252,NHS Greater Glasgow and Clyde,Glasgow City,2013,Falls,84
+3253,NHS Greater Glasgow and Clyde,Glasgow City,2013,"Struck by,against",0
+3254,NHS Greater Glasgow and Clyde,Glasgow City,2013,Crushing,0
+3255,NHS Greater Glasgow and Clyde,Glasgow City,2013,Scalds,0
+3256,NHS Greater Glasgow and Clyde,Glasgow City,2013,Accidental exposure,9
+3257,NHS Greater Glasgow and Clyde,Glasgow City,2013,Other,25
+3259,NHS Greater Glasgow and Clyde,Glasgow City,2014,Land transport accidents,20
+3260,NHS Greater Glasgow and Clyde,Glasgow City,2014,Poisoning,106
+3261,NHS Greater Glasgow and Clyde,Glasgow City,2014,Falls,66
+3262,NHS Greater Glasgow and Clyde,Glasgow City,2014,"Struck by,against",0
+3263,NHS Greater Glasgow and Clyde,Glasgow City,2014,Crushing,0
+3264,NHS Greater Glasgow and Clyde,Glasgow City,2014,Scalds,0
+3265,NHS Greater Glasgow and Clyde,Glasgow City,2014,Accidental exposure,14
+3266,NHS Greater Glasgow and Clyde,Glasgow City,2014,Other,18
+3268,NHS Greater Glasgow and Clyde,Glasgow City,2015,Land transport accidents,19
+3269,NHS Greater Glasgow and Clyde,Glasgow City,2015,Poisoning,147
+3270,NHS Greater Glasgow and Clyde,Glasgow City,2015,Falls,97
+3271,NHS Greater Glasgow and Clyde,Glasgow City,2015,"Struck by,against",1
+3272,NHS Greater Glasgow and Clyde,Glasgow City,2015,Crushing,0
+3273,NHS Greater Glasgow and Clyde,Glasgow City,2015,Scalds,0
+3274,NHS Greater Glasgow and Clyde,Glasgow City,2015,Accidental exposure,11
+3275,NHS Greater Glasgow and Clyde,Glasgow City,2015,Other,14
+3277,NHS Greater Glasgow and Clyde,Glasgow City,2016,Land transport accidents,17
+3278,NHS Greater Glasgow and Clyde,Glasgow City,2016,Poisoning,167
+3279,NHS Greater Glasgow and Clyde,Glasgow City,2016,Falls,96
+3280,NHS Greater Glasgow and Clyde,Glasgow City,2016,"Struck by,against",1
+3281,NHS Greater Glasgow and Clyde,Glasgow City,2016,Crushing,0
+3282,NHS Greater Glasgow and Clyde,Glasgow City,2016,Scalds,0
+3283,NHS Greater Glasgow and Clyde,Glasgow City,2016,Accidental exposure,11
+3284,NHS Greater Glasgow and Clyde,Glasgow City,2016,Other,21
+3286,NHS Greater Glasgow and Clyde,Glasgow City,2017,Land transport accidents,9
+3287,NHS Greater Glasgow and Clyde,Glasgow City,2017,Poisoning,187
+3288,NHS Greater Glasgow and Clyde,Glasgow City,2017,Falls,98
+3289,NHS Greater Glasgow and Clyde,Glasgow City,2017,"Struck by,against",0
+3290,NHS Greater Glasgow and Clyde,Glasgow City,2017,Crushing,0
+3291,NHS Greater Glasgow and Clyde,Glasgow City,2017,Scalds,0
+3292,NHS Greater Glasgow and Clyde,Glasgow City,2017,Accidental exposure,12
+3293,NHS Greater Glasgow and Clyde,Glasgow City,2017,Other,12
+3295,NHS Greater Glasgow and Clyde,Glasgow City,2018,Land transport accidents,19
+3296,NHS Greater Glasgow and Clyde,Glasgow City,2018,Poisoning,272
+3297,NHS Greater Glasgow and Clyde,Glasgow City,2018,Falls,112
+3298,NHS Greater Glasgow and Clyde,Glasgow City,2018,"Struck by,against",0
+3299,NHS Greater Glasgow and Clyde,Glasgow City,2018,Crushing,0
+3300,NHS Greater Glasgow and Clyde,Glasgow City,2018,Scalds,0
+3301,NHS Greater Glasgow and Clyde,Glasgow City,2018,Accidental exposure,13
+3302,NHS Greater Glasgow and Clyde,Glasgow City,2018,Other,19
+3304,NHS Greater Glasgow and Clyde,Glasgow City,2019,Land transport accidents,13
+3305,NHS Greater Glasgow and Clyde,Glasgow City,2019,Poisoning,272
+3306,NHS Greater Glasgow and Clyde,Glasgow City,2019,Falls,125
+3307,NHS Greater Glasgow and Clyde,Glasgow City,2019,"Struck by,against",0
+3308,NHS Greater Glasgow and Clyde,Glasgow City,2019,Crushing,0
+3309,NHS Greater Glasgow and Clyde,Glasgow City,2019,Scalds,0
+3310,NHS Greater Glasgow and Clyde,Glasgow City,2019,Accidental exposure,16
+3311,NHS Greater Glasgow and Clyde,Glasgow City,2019,Other,17
+3313,NHS Greater Glasgow and Clyde,Glasgow City,2020,Land transport accidents,12
+3314,NHS Greater Glasgow and Clyde,Glasgow City,2020,Poisoning,293
+3315,NHS Greater Glasgow and Clyde,Glasgow City,2020,Falls,103
+3316,NHS Greater Glasgow and Clyde,Glasgow City,2020,"Struck by,against",0
+3317,NHS Greater Glasgow and Clyde,Glasgow City,2020,Crushing,1
+3318,NHS Greater Glasgow and Clyde,Glasgow City,2020,Scalds,0
+3319,NHS Greater Glasgow and Clyde,Glasgow City,2020,Accidental exposure,18
+3320,NHS Greater Glasgow and Clyde,Glasgow City,2020,Other,18
+3322,NHS Greater Glasgow and Clyde,Glasgow City,2021,Land transport accidents,13
+3323,NHS Greater Glasgow and Clyde,Glasgow City,2021,Poisoning,299
+3324,NHS Greater Glasgow and Clyde,Glasgow City,2021,Falls,97
+3325,NHS Greater Glasgow and Clyde,Glasgow City,2021,"Struck by,against",0
+3326,NHS Greater Glasgow and Clyde,Glasgow City,2021,Crushing,0
+3327,NHS Greater Glasgow and Clyde,Glasgow City,2021,Scalds,0
+3328,NHS Greater Glasgow and Clyde,Glasgow City,2021,Accidental exposure,19
+3329,NHS Greater Glasgow and Clyde,Glasgow City,2021,Other,19
+3331,NHS Lanarkshire,South Lanarkshire,2012,Land transport accidents,13
+3332,NHS Lanarkshire,South Lanarkshire,2012,Poisoning,33
+3333,NHS Lanarkshire,South Lanarkshire,2012,Falls,52
+3334,NHS Lanarkshire,South Lanarkshire,2012,"Struck by,against",0
+3335,NHS Lanarkshire,South Lanarkshire,2012,Crushing,0
+3336,NHS Lanarkshire,South Lanarkshire,2012,Scalds,0
+3337,NHS Lanarkshire,South Lanarkshire,2012,Accidental exposure,4
+3338,NHS Lanarkshire,South Lanarkshire,2012,Other,5
+3340,NHS Lanarkshire,South Lanarkshire,2013,Land transport accidents,6
+3341,NHS Lanarkshire,South Lanarkshire,2013,Poisoning,42
+3342,NHS Lanarkshire,South Lanarkshire,2013,Falls,44
+3343,NHS Lanarkshire,South Lanarkshire,2013,"Struck by,against",0
+3344,NHS Lanarkshire,South Lanarkshire,2013,Crushing,0
+3345,NHS Lanarkshire,South Lanarkshire,2013,Scalds,0
+3346,NHS Lanarkshire,South Lanarkshire,2013,Accidental exposure,5
+3347,NHS Lanarkshire,South Lanarkshire,2013,Other,14
+3349,NHS Lanarkshire,South Lanarkshire,2014,Land transport accidents,12
+3350,NHS Lanarkshire,South Lanarkshire,2014,Poisoning,42
+3351,NHS Lanarkshire,South Lanarkshire,2014,Falls,46
+3352,NHS Lanarkshire,South Lanarkshire,2014,"Struck by,against",0
+3353,NHS Lanarkshire,South Lanarkshire,2014,Crushing,0
+3354,NHS Lanarkshire,South Lanarkshire,2014,Scalds,0
+3355,NHS Lanarkshire,South Lanarkshire,2014,Accidental exposure,7
+3356,NHS Lanarkshire,South Lanarkshire,2014,Other,9
+3358,NHS Lanarkshire,South Lanarkshire,2015,Land transport accidents,6
+3359,NHS Lanarkshire,South Lanarkshire,2015,Poisoning,28
+3360,NHS Lanarkshire,South Lanarkshire,2015,Falls,58
+3361,NHS Lanarkshire,South Lanarkshire,2015,"Struck by,against",1
+3362,NHS Lanarkshire,South Lanarkshire,2015,Crushing,0
+3363,NHS Lanarkshire,South Lanarkshire,2015,Scalds,0
+3364,NHS Lanarkshire,South Lanarkshire,2015,Accidental exposure,7
+3365,NHS Lanarkshire,South Lanarkshire,2015,Other,8
+3367,NHS Lanarkshire,South Lanarkshire,2016,Land transport accidents,12
+3368,NHS Lanarkshire,South Lanarkshire,2016,Poisoning,66
+3369,NHS Lanarkshire,South Lanarkshire,2016,Falls,59
+3370,NHS Lanarkshire,South Lanarkshire,2016,"Struck by,against",0
+3371,NHS Lanarkshire,South Lanarkshire,2016,Crushing,0
+3372,NHS Lanarkshire,South Lanarkshire,2016,Scalds,0
+3373,NHS Lanarkshire,South Lanarkshire,2016,Accidental exposure,6
+3374,NHS Lanarkshire,South Lanarkshire,2016,Other,9
+3376,NHS Lanarkshire,South Lanarkshire,2017,Land transport accidents,8
+3377,NHS Lanarkshire,South Lanarkshire,2017,Poisoning,51
+3378,NHS Lanarkshire,South Lanarkshire,2017,Falls,74
+3379,NHS Lanarkshire,South Lanarkshire,2017,"Struck by,against",0
+3380,NHS Lanarkshire,South Lanarkshire,2017,Crushing,0
+3381,NHS Lanarkshire,South Lanarkshire,2017,Scalds,0
+3382,NHS Lanarkshire,South Lanarkshire,2017,Accidental exposure,7
+3383,NHS Lanarkshire,South Lanarkshire,2017,Other,14
+3385,NHS Lanarkshire,South Lanarkshire,2018,Land transport accidents,11
+3386,NHS Lanarkshire,South Lanarkshire,2018,Poisoning,58
+3387,NHS Lanarkshire,South Lanarkshire,2018,Falls,71
+3388,NHS Lanarkshire,South Lanarkshire,2018,"Struck by,against",0
+3389,NHS Lanarkshire,South Lanarkshire,2018,Crushing,0
+3390,NHS Lanarkshire,South Lanarkshire,2018,Scalds,0
+3391,NHS Lanarkshire,South Lanarkshire,2018,Accidental exposure,3
+3392,NHS Lanarkshire,South Lanarkshire,2018,Other,2
+3394,NHS Lanarkshire,South Lanarkshire,2019,Land transport accidents,11
+3395,NHS Lanarkshire,South Lanarkshire,2019,Poisoning,64
+3396,NHS Lanarkshire,South Lanarkshire,2019,Falls,60
+3397,NHS Lanarkshire,South Lanarkshire,2019,"Struck by,against",0
+3398,NHS Lanarkshire,South Lanarkshire,2019,Crushing,0
+3399,NHS Lanarkshire,South Lanarkshire,2019,Scalds,0
+3400,NHS Lanarkshire,South Lanarkshire,2019,Accidental exposure,9
+3401,NHS Lanarkshire,South Lanarkshire,2019,Other,5
+3403,NHS Lanarkshire,South Lanarkshire,2020,Land transport accidents,9
+3404,NHS Lanarkshire,South Lanarkshire,2020,Poisoning,93
+3405,NHS Lanarkshire,South Lanarkshire,2020,Falls,48
+3406,NHS Lanarkshire,South Lanarkshire,2020,"Struck by,against",0
+3407,NHS Lanarkshire,South Lanarkshire,2020,Crushing,0
+3408,NHS Lanarkshire,South Lanarkshire,2020,Scalds,0
+3409,NHS Lanarkshire,South Lanarkshire,2020,Accidental exposure,9
+3410,NHS Lanarkshire,South Lanarkshire,2020,Other,9
+3412,NHS Lanarkshire,South Lanarkshire,2021,Land transport accidents,2
+3413,NHS Lanarkshire,South Lanarkshire,2021,Poisoning,97
+3414,NHS Lanarkshire,South Lanarkshire,2021,Falls,79
+3415,NHS Lanarkshire,South Lanarkshire,2021,"Struck by,against",0
+3416,NHS Lanarkshire,South Lanarkshire,2021,Crushing,0
+3417,NHS Lanarkshire,South Lanarkshire,2021,Scalds,0
+3418,NHS Lanarkshire,South Lanarkshire,2021,Accidental exposure,16
+3419,NHS Lanarkshire,South Lanarkshire,2021,Other,6
+3421,NHS Lanarkshire,South Lanarkshire,2012,Land transport accidents,13
+3422,NHS Lanarkshire,South Lanarkshire,2012,Poisoning,33
+3423,NHS Lanarkshire,South Lanarkshire,2012,Falls,52
+3424,NHS Lanarkshire,South Lanarkshire,2012,"Struck by,against",0
+3425,NHS Lanarkshire,South Lanarkshire,2012,Crushing,0
+3426,NHS Lanarkshire,South Lanarkshire,2012,Scalds,0
+3427,NHS Lanarkshire,South Lanarkshire,2012,Accidental exposure,4
+3428,NHS Lanarkshire,South Lanarkshire,2012,Other,5
+3430,NHS Lanarkshire,South Lanarkshire,2013,Land transport accidents,6
+3431,NHS Lanarkshire,South Lanarkshire,2013,Poisoning,42
+3432,NHS Lanarkshire,South Lanarkshire,2013,Falls,44
+3433,NHS Lanarkshire,South Lanarkshire,2013,"Struck by,against",0
+3434,NHS Lanarkshire,South Lanarkshire,2013,Crushing,0
+3435,NHS Lanarkshire,South Lanarkshire,2013,Scalds,0
+3436,NHS Lanarkshire,South Lanarkshire,2013,Accidental exposure,5
+3437,NHS Lanarkshire,South Lanarkshire,2013,Other,14
+3439,NHS Lanarkshire,South Lanarkshire,2014,Land transport accidents,12
+3440,NHS Lanarkshire,South Lanarkshire,2014,Poisoning,42
+3441,NHS Lanarkshire,South Lanarkshire,2014,Falls,46
+3442,NHS Lanarkshire,South Lanarkshire,2014,"Struck by,against",0
+3443,NHS Lanarkshire,South Lanarkshire,2014,Crushing,0
+3444,NHS Lanarkshire,South Lanarkshire,2014,Scalds,0
+3445,NHS Lanarkshire,South Lanarkshire,2014,Accidental exposure,7
+3446,NHS Lanarkshire,South Lanarkshire,2014,Other,9
+3448,NHS Lanarkshire,South Lanarkshire,2015,Land transport accidents,6
+3449,NHS Lanarkshire,South Lanarkshire,2015,Poisoning,28
+3450,NHS Lanarkshire,South Lanarkshire,2015,Falls,58
+3451,NHS Lanarkshire,South Lanarkshire,2015,"Struck by,against",1
+3452,NHS Lanarkshire,South Lanarkshire,2015,Crushing,0
+3453,NHS Lanarkshire,South Lanarkshire,2015,Scalds,0
+3454,NHS Lanarkshire,South Lanarkshire,2015,Accidental exposure,7
+3455,NHS Lanarkshire,South Lanarkshire,2015,Other,8
+3457,NHS Lanarkshire,South Lanarkshire,2016,Land transport accidents,12
+3458,NHS Lanarkshire,South Lanarkshire,2016,Poisoning,66
+3459,NHS Lanarkshire,South Lanarkshire,2016,Falls,59
+3460,NHS Lanarkshire,South Lanarkshire,2016,"Struck by,against",0
+3461,NHS Lanarkshire,South Lanarkshire,2016,Crushing,0
+3462,NHS Lanarkshire,South Lanarkshire,2016,Scalds,0
+3463,NHS Lanarkshire,South Lanarkshire,2016,Accidental exposure,6
+3464,NHS Lanarkshire,South Lanarkshire,2016,Other,9
+3466,NHS Lanarkshire,South Lanarkshire,2017,Land transport accidents,8
+3467,NHS Lanarkshire,South Lanarkshire,2017,Poisoning,51
+3468,NHS Lanarkshire,South Lanarkshire,2017,Falls,74
+3469,NHS Lanarkshire,South Lanarkshire,2017,"Struck by,against",0
+3470,NHS Lanarkshire,South Lanarkshire,2017,Crushing,0
+3471,NHS Lanarkshire,South Lanarkshire,2017,Scalds,0
+3472,NHS Lanarkshire,South Lanarkshire,2017,Accidental exposure,7
+3473,NHS Lanarkshire,South Lanarkshire,2017,Other,14
+3475,NHS Lanarkshire,South Lanarkshire,2018,Land transport accidents,11
+3476,NHS Lanarkshire,South Lanarkshire,2018,Poisoning,58
+3477,NHS Lanarkshire,South Lanarkshire,2018,Falls,71
+3478,NHS Lanarkshire,South Lanarkshire,2018,"Struck by,against",0
+3479,NHS Lanarkshire,South Lanarkshire,2018,Crushing,0
+3480,NHS Lanarkshire,South Lanarkshire,2018,Scalds,0
+3481,NHS Lanarkshire,South Lanarkshire,2018,Accidental exposure,3
+3482,NHS Lanarkshire,South Lanarkshire,2018,Other,2
+3484,NHS Lanarkshire,South Lanarkshire,2019,Land transport accidents,11
+3485,NHS Lanarkshire,South Lanarkshire,2019,Poisoning,64
+3486,NHS Lanarkshire,South Lanarkshire,2019,Falls,60
+3487,NHS Lanarkshire,South Lanarkshire,2019,"Struck by,against",0
+3488,NHS Lanarkshire,South Lanarkshire,2019,Crushing,0
+3489,NHS Lanarkshire,South Lanarkshire,2019,Scalds,0
+3490,NHS Lanarkshire,South Lanarkshire,2019,Accidental exposure,9
+3491,NHS Lanarkshire,South Lanarkshire,2019,Other,5
+3493,NHS Lanarkshire,South Lanarkshire,2020,Land transport accidents,9
+3494,NHS Lanarkshire,South Lanarkshire,2020,Poisoning,93
+3495,NHS Lanarkshire,South Lanarkshire,2020,Falls,48
+3496,NHS Lanarkshire,South Lanarkshire,2020,"Struck by,against",0
+3497,NHS Lanarkshire,South Lanarkshire,2020,Crushing,0
+3498,NHS Lanarkshire,South Lanarkshire,2020,Scalds,0
+3499,NHS Lanarkshire,South Lanarkshire,2020,Accidental exposure,9
+3500,NHS Lanarkshire,South Lanarkshire,2020,Other,9
+3502,NHS Lanarkshire,South Lanarkshire,2021,Land transport accidents,2
+3503,NHS Lanarkshire,South Lanarkshire,2021,Poisoning,97
+3504,NHS Lanarkshire,South Lanarkshire,2021,Falls,79
+3505,NHS Lanarkshire,South Lanarkshire,2021,"Struck by,against",0
+3506,NHS Lanarkshire,South Lanarkshire,2021,Crushing,0
+3507,NHS Lanarkshire,South Lanarkshire,2021,Scalds,0
+3508,NHS Lanarkshire,South Lanarkshire,2021,Accidental exposure,16
+3509,NHS Lanarkshire,South Lanarkshire,2021,Other,6
+3511,NHS Lanarkshire,North Lanarkshire,2012,Land transport accidents,10
+3512,NHS Lanarkshire,North Lanarkshire,2012,Poisoning,35
+3513,NHS Lanarkshire,North Lanarkshire,2012,Falls,43
+3514,NHS Lanarkshire,North Lanarkshire,2012,"Struck by,against",0
+3515,NHS Lanarkshire,North Lanarkshire,2012,Crushing,0
+3516,NHS Lanarkshire,North Lanarkshire,2012,Scalds,0
+3517,NHS Lanarkshire,North Lanarkshire,2012,Accidental exposure,4
+3518,NHS Lanarkshire,North Lanarkshire,2012,Other,5
+3520,NHS Lanarkshire,North Lanarkshire,2013,Land transport accidents,4
+3521,NHS Lanarkshire,North Lanarkshire,2013,Poisoning,41
+3522,NHS Lanarkshire,North Lanarkshire,2013,Falls,45
+3523,NHS Lanarkshire,North Lanarkshire,2013,"Struck by,against",0
+3524,NHS Lanarkshire,North Lanarkshire,2013,Crushing,0
+3525,NHS Lanarkshire,North Lanarkshire,2013,Scalds,0
+3526,NHS Lanarkshire,North Lanarkshire,2013,Accidental exposure,6
+3527,NHS Lanarkshire,North Lanarkshire,2013,Other,6
+3529,NHS Lanarkshire,North Lanarkshire,2014,Land transport accidents,6
+3530,NHS Lanarkshire,North Lanarkshire,2014,Poisoning,35
+3531,NHS Lanarkshire,North Lanarkshire,2014,Falls,52
+3532,NHS Lanarkshire,North Lanarkshire,2014,"Struck by,against",0
+3533,NHS Lanarkshire,North Lanarkshire,2014,Crushing,0
+3534,NHS Lanarkshire,North Lanarkshire,2014,Scalds,0
+3535,NHS Lanarkshire,North Lanarkshire,2014,Accidental exposure,11
+3536,NHS Lanarkshire,North Lanarkshire,2014,Other,7
+3538,NHS Lanarkshire,North Lanarkshire,2015,Land transport accidents,8
+3539,NHS Lanarkshire,North Lanarkshire,2015,Poisoning,47
+3540,NHS Lanarkshire,North Lanarkshire,2015,Falls,58
+3541,NHS Lanarkshire,North Lanarkshire,2015,"Struck by,against",0
+3542,NHS Lanarkshire,North Lanarkshire,2015,Crushing,0
+3543,NHS Lanarkshire,North Lanarkshire,2015,Scalds,0
+3544,NHS Lanarkshire,North Lanarkshire,2015,Accidental exposure,8
+3545,NHS Lanarkshire,North Lanarkshire,2015,Other,15
+3547,NHS Lanarkshire,North Lanarkshire,2016,Land transport accidents,9
+3548,NHS Lanarkshire,North Lanarkshire,2016,Poisoning,59
+3549,NHS Lanarkshire,North Lanarkshire,2016,Falls,54
+3550,NHS Lanarkshire,North Lanarkshire,2016,"Struck by,against",0
+3551,NHS Lanarkshire,North Lanarkshire,2016,Crushing,0
+3552,NHS Lanarkshire,North Lanarkshire,2016,Scalds,0
+3553,NHS Lanarkshire,North Lanarkshire,2016,Accidental exposure,9
+3554,NHS Lanarkshire,North Lanarkshire,2016,Other,8
+3556,NHS Lanarkshire,North Lanarkshire,2017,Land transport accidents,5
+3557,NHS Lanarkshire,North Lanarkshire,2017,Poisoning,53
+3558,NHS Lanarkshire,North Lanarkshire,2017,Falls,72
+3559,NHS Lanarkshire,North Lanarkshire,2017,"Struck by,against",0
+3560,NHS Lanarkshire,North Lanarkshire,2017,Crushing,0
+3561,NHS Lanarkshire,North Lanarkshire,2017,Scalds,0
+3562,NHS Lanarkshire,North Lanarkshire,2017,Accidental exposure,6
+3563,NHS Lanarkshire,North Lanarkshire,2017,Other,13
+3565,NHS Lanarkshire,North Lanarkshire,2018,Land transport accidents,7
+3566,NHS Lanarkshire,North Lanarkshire,2018,Poisoning,72
+3567,NHS Lanarkshire,North Lanarkshire,2018,Falls,56
+3568,NHS Lanarkshire,North Lanarkshire,2018,"Struck by,against",0
+3569,NHS Lanarkshire,North Lanarkshire,2018,Crushing,0
+3570,NHS Lanarkshire,North Lanarkshire,2018,Scalds,0
+3571,NHS Lanarkshire,North Lanarkshire,2018,Accidental exposure,6
+3572,NHS Lanarkshire,North Lanarkshire,2018,Other,5
+3574,NHS Lanarkshire,North Lanarkshire,2019,Land transport accidents,12
+3575,NHS Lanarkshire,North Lanarkshire,2019,Poisoning,94
+3576,NHS Lanarkshire,North Lanarkshire,2019,Falls,72
+3577,NHS Lanarkshire,North Lanarkshire,2019,"Struck by,against",1
+3578,NHS Lanarkshire,North Lanarkshire,2019,Crushing,0
+3579,NHS Lanarkshire,North Lanarkshire,2019,Scalds,0
+3580,NHS Lanarkshire,North Lanarkshire,2019,Accidental exposure,10
+3581,NHS Lanarkshire,North Lanarkshire,2019,Other,9
+3583,NHS Lanarkshire,North Lanarkshire,2020,Land transport accidents,8
+3584,NHS Lanarkshire,North Lanarkshire,2020,Poisoning,90
+3585,NHS Lanarkshire,North Lanarkshire,2020,Falls,54
+3586,NHS Lanarkshire,North Lanarkshire,2020,"Struck by,against",0
+3587,NHS Lanarkshire,North Lanarkshire,2020,Crushing,0
+3588,NHS Lanarkshire,North Lanarkshire,2020,Scalds,0
+3589,NHS Lanarkshire,North Lanarkshire,2020,Accidental exposure,8
+3590,NHS Lanarkshire,North Lanarkshire,2020,Other,13
+3592,NHS Lanarkshire,North Lanarkshire,2021,Land transport accidents,10
+3593,NHS Lanarkshire,North Lanarkshire,2021,Poisoning,80
+3594,NHS Lanarkshire,North Lanarkshire,2021,Falls,69
+3595,NHS Lanarkshire,North Lanarkshire,2021,"Struck by,against",0
+3596,NHS Lanarkshire,North Lanarkshire,2021,Crushing,0
+3597,NHS Lanarkshire,North Lanarkshire,2021,Scalds,0
+3598,NHS Lanarkshire,North Lanarkshire,2021,Accidental exposure,11
+3599,NHS Lanarkshire,North Lanarkshire,2021,Other,9

@@ -1,0 +1,9 @@
+{
+  "hospital":"Western General",
+  "location":{"city":"Edinburgh", "board":"NHS Lothian"},
+  "staff":[
+    {"name":"Pim", "age":34, "department":"ER", "shifts": ["day"]},
+    {"name":"Jannet", "age":54, "department":"Oncology", "shifts": ["day", "night"]},
+    {"name":"Aoife", "age":25, "department":"Oncology",  "shifts": ["night"]}
+	]
+}

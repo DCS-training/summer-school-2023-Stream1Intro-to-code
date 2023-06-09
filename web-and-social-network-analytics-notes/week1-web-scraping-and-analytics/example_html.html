@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.hipster {
+	background-color:black;
+	color:red;
+	padding:22px;
+}
+</style>
+    
+<script type="text/javascript">
+  var numberOfClicks = 0;
+  function clickedButton()
+  {
+      numberOfClicks += 1;
+    document.getElementById("clickableButton").text="GOOD JOB! You clicked me "+numberOfClicks+" times. If you reload the page I will go back to the original state :)"; 
+  }
+</script>
+
+</head>
+<body>
+
+
+
+<h1 title="A header">Example for Media and Web Analytics</h1>
+
+<p>Here you typically see some text.
+Ocassionaly, an URL is present <a href="http://www.ed.ac.uk">UoE</a>
+
+</p>
+    
+
+<h1 title="A header">Some other stuff</h1>
+
+<h2>3 Rows and 3 Columns:</h2>
+<table>
+  <tr>
+    <td>100</td>
+    <td>200</td>
+    <td>300</td>
+  </tr>
+  <tr id="middle_row">
+    <td>400</td>
+    <td >500</td>
+    <td>600</td>
+  </tr>
+  <tr>
+    <td>700</td>
+    <td>800</td>
+    <td>900</td>
+  </tr>
+</table>
+    
+<a id="clickableButton" href="#" target="none" onclick="clickedButton()">CLICK ME!</a>
+
+<div class="hipster">
+<h2>A Dangerous-Looking Header</h2>
+<p>
+I look like a paragraph Kylo Ren could have written.
+</p>
+</div>
+
+<div class="hipster">
+<h2>Another Dangerous-Looking Header</h2>
+<p>
+This one is not as scary.
+</p>
+</div>
+
+</body>
+</html>
